@@ -1,9 +1,11 @@
 using UnityEngine;
+
 using UnityEngine.InputSystem;
 using TMPro;
 public class PlayerController : MonoBehaviour
 {
     public float speed = 0;
+    public bool CanJump = false;
     public GameObject winTextObject;
     public TextMeshProUGUI countText;
     private Rigidbody rb; 
@@ -25,6 +27,11 @@ public class PlayerController : MonoBehaviour
     //Needs 3d vector in order to sphere to move so take 2d var
     Vector3 movement = new Vector3 (movementX, 0.0f, movementY);
    rb.AddForce(movement*speed); 
+    if (CanJump && Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame)
+    {
+        rb.AddForce(Vector3.up * 5, ForceMode.Impulse);
+        // CanJump = false; want to add a timer to this
+    }
    }
       
     
@@ -60,7 +67,11 @@ public class PlayerController : MonoBehaviour
          count= count +1;
          SetCountText();
        }
-    
+    if (other.gameObject.CompareTag("Jump"))
+   {
+       CanJump = true;
+       other.gameObject.SetActive(false);
+   }
    }
 
 
@@ -74,6 +85,7 @@ private void OnCollisionEnter(Collision collision)
        winTextObject.gameObject.SetActive(true);
        winTextObject.GetComponent<TextMeshProUGUI>().text = "You Lose!";
    }
+   
 }
 
 
