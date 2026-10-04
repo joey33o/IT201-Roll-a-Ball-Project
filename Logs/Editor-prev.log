@@ -1,0 +1,1635 @@
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 18928)
+VBCSCompiler prewarm took 46.51 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/staging' branch; Version is '6000.6.2f1 (770e33f6875c) revision 7802419'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima" at "2026-09-23T19:31:55.5522951Z"
+OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 15892 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-09-23T19:31:55Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 27820, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              f3be57bd6dd1414ca27449ec5bad7a3a
+  Correlation Id:          466155009727ca88eef1ec107f6acaaa
+  External correlation Id: 7419751216675378316
+  Machine Id:              ZKKM2ZeYzcrC9nKecvcZNepNPWU=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-anima" (connect: 0.00s, validation: 0.01s, handshake: 0.21s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima-notifications" at "2026-09-23T19:31:55.7639907Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token LIapVmkW8k...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 2476051603492-jm2569-UnityProStuXXXX
+  Product: Unity Student
+  Type: Assigned
+  Expiration: 2027-09-23T20:25:38Z
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.02
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.26s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Unity.exe
+-projectpath
+C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-anima
+-hubSessionId
+f2cba529-1211-4366-bc50-ce5f17ce5929
+-accessToken
+LIapVmkW8kAIoMk7RhdOn4Lj12aHD5cB1EFuBG-BQmY002f
+Successfully changed project path to: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball
+C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [27456]  Target information:
+
+Player connection [27456]  * "[IP] 192.168.56.1 [Port] 55504 [Flags] 2 [Guid] 2825319495 [EditorId] 2825319495 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [27456]  * "[IP] 172.18.240.1 [Port] 55504 [Flags] 2 [Guid] 2825319495 [EditorId] 2825319495 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [27456]  * "[IP] 10.62.107.255 [Port] 55504 [Flags] 2 [Guid] 2825319495 [EditorId] 2825319495 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [27456] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [27456] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-31852" after 0.5 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 0512d8ef2f80477594e0b01c7ac6793e
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+Launching Unity Data Store - C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Tools/Unity.DataStore.exe 
+Unity Data Store artifact dir = Library/DataStore, working dir = C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Active build profile path: `Assets/Settings/Build Profiles/Web.asset`
+Unity Data Store running and initialised
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `m_BuildTarget`, value `20`
+Got setting from build profile YAML, name `m_Subtarget`, value `0`
+Initialize engine version: 6000.6.2f1 (770e33f6875c)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2860)
+    Vendor:   NVIDIA
+    VRAM:     7948 MB
+    Driver:   32.0.15.9608
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 1.283793 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  4.258 seconds
+Domain Reload Profiling: 11558ms
+	BeginReloadAssembly (692ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (14ms)
+	RebuildNativeTypeToScriptingClass (606ms)
+	initialDomainReloadingComplete (1770ms)
+	LoadAllAssembliesAndSetupDomain (4213ms)
+		LoadAssemblies (656ms)
+		TypeCache.Refresh (3940ms)
+			TypeCache.ScanAssembly (3290ms)
+		AnalyzeDomain (2ms)
+	FinalizeReload (4263ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (4ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			BeforeProcessingInitializeOnLoad (262ms)
+			ProcessInitializeOnLoadAttributes (237ms)
+			ProcessInitializeOnLoadMethodAttributes (1583ms)
+[Licensing::Client] Successfully resolved entitlement details
+Got setting from build profile YAML, name `Color Space`, value `1`
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 59 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.ai.navigation@2.0.14 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b)
+    com.unity.collab-proxy@2.13.6 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.collab-proxy@4628d2ba6ea4)
+    com.unity.ide.rider@3.0.38 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194)
+    com.unity.visualscripting@1.9.12 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.visualscripting@4edfcc09512f)
+    com.unity.searcher@4.9.5 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.profiling.core@8a49f7027d06)
+    com.unity.nuget.mono-cecil@1.11.6 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.6.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.render-pipelines.universal@1e1cf3dcbd40)
+    com.unity.test-framework@1.8.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.test-framework@7a3849e09bd0)
+    com.unity.timeline@6.6.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.timeline@c56d56b0070b)
+    com.unity.ugui@2.6.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.ugui@0f30cee369f3)
+    com.unity.modules.accessibility@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.1.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e)
+    com.unity.render-pipelines.core@17.6.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.render-pipelines.core@a14850be21a6)
+    com.unity.shadergraph@17.6.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.shadergraph@96a7923f6bed)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.graph-authoring@1.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee)
+    com.unity.burst@2.0.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.collections@10fff0607388)
+    com.unity.test-framework.performance@6.6.0 (location: C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Library\PackageCache\com.unity.test-framework.performance@0a60b857a52e)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.06 seconds
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.ComponentModel.Composition.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ComponentModel.Composition.dll"
+ExitCode: 0 Duration: 1s803ms
+[422/971    0s] WriteResponseFile Library/Bee/artifacts/rsp/4747638433968585886.rsp
+[757/971    1s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (1.64 seconds), 2 items updated, 971 evaluated
+AssetDatabase: script compilation time: 4.449446s
+Begin MonoManager ReloadAssembly
+Total cache size 135021189
+Total cache size after purge 135021189, took 00:00:00.4989569
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 152.06 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  2.160 seconds
+Domain Reload Profiling: 7805ms
+	BeginReloadAssembly (597ms)
+		DisableScriptedObjects (130ms)
+		CreateAndSetChildDomain (101ms)
+	RebuildCommonClasses (18ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (109ms)
+	LoadAllAssembliesAndSetupDomain (4891ms)
+		LoadAssemblies (4302ms)
+		TypeCache.Refresh (349ms)
+			TypeCache.ScanAssembly (322ms)
+		AnalyzeDomain (146ms)
+			BuildScriptInfoCaches (126ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (2162ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (6ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			BeforeProcessingInitializeOnLoad (237ms)
+			ProcessInitializeOnLoadAttributes (761ms)
+			ProcessInitializeOnLoadMethodAttributes (135ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (3ms)
+		AwakeInstancesAfterBackupRestoration (52ms)
+Starting new worker id: 0 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW0.log
+Refreshing native plugins compatible for Editor in 4.64 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=754d1e53f76c01e4fb3c5f680cff598d): Total: 30.648 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=19771 ms
+		Asset DB Callback time: managed=414 ms, native=122 ms
+		Scripting: domain reloads=1, domain reload time=5758 ms, compile time=4453 ms, other=127 ms
+		Project Asset Count: scripts=1373, non-scripts=2322
+		Asset File Changes: new=0, changed=0, moved=0, deleted=1
+		Scan Filter Count: 0
+	InvokePackagesCallback: 106.887ms
+	ApplyChangesToAssetFolders: 1.522ms
+	Scan: 756.505ms
+	Collect global state as custom dependencies: 59.752ms
+	OnSourceAssetsModified: 1.246ms
+	CategorizeScriptCompilationAssets: 3848.298ms
+	ProcessAssetsWithTransientArtifactChanges: 149.882ms
+	CategorizeAssets: 98.482ms
+	CompileScripts: 4453.145ms
+	ImportOutOfDateAssets: 2354.682ms (2328.924ms without children)
+		ReloadNativeAssets: 0.355ms
+		UnloadImportedAssets: 1.278ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.270ms
+		ImportSchedulerStart: 22.846ms
+	PostProcessAllAssets: 416.945ms
+		VCAutoAddAssetPostprocess 4.520ms
+		XRBuildSystem.XRAssetImported 0.801ms
+		SpriteAtlasDatabase.OnAssetPostprocessCallback 0.180ms
+		MonoPostProcessAllAssets: 408.874ms
+			AssetPostprocessor.OnPostprocessAllAssets 186.476ms
+			SyncVS.PostprocessSyncProject 80.522ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 39.403ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 33.225ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 13.284ms
+			AssetChangedListener.OnPostprocessAllAssets 10.872ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 3.984ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 3.894ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 3.039ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 2.480ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.691ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 1.293ms
+			MaterialPostprocessor.OnPostprocessAllAssets 1.275ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 1.134ms
+			PostProcessor.OnPostprocessAllAssets 0.936ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.864ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.855ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.633ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.571ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.561ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.555ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.554ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.486ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.482ms
+			AssetEvents.OnPostprocessAllAssets 0.399ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.336ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.334ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.320ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.314ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.310ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.303ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.256ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.255ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.128ms
+	PostAssetChangesProfiler: 17.206ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.209ms
+	UnloadStreamsBegin: 2.578ms
+	PersistCurrentRevisions: 0.479ms
+	GenerateScriptTypeHashes: 2.269ms
+	GenerateScriptTypeSerializationHashes: 4.063ms
+	Untracked: 18309.547ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Scanning for USB devices : 2.155ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Roll-a-Ball
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/minigame.unity'
+	Deserialize:            48.041 ms
+	Integration:            56.696 ms
+	Integration of assets:  0.025 ms
+	Thread Wait Time:       0.020 ms
+	Total Operation Time:   104.781 ms
+Unloading 6593 unused Assets / (8.5 MB). Loaded Objects now: 7777.
+Memory consumption went from 423.1 MB to 414.6 MB.
+Total: 29.343400 ms (FindLiveObjects: 1.247800 ms CreateObjectMapping: 0.636200 ms MarkObjects: 17.483800 ms  DeleteObjects: 7.123200 ms)
+
+[LAYOUT] About to load UserSettings\Layouts\default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/anima/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+<RI> Initializing input.
+Using Windows.Gaming.Input
+[Project] Loading completed in 66.561 seconds
+	Project init time: 				63.535 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.495 seconds
+		Asset Database init time: 		1.917 seconds
+		Global illumination init time: 	0.010 seconds
+		Assemblies load time: 			21.696 seconds
+		Unity extensions init time: 	0.070 seconds
+		Asset Database refresh time: 	30.650 seconds
+	Scene opening time: 			2.570 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1790191982034,"processId":31852,"projectLoad":66.56074219999999,"projectInit":63.5348488,"templateInit":0.0,"packageManagerInit":0.4952464,"assetDatabaseInit":1.9167084,"globalIlluminationInit":0.0099897,"assembliesLoad":21.6963695,"unityExtensionsInit":0.0696426,"assetDatabaseRefresh":30.6496964,"sceneOpening":2.5701926}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1790191982035,"processId":31852,"editorVersion":"6000.6.2f1 (770e33f6875c)","branch":"6000.6/staging","buildType":"Release","platform":"Windows"}
+Worker ready: AssetImportWorkerHW0 0
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=c8021ab99ad24014f8b7870c2cc104ab): Total: 0.206 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Licensing::Client] Successfully resolved entitlement details
+Created GICache directory at C:/Users/anima/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.058s, timestamps: [69.473 - 69.530]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "LIapVmkW"... (expires: 2026-09-23T21:31:12Z)
+UPID Received 'efbe4be0-fe16-44e5-a1c5-d943951bcfa2'.
+[Licensing::Client] Successfully resolved entitlement details
+TrimDiskCacheJob: Current cache size 0mb
+Asset Pipeline Refresh (id=fac63fed5da3e0d4682642e6da1a0fa2): Total: 0.011 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.032 ms
+	Integration:            42.808 ms
+	Integration of assets:  0.007 ms
+	Thread Wait Time:       0.026 ms
+	Total Operation Time:   48.874 ms
+Unloading 58 unused Assets / (0.6 MB). Loaded Objects now: 8909.
+Memory consumption went from 0.62 GB to 0.61 GB.
+Total: 60.899900 ms (FindLiveObjects: 1.138700 ms CreateObjectMapping: 0.279700 ms MarkObjects: 57.076400 ms  DeleteObjects: 1.654300 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Starting new worker id: 1 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW1.log
+[Worker0] Imported GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0d3194084111cb4616aea0448edb11fc') in 0.2883564 seconds
+[Worker0] Imported GUID: 6be92caf8bbf4b3498bab03d0ff292c0 - Path: Assets/PreFabs/Pickup.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'c92bef7eda72d59e378916c85cd2ee03') in 0.1299168 seconds
+Worker ready: AssetImportWorkerHW1 1
+Asset Pipeline Refresh (id=1953ceb86aa24cd44be6c51073e9c27c): Total: 0.034 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=f69dc0a568f497a468d52538fa672357): Total: 0.008 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=764775cfd7ab22b4896cae41a7e95f87): Total: 0.011 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: PreviewImporter -> (ImportResultId: 'f92efdb3d9cddf15e044658306ad8165') in 0.0292699 seconds
+[Licensing::Client] Successfully resolved entitlement details
+
+[main 2026-09-23T19:35:24.035Z] StorageMainService: creating application shared storage
+[main 2026-09-23T19:35:24.243Z] [shared storage] Creating shared storage database at 'c:\Users\anima\.vscode-shared\sharedStorage\state.vscdb' (wasCreated: false)
+[main 2026-09-23T19:35:24.245Z] [shared storage] Initializing fallback application storage (path: c:\Users\anima\AppData\Roaming\Code\User\globalStorage\state.vscdb)
+[main 2026-09-23T19:35:24.303Z] [shared storage] Fallback application storage initialized with 183 items
+[main 2026-09-23T19:35:24.999Z] update#setState idle
+[main 2026-09-23T19:35:25.088Z] AgentHostProcessManager: agent host started
+[main 2026-09-23T19:35:25.949Z] [AgentHost:stderr] (node:14628) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+
+Unknown channel: agentHostClientByokLm
+Unknown channel: agentHostClientProxy
+(node:20568) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+Unknown channel: agentHostClientProxy
+Unknown channel: agentHostClientProxy
+[main 2026-09-23T19:35:55.118Z] update#setState checking for updates
+[main 2026-09-23T19:35:55.246Z] update#setState downloading
+[main 2026-09-23T19:36:15.015Z] update#setState downloaded
+[main 2026-09-23T19:36:29.375Z] Extension host with pid 33100 exited with code: 0, signal: unknown.
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+ExitCode: 0 Duration: 3s827ms
+[755/971    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[963/971    0s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll (+2 others)
+[965/971    2s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll, with 126 defines and 347 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[966/971    2s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll, with 124 defines and 375 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[969/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[970/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+*** Tundra build success (3.70 seconds), 6 items updated, 971 evaluated
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Total cache size 135021189
+Total cache size after purge 135021189, took 00:00:00.5301349
+Refreshing native plugins compatible for Editor in 8.28 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  3.420 seconds
+Domain Reload Profiling: 5679ms
+	BeginReloadAssembly (1200ms)
+		DisableScriptedObjects (289ms)
+		CreateAndSetChildDomain (451ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (144ms)
+	LoadAllAssembliesAndSetupDomain (864ms)
+		LoadAssemblies (353ms)
+		TypeCache.Refresh (22ms)
+		AnalyzeDomain (420ms)
+			BuildScriptInfoCaches (364ms)
+			ResolveRequiredComponents (48ms)
+	FinalizeReload (3422ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (4ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			BeforeProcessingInitializeOnLoad (399ms)
+			ProcessInitializeOnLoadAttributes (640ms)
+			ProcessInitializeOnLoadMethodAttributes (148ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (3ms)
+		AwakeInstancesAfterBackupRestoration (1328ms)
+Refreshing native plugins compatible for Editor in 3.09 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=334b0d9228bd5204ba32bf57e2e4e157): Total: 10.823 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=3695 ms
+		Asset DB Callback time: managed=127 ms, native=83 ms
+		Scripting: domain reloads=1, domain reload time=2447 ms, compile time=4469 ms, other=0 ms
+		Project Asset Count: scripts=1373, non-scripts=2322
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.102ms
+	InvokePackagesCallback: 5.418ms
+	ApplyChangesToAssetFolders: 0.613ms
+	Scan: 27.272ms
+	Collect global state as custom dependencies: 11.258ms
+	OnSourceAssetsModified: 2.915ms
+	CategorizeScriptCompilationAssets: 1.168ms
+	ProcessAssetsWithTransientArtifactChanges: 13.401ms
+	CategorizeAssets: 96.870ms
+	CompileScripts: 4469.160ms
+	ImportOutOfDateAssets: 3452.801ms (3443.059ms without children)
+		CollectScriptTypesHashes: 4.542ms
+		ReloadNativeAssets: 2.164ms
+		UnloadImportedAssets: 5.235ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.234ms
+		ImportSchedulerStart: 1.073ms
+	PostProcessAllAssets: 130.945ms
+		XRBuildSystem.XRAssetImported 1.680ms
+		PostProcessCallbackCreateDeferredMaterials 0.412ms
+		VCAutoAddAssetPostprocess 0.402ms
+		MonoPostProcessAllAssets: 125.793ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 31.581ms
+			SyncVS.PostprocessSyncProject 15.589ms
+			AssetChangedListener.OnPostprocessAllAssets 10.204ms
+			AssetPostprocessor.OnPostprocessAllAssets 9.266ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 9.024ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 3.475ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 3.238ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 2.466ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 2.334ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 1.924ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 1.751ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.740ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 1.468ms
+			MaterialPostprocessor.OnPostprocessAllAssets 1.339ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 1.042ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.981ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.939ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.681ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.617ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.592ms
+			PostProcessor.OnPostprocessAllAssets 0.555ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.490ms
+			AssetEvents.OnPostprocessAllAssets 0.457ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.437ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.404ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.299ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.298ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.278ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.271ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.270ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.239ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.211ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.207ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.141ms
+	PostAssetChangesProfiler: 75.831ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.454ms
+	UnloadStreamsBegin: 3.462ms
+	PersistCurrentRevisions: 0.220ms
+	GenerateScriptTypeHashes: 6.259ms
+	GenerateScriptTypeSerializationHashes: 10.754ms
+	Untracked: 2501.534ms
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.009 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 6.25 ms, found 4 plugins.
+Asset Pipeline Refresh (id=1203aba0f80a4634e88b296b39aeb17c): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+EndLayoutGroup: BeginLayoutGroup must be called first.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.GUILayoutUtility:EndLayoutGroup ()
+UnityEngine.GUILayout:EndVertical ()
+TMPro.TMP_PackageResourceImporter:OnGUI () (at ./Library/PackageCache/com.unity.ugui@0f30cee369f3/Runtime/TMP/TMP_PackageResourceImporter.cs:99)
+TMPro.TMP_PackageResourceImporterWindow:OnGUI () (at ./Library/PackageCache/com.unity.ugui@0f30cee369f3/Runtime/TMP/TMP_PackageResourceImporter.cs:268)
+UnityEditor.HostView:InvokeOnGUI (UnityEngine.Rect)
+UnityEditor.DockArea:DrawView (UnityEngine.Rect)
+UnityEditor.DockArea:OldOnGUI ()
+UnityEngine.UIElements.IMGUIContainer:DoOnGUI (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,bool,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,bool)
+UnityEngine.UIElements.IMGUIContainer:SendEventToIMGUIRaw (UnityEngine.UIElements.EventBase,bool,bool)
+UnityEngine.UIElements.IMGUIContainer:SendEventToIMGUI (UnityEngine.UIElements.EventBase,bool,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleEventBubbleUp (UnityEngine.UIElements.EventBase)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPathWithCompatibilityEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2)
+UnityEngine.UIElements.PointerUpEvent:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&)
+
+(Filename: ./Library/PackageCache/com.unity.ugui@0f30cee369f3/Runtime/TMP/TMP_PackageResourceImporter.cs Line: 99)
+
+EndLayoutGroup: BeginLayoutGroup must be called first.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.GUILayoutUtility:EndLayoutGroup ()
+UnityEditor.GUIView:EndOffsetArea ()
+UnityEditor.HostView:InvokeOnGUI (UnityEngine.Rect)
+UnityEditor.DockArea:DrawView (UnityEngine.Rect)
+UnityEditor.DockArea:OldOnGUI ()
+UnityEngine.UIElements.IMGUIContainer:DoOnGUI (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,bool,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,bool)
+UnityEngine.UIElements.IMGUIContainer:SendEventToIMGUIRaw (UnityEngine.UIElements.EventBase,bool,bool)
+UnityEngine.UIElements.IMGUIContainer:SendEventToIMGUI (UnityEngine.UIElements.EventBase,bool,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleEventBubbleUp (UnityEngine.UIElements.EventBase)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPathWithCompatibilityEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2)
+UnityEngine.UIElements.PointerUpEvent:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&)
+
+Importing 'GUID: f54d1bd14bd3ca042bd867b519fee8cc - Path: Assets/TextMesh Pro' with importer (DefaultImporter)
+Imported 'GUID: f54d1bd14bd3ca042bd867b519fee8cc' -> (Import Result ID: '8712daf9d3b95c72f186e30662b78988') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=07d54fd0b42542d364c57c8100cd7673 DependenciesID=81e348e08cfbf683260fce8968e354dc StaticDependenciesID=141731b302ee35f3505a729e05f04825 
+Importing 'GUID: 243e06394e614e5d99fab26083b707fa - Path: Assets/TextMesh Pro/Resources' with importer (DefaultImporter)
+Imported 'GUID: 243e06394e614e5d99fab26083b707fa' -> (Import Result ID: 'dba7fb4c2c9724c420a5231d03295920') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=337f7928f0a9e6d09ca17b3d2cadb9ff DependenciesID=34bb55da82317cbac54bff677ae4878c StaticDependenciesID=3af243cbefaac330f75f021e99720af8 
+Importing 'GUID: e9f693669af91aa45ad615fc681ed29f - Path: Assets/TextMesh Pro/Shaders' with importer (DefaultImporter)
+Imported 'GUID: e9f693669af91aa45ad615fc681ed29f' -> (Import Result ID: '8fcfbf574434906d6d183d24c485e008') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=e1a435da0e5a5132786c0692b655407b DependenciesID=0b779fab10f1da1f9c506a0e3ecf95bd StaticDependenciesID=212a099e704a75a37522cb1bf52f8800 
+Importing 'GUID: 6ab70aee4d56447429c680537fbf93ed - Path: Assets/TextMesh Pro/Fonts' with importer (DefaultImporter)
+Imported 'GUID: 6ab70aee4d56447429c680537fbf93ed' -> (Import Result ID: 'dfa207cbd2e4fc08f2fce45ce3fbe99f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=31a627b057c18a7022d98fc12eca437c DependenciesID=23756c0753be09958db7288b25e21b61 StaticDependenciesID=0ce0e8244de9f62eb32ae67cd1fdab53 
+Importing 'GUID: 731f1baa9d144a9897cb1d341c2092b8 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials' with importer (DefaultImporter)
+Imported 'GUID: 731f1baa9d144a9897cb1d341c2092b8' -> (Import Result ID: 'e8c3b288ed6b269d0dc4d3be481fc93f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=be71128b6e507064624e3531fc1104be DependenciesID=4772e1d0687cb4bfea2c68d6962b0f1d StaticDependenciesID=dbf992900be276aa47360e1afab0bad9 
+Importing 'GUID: 4aecb92fff08436c8303b10eab8da368 - Path: Assets/TextMesh Pro/Resources/Style Sheets' with importer (DefaultImporter)
+Imported 'GUID: 4aecb92fff08436c8303b10eab8da368' -> (Import Result ID: 'a91670a3ee9aa5653f7eb418413d0be1') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=654d6535d746c387e871080dd73d0049 DependenciesID=2bb88bdd738d6c036d0d42aa021852a4 StaticDependenciesID=ccf1d065662f39f93ebc99c8b6bdad8b 
+Importing 'GUID: 407bc68d299748449bbf7f48ee690f8d - Path: Assets/TextMesh Pro/Shaders/TMPro.cginc' with importer (ShaderIncludeImporter)
+Imported 'GUID: 407bc68d299748449bbf7f48ee690f8d' -> (Import Result ID: 'd227f2dd508ce61a689b34921e048c35') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=46a1927eb95741484c2d104891d14e5e DependenciesID=b4ff306b5e1616d41a9fb0ccb124ba0b StaticDependenciesID=eec1547f024763f4eab6bf4290b5a3da 
+Importing 'GUID: c334973cef89a9840b0b0c507e0377ab - Path: Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc' with importer (ShaderIncludeImporter)
+Imported 'GUID: c334973cef89a9840b0b0c507e0377ab' -> (Import Result ID: '941ca3ab0f2c9c9712307cd2f3bf3666') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=927d0fffe06b84ba422840e2831f6165 DependenciesID=75024ca808231fb9c3256a9b4e6aa291 StaticDependenciesID=d219936ba5ad2c559469fd2392b77617 
+Importing 'GUID: 96de908384869cd409c75efa351d5edf - Path: Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl' with importer (ShaderIncludeImporter)
+Imported 'GUID: 96de908384869cd409c75efa351d5edf' -> (Import Result ID: '15df072eca481a43676de02417dbfb62') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=d6f60797eddd41edf5a61b71d05d4077 DependenciesID=40917bbbe07273cba94539cbe8ce7da7 StaticDependenciesID=3f1fab26afef6012d4f96bbc8ac78196 
+Importing 'GUID: 3997e2241185407d80309a82f9148466 - Path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc' with importer (ShaderIncludeImporter)
+Imported 'GUID: 3997e2241185407d80309a82f9148466' -> (Import Result ID: '6fe094437061bd298fd555aade7610c3') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=c25f0464bdc49b204f1022ec115aee10 DependenciesID=8275019b884c6de5fced4d68339c67f9 StaticDependenciesID=d762073601b2acefe9900f689fc2f9a3 
+Importing 'GUID: d930090c0cd643c7b55f19a38538c162 - Path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc' with importer (ShaderIncludeImporter)
+Imported 'GUID: d930090c0cd643c7b55f19a38538c162' -> (Import Result ID: '3cb6cfc362a63fcfa483ba7595f09283') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=dfcddd3eeb30280548e7170739efda9b DependenciesID=6ec92dc8079733725bf7308024edd48c StaticDependenciesID=efce7f45d5ff52a2617d5a5a68bed86e 
+Importing 'GUID: a02a7d8c237544f1962732b55a9aebf1 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader' with importer (ShaderImporter)
+Imported 'GUID: a02a7d8c237544f1962732b55a9aebf1' -> (Import Result ID: '2e058b66b2b8025ed787f17d3cd18eef') in 0.031 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9da4d99d64ee918f939dd52f68d68a92 DependenciesID=618f0640f13bf81c88c30d80022ba8bc StaticDependenciesID=aba77a95c07a63c3eb5d7edd7ecbb2e4 
+Importing 'GUID: 0178fcb869bafef4690d177d31d17db8 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader' with importer (ShaderImporter)
+Imported 'GUID: 0178fcb869bafef4690d177d31d17db8' -> (Import Result ID: '4656ae8750308cbfa7af845798f555f9') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=62f4ea8677021feb82c75c34d858f4ff DependenciesID=7425847885fc819b3166783d42bf1db3 StaticDependenciesID=b395f17e22b97e232decd98d1446bb37 
+Importing 'GUID: 128e987d567d4e2c824d754223b3f3b0 - Path: Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader' with importer (ShaderImporter)
+Imported 'GUID: 128e987d567d4e2c824d754223b3f3b0' -> (Import Result ID: '566d6e217afc4b19c2f03e13070a7eb1') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e197bf0ef6881c359f093776a069e9f6 DependenciesID=5e27c98897688004ec0ee2e2ee5b8f66 StaticDependenciesID=a6bdefdff2bc423c1ea0bb27b11a69f4 
+Importing 'GUID: 14eb328de4b8eb245bb7cea29e4ac00b - Path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader' with importer (ShaderImporter)
+Imported 'GUID: 14eb328de4b8eb245bb7cea29e4ac00b' -> (Import Result ID: '18c3af4d8bd350789138a7c98cfd9baf') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=24e814dc0e0557731ff9963a59dc337e DependenciesID=320743903054e0814693dcd5e2f50706 StaticDependenciesID=0dc21b5bf94efb15c2ef9e7d861fcd75 
+Importing 'GUID: 85187c2149c549c5b33f0cdb02836b17 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader' with importer (ShaderImporter)
+Imported 'GUID: 85187c2149c549c5b33f0cdb02836b17' -> (Import Result ID: '8a50bdc361c55f57fbd0df6fd05bbd47') in 0.253 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9b926ee88c9f56485fa35fed374e7b79 DependenciesID=f221c423b620d1e541202502fce372d2 StaticDependenciesID=fa4371816394caa72e816ac76871b906 
+Importing 'GUID: b5ab6cb89ffa7004ca59c01dddd06493 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF SpaceWarp.shader' with importer (ShaderImporter)
+Imported 'GUID: b5ab6cb89ffa7004ca59c01dddd06493' -> (Import Result ID: '91de203f148a6c8f58923df6f1f17557') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4256d4b398ef916e75c777fbbb041640 DependenciesID=dfb259e1ead1b56d937aea04cf4552ea StaticDependenciesID=2fde26cb22fc85ccc5f83236b6419736 
+Importing 'GUID: f7ada0af4f174f0694ca6a487b8f543d - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader' with importer (ShaderImporter)
+Imported 'GUID: f7ada0af4f174f0694ca6a487b8f543d' -> (Import Result ID: '7238f6c8ee8c5b930b66274a92be95f8') in 0.460 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a961bbf4be07caabcd2847046a94400a DependenciesID=de8ef127a858c2c9792a57d27ae82fdd StaticDependenciesID=ede61b4875151285d735658afc2beda0 
+Importing 'GUID: 48bb5f55d8670e349b6e614913f9d910 - Path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader' with importer (ShaderImporter)
+Imported 'GUID: 48bb5f55d8670e349b6e614913f9d910' -> (Import Result ID: '5fd08fd51dfb27de9b4a4ee34e8534b0') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=237503f7db9b7abc10ec21e6170758a9 DependenciesID=f625304d1261d172734145bedc938999 StaticDependenciesID=70ad083497d642b308f90f2efa474f10 
+Importing 'GUID: 68e6db2ebdc24f95958faec2be5558d6 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF.shader' with importer (ShaderImporter)
+Imported 'GUID: 68e6db2ebdc24f95958faec2be5558d6' -> (Import Result ID: '877258df402426a3d1dd3fdebfbaf248') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f8cfd4e4a874e8c54e8729747e2f34b6 DependenciesID=9983649f09cf446db2af8e63814d66e1 StaticDependenciesID=e215a09018cd2c721b4761806dddceb5 
+Importing 'GUID: c8d12adcee749c344b8117cf7c7eb912 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader' with importer (ShaderImporter)
+Imported 'GUID: c8d12adcee749c344b8117cf7c7eb912' -> (Import Result ID: 'd027d9d5d1a41faf9642f86c0594bda4') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ccb58e7d4a5386aabd38761a30533511 DependenciesID=57cc369f8e7d69438eff80e6c02dd328 StaticDependenciesID=a8ec54940a758547332134bba24516f2 
+Importing 'GUID: 2ae3f84ba70f31a448850bf95ca45125 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SpaceWarp.shader' with importer (ShaderImporter)
+Imported 'GUID: 2ae3f84ba70f31a448850bf95ca45125' -> (Import Result ID: '901f6279782879ac3d5eb208a1febf61') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ff26e6b43ca05c3a1d893efd581d3006 DependenciesID=cf99951573fae781c78bc260c1254a54 StaticDependenciesID=bcfd1bb314cd186e83a27cfe1177033b 
+Importing 'GUID: 5c6f31a5a80ebc04f8bcfdeed8327fe1 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD SpaceWarp.shader' with importer (ShaderImporter)
+Imported 'GUID: 5c6f31a5a80ebc04f8bcfdeed8327fe1' -> (Import Result ID: '51b19d3990958cae0248eab49283d58f') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6e3cc1be0a24451c37af164d1dd1fe58 DependenciesID=6bfa61239e5e316e383488f3b8f3407c StaticDependenciesID=52f1d86df3477967f7f0acda294b07fc 
+Importing 'GUID: bc1ede39bf3643ee8e493720e4259791 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader' with importer (ShaderImporter)
+Imported 'GUID: bc1ede39bf3643ee8e493720e4259791' -> (Import Result ID: '589281d423693e196a8e0c3c97fe4182') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e170b98ca7f76161218af28c7bb7e2ed DependenciesID=cafd2a86439f2a3b3d5882c706b270bd StaticDependenciesID=b7e7b1c769b03bfc0e25022489e2e07e 
+Importing 'GUID: dd89cf5b9246416f84610a006f916af7 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader' with importer (ShaderImporter)
+Imported 'GUID: dd89cf5b9246416f84610a006f916af7' -> (Import Result ID: '8bc6b54a639848ae0174042c2c27b050') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6f0bf85cd711871e7cd810865d75d69f DependenciesID=5b883c27b77977bc2a5c908a16f4779f StaticDependenciesID=8a6fb65dd4b0639a26516685b0cd6348 
+Importing 'GUID: 1e3b057af24249748ff873be7fafee47 - Path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader' with importer (ShaderImporter)
+Imported 'GUID: 1e3b057af24249748ff873be7fafee47' -> (Import Result ID: 'db6df6adc62ed2ebc6c608e625dbd0ff') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e24c245dbab5776d092015d4be5153ac DependenciesID=74b2aa35961c871d84df88c16e6e950a StaticDependenciesID=b204e391030d8532ffc7155a07de0775 
+Importing 'GUID: fe393ace9b354375a9cb14cdbbc28be4 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader' with importer (ShaderImporter)
+Imported 'GUID: fe393ace9b354375a9cb14cdbbc28be4' -> (Import Result ID: '963557ee102aeb725f194cdc42cd7aba') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cbffa0f772c7c682a0a4c5536d5d9221 DependenciesID=cf891f560713ebc388c0f423f0ce9bda StaticDependenciesID=b12f5b390634301b2f377017288f8548 
+Importing 'GUID: 2f52e8cb070aaf94289b130df84e2882 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD SpaceWarp.shader' with importer (ShaderImporter)
+Imported 'GUID: 2f52e8cb070aaf94289b130df84e2882' -> (Import Result ID: 'b3287f9f18ce5dfdfffef609b5d38236') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7a29f4a80523c4188fdc8db4715ba863 DependenciesID=724105282f8a5546ed7c59482d8f0450 StaticDependenciesID=d7da0684559f65d10f01c883c3580ed8 
+Importing 'GUID: cf81c85f95fe47e1a27f6ae460cf182c - Path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader' with importer (ShaderImporter)
+Imported 'GUID: cf81c85f95fe47e1a27f6ae460cf182c' -> (Import Result ID: 'b2fc8c20cbc01a312d74adf0652f379c') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3375e2ed83fc1770e59c778527622495 DependenciesID=d5ad9fb4021da63f71a6542b8c4eeef3 StaticDependenciesID=0a2b64f4bb1ca0ce9dbb24e73b8ef954 
+Importing 'GUID: e73a58f6e2794ae7b1b7e50b7fb811b0 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat' with importer (NativeFormatImporter)
+Imported 'GUID: e73a58f6e2794ae7b1b7e50b7fb811b0' -> (Import Result ID: '22351b6fe615ff23095778099322d553') in 0.006 seconds [static dependencies only]. Details - ImportResultOutputID=c428cf535d72a5be5785afed635f9e54 DependenciesID=dcbdaa5568a5a5e02c3699aa51c51fad StaticDependenciesID=b2f246f6eeb574b51ca16791cd3972f5 
+Importing 'GUID: 79459efec17a4d00a321bdcc27bbc385 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 79459efec17a4d00a321bdcc27bbc385' -> (Import Result ID: 'ba50dd45a61d873a1b376c7fa2c4af4f') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2682b122d46e1a6b6bf23e29c4026251 DependenciesID=380f614febc0662e12e88e0f917496d3 StaticDependenciesID=41b6999c542dd9794842c3aefa332423 
+Serialized file "Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" contains a TrueTypeFontImporter object at version 2, below the supported minimum (4). Open and re-save the file to upgrade.
+Importing 'GUID: e3265ab4bf004d28a9537516768c1c75 - Path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf' with importer (TrueTypeFontImporter)
+Imported 'GUID: e3265ab4bf004d28a9537516768c1c75' -> (Import Result ID: '9972dc31fb98a11402fa8f1458f8485a') in 0.559 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=287058275687a0cb6586b2960b964c63 DependenciesID=3d5c12246705becdc22d25558b5bbe29 StaticDependenciesID=9cb9c18831ae635933df6326b5ae3140 
+Importing 'GUID: 124c112a6e8f1a54e8b0870e881b56d8 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph' with importer (ScriptedImporter : Unity.ShaderGraph.Editor:UnityEditor.ShaderGraph:ShaderGraphImporter)
+Imported 'GUID: 124c112a6e8f1a54e8b0870e881b56d8' -> (Import Result ID: 'dbd1669867868f19ddddb30493d7548f') in 2.286 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c90217ffc94f836d849fcdec262e08be DependenciesID=3fd50e76669ac2b49d1ab4b5841f8c49 StaticDependenciesID=50e118db922ba17c8aba2da19648ea4a 
+Importing 'GUID: a3d800b099a06e0478fb790c5e79057a - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph' with importer (ScriptedImporter : Unity.ShaderGraph.Editor:UnityEditor.ShaderGraph:ShaderGraphImporter)
+Imported 'GUID: a3d800b099a06e0478fb790c5e79057a' -> (Import Result ID: '2d53706a184194097771d61f32cb9b3c') in 0.653 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=666e5d0f8aaeb08d6c9ce918956b7487 DependenciesID=8b652ea22e36cfa7837338cd29422fe1 StaticDependenciesID=a6f5d35aa739bd082c3796f5d89dce92 
+Importing 'GUID: f63d574838ccfb44f84acc05fed0af48 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph' with importer (ScriptedImporter : Unity.ShaderGraph.Editor:UnityEditor.ShaderGraph:ShaderGraphImporter)
+WARNING: Shader Unsupported: 'TextMeshPro/SRP/TMP_SDF-HDRP UNLIT' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'TextMeshPro/SRP/TMP_SDF-HDRP UNLIT' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Imported 'GUID: f63d574838ccfb44f84acc05fed0af48' -> (Import Result ID: 'dfbfe3b4f07b37d10b09075f6ab7a365') in 0.048 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=36b999930be867466660cd6a23eedb0a DependenciesID=9abc1137d23b6dfa5bc941fed7e89076 StaticDependenciesID=3b1ecc38706259946933e91804cc5722 
+Importing 'GUID: ca2ed216f98028c4dae6c5224a952b3c - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph' with importer (ScriptedImporter : Unity.ShaderGraph.Editor:UnityEditor.ShaderGraph:ShaderGraphImporter)
+WARNING: Shader Unsupported: 'TextMeshPro/SRP/TMP_SDF-HDRP LIT' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'TextMeshPro/SRP/TMP_SDF-HDRP LIT' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Imported 'GUID: ca2ed216f98028c4dae6c5224a952b3c' -> (Import Result ID: '2720d125caff3c6d7fbe45518a2671ea') in 0.048 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c0880081b3d652082dd4fe71dcfc8547 DependenciesID=d3fdfc16f5e9c521751f6047fabc9cce StaticDependenciesID=d3443be7fea1ab593bdc27b4624b6bc5 
+Importing 'GUID: f952c082cb03451daed3ee968ac6c63e - Path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset' with importer (NativeFormatImporter)
+Imported 'GUID: f952c082cb03451daed3ee968ac6c63e' -> (Import Result ID: 'ac651d7984c68288d0e69f56e30e8f0f') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=a0ece0a9c498454841a18af31b0b9a41 DependenciesID=8d596c754299580c48537dd80955af32 StaticDependenciesID=24a632da1a35e992125fdb41a5f62bad 
+Importing 'GUID: 2e498d1c8094910479dc3e1b768306a4 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 2e498d1c8094910479dc3e1b768306a4' -> (Import Result ID: '594767e065be67de7511a036a7f9e94d') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=15c8c079d336d28f621b2cb41a27d1c5 DependenciesID=2a1087a6e13911eb3b7149f35fd2a528 StaticDependenciesID=b39e9398ebabaead3374994a6a0f6822 
+Importing 'GUID: 3f5b5dff67a942289a9defa416b206f3 - Path: Assets/TextMesh Pro/Resources/TMP Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 3f5b5dff67a942289a9defa416b206f3' -> (Import Result ID: '8ebe0fb86c15ad9d1e3fe8fe34aad3a5') in 0.005 seconds [static dependencies only]. Details - ImportResultOutputID=603efaa7f5869716d3b798bcf98e4051 DependenciesID=bb34636286dc8c40060ed25abb654566 StaticDependenciesID=44806fb80757889a50693f4eb230ac07 
+Importing 'GUID: 8f586378b4e144a9851e7b34d9b748ee - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 8f586378b4e144a9851e7b34d9b748ee' -> (Import Result ID: '1299350bea1bf08c888bdf4449f30694') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=cbfa3f1a3614d2631609046721426d07 DependenciesID=50ba76ff15b26facb63710723173c22d StaticDependenciesID=1473ac5895a2f6d44b30ac155258162f 
+Importing 'GUID: d82c1b31c7e74239bff1220585707d2b - Path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt' with importer (TextScriptImporter)
+Imported 'GUID: d82c1b31c7e74239bff1220585707d2b' -> (Import Result ID: 'ae47c18b96fcb81aa9c2ce84d6069478') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=accbd916521184ba52956bf5a3d569e8 DependenciesID=be87e060d2bf568c99219215b0d15428 StaticDependenciesID=eab78316816044ef656b5d8cdaf1f3fa 
+Importing 'GUID: fade42e8bc714b018fac513c043d323b - Path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt' with importer (TextScriptImporter)
+Imported 'GUID: fade42e8bc714b018fac513c043d323b' -> (Import Result ID: 'e70f5531d92f367a097dfb0a0a2f59e0') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=c8e4cb8494a571806026f46ac8e51867 DependenciesID=b68b3a300b7b57863a818365947d2d80 StaticDependenciesID=e2cd1f8fe0c327e1314ed548f89a1e0a 
+Importing 'GUID: 6e59c59b81ab47f9b6ec5781fa725d2c - Path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt' with importer (TextScriptImporter)
+Imported 'GUID: 6e59c59b81ab47f9b6ec5781fa725d2c' -> (Import Result ID: 'f4cfd38c40ddfe40e1882ffbe2b82743') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a7cf72e10b5334f76bceabe6ce29cc32 DependenciesID=ee3690583f4188d956a910e55c119296 StaticDependenciesID=cc9d7fc8aa195c5d30db41d4d39ad4d3 
+WARNING: Shader Unsupported: 'TextMeshPro/SRP/TMP_SDF-HDRP LIT' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'TextMeshPro/SRP/TMP_SDF-HDRP UNLIT' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+[Licensing::Client] Successfully resolved entitlement details
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 2.87 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=f1c5c8143f482034ea4ebd6ed74027d9): Total: 5.531 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=43 (actual=43, local cache=0, cache server=0)
+		Asset DB Process Time: managed=4 ms, native=4718 ms
+		Asset DB Callback time: managed=505 ms, native=302 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1379, non-scripts=2359
+		Asset File Changes: new=43, changed=43, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 1.136ms
+	ApplyChangesToAssetFolders: 0.144ms
+	Scan: 87.767ms
+	Collect global state as custom dependencies: 0.629ms
+	OnSourceAssetsModified: 24.195ms
+	CategorizeScriptCompilationAssets: 0.106ms
+	ProcessAssetsWithTransientArtifactChanges: 0.101ms
+	CategorizeAssets: 29.653ms
+	CompileScripts: 0.078ms
+	ImportOutOfDateAssets: 4590.574ms (2.577ms without children)
+		ImportManagerImport: 4586.471ms (54.516ms without children)
+			UpdateCategorizedAssets: 1.622ms
+		ReloadNativeAssets: 0.087ms
+		UnloadImportedAssets: 0.340ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.682ms
+		ImportSchedulerStart: 0.407ms
+	PostProcessAllAssets: 774.807ms
+		ShaderAssetModifiedCallback 268.742ms
+		VersionControlSettings.HiddenFilePostprocess 2.112ms
+		XRBuildSystem.XRAssetImported 0.864ms
+		PostprocessAssetsUpdateCachedIcon 0.399ms
+		ComputeShaderImportPostprocess 0.285ms
+		PostProcessCallbackCreateDeferredMaterials 0.144ms
+		RaytracingShaderImportPostprocess 0.112ms
+		BlockShaderImporter.PostprocessAllAssets 0.089ms
+		SpeedTreeImporter.PostprocessAllAssets 0.079ms
+		LocalizationDatabase.AssetDatabasePostprocessCallback 0.060ms
+		MonoPostProcessAllAssets: 498.575ms
+			SyncVS.PostprocessSyncProject 453.365ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 34.015ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 4.235ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 1.087ms
+			MaterialPostprocessor.OnPostprocessAllAssets 0.813ms
+			AssetChangedListener.OnPostprocessAllAssets 0.675ms
+			PostProcessor.OnPostprocessAllAssets 0.476ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.389ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.239ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.215ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.205ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.198ms
+	PostAssetChangesProfiler: 8.769ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.321ms
+	UnloadStreamsBegin: 2.707ms
+	PersistCurrentRevisions: 0.895ms
+	Untracked: 8.959ms
+
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Asset Pipeline Refresh (id=8a16a77562518a94e864ee85b68bdc97): Total: 0.016 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+[TMP Essential Resources] have been imported.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+TMPro.TMP_PackageResourceImporter:ImportCallback (string) (at ./Library/PackageCache/com.unity.ugui@0f30cee369f3/Runtime/TMP/TMP_PackageResourceImporter.cs:160)
+UnityEditor.AssetDatabase:Internal_CallImportPackageCompleted (string)
+
+(Filename: ./Library/PackageCache/com.unity.ugui@0f30cee369f3/Runtime/TMP/TMP_PackageResourceImporter.cs Line: 160)
+
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+GUILayout: Mismatched LayoutGroup.mouseMove
+GUILayout: Mismatched LayoutGroup.mouseMove
+GUILayout: Mismatched LayoutGroup.mouseMove
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.840 ms
+	Integration:            62.796 ms
+	Integration of assets:  0.007 ms
+	Thread Wait Time:       0.038 ms
+	Total Operation Time:   69.681 ms
+Unloading 85 unused Assets / (1.4 MB). Loaded Objects now: 9107.
+Memory consumption went from 0.67 GB to 0.67 GB.
+Total: 77.834200 ms (FindLiveObjects: 2.811200 ms CreateObjectMapping: 0.753700 ms MarkObjects: 71.526400 ms  DeleteObjects: 2.073100 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.233 ms
+	Integration:            42.150 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       0.041 ms
+	Total Operation Time:   44.428 ms
+Unloading 7 unused Assets / (0.6 MB). Loaded Objects now: 9099.
+Memory consumption went from 0.67 GB to 0.67 GB.
+Total: 59.131000 ms (FindLiveObjects: 1.114900 ms CreateObjectMapping: 0.264400 ms MarkObjects: 56.043200 ms  DeleteObjects: 0.925100 ms)
+
+Asset Pipeline Refresh (id=e24f60fcd7c5e284a915ff858195c7e4): Total: 0.038 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: PreviewImporter -> (ImportResultId: 'a7ef4f6c7ba873d7bd1b451fdf4147f0') in 0.0417471 seconds
+[Licensing::Client] Successfully resolved entitlement details
+
+[main 2026-09-23T19:42:38.859Z] StorageMainService: creating application shared storage
+[main 2026-09-23T19:42:39.041Z] [shared storage] Creating shared storage database at 'c:\Users\anima\.vscode-shared\sharedStorage\state.vscdb' (wasCreated: false)
+[main 2026-09-23T19:42:39.041Z] [shared storage] Initializing fallback application storage (path: c:\Users\anima\AppData\Roaming\Code\User\globalStorage\state.vscdb)
+[main 2026-09-23T19:42:39.126Z] [shared storage] Fallback application storage initialized with 183 items
+[main 2026-09-23T19:42:40.640Z] update#setState idle
+[main 2026-09-23T19:42:40.690Z] AgentHostProcessManager: agent host started
+[main 2026-09-23T19:42:41.246Z] vscode-file: Refused to load resource c:\Users\anima\AppData\Local\Programs\Microsoft VS Code\7debcd0e2a\resources\app\extensions\theme-seti\icons\seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/c:/Users/anima/AppData/Local/Programs/Microsoft%20VS%20Code/7debcd0e2a/resources/app/extensions/theme-seti/icons/seti.woff)
+[main 2026-09-23T19:42:41.731Z] [AgentHost:stderr] (node:35372) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+
+Unknown channel: agentHostClientByokLm
+Unknown channel: agentHostClientProxy
+Unknown channel: agentHostClientProxy
+(node:32496) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+Unknown channel: agentHostClientProxy
+[main 2026-09-23T19:43:11.733Z] update#setState checking for updates
+[main 2026-09-23T19:43:11.825Z] update#setState idle
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+ExitCode: 0 Duration: 7s773ms
+[755/971    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[963/971    1s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll (+2 others)
+[964/971    0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll, with 126 defines and 347 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[965/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[966/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[967/971    4s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[968/971    0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll, with 124 defines and 375 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[969/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+[970/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+*** Tundra build success (7.62 seconds), 9 items updated, 971 evaluated
+Total cache size 135021189
+Total cache size after purge 135021189, took 00:00:00.4647243
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 144.73 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  5.793 seconds
+Domain Reload Profiling: 11079ms
+	BeginReloadAssembly (2711ms)
+		DisableScriptedObjects (457ms)
+		CreateAndSetChildDomain (1546ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (47ms)
+	initialDomainReloadingComplete (226ms)
+	LoadAllAssembliesAndSetupDomain (2261ms)
+		LoadAssemblies (1468ms)
+		TypeCache.Refresh (33ms)
+		AnalyzeDomain (629ms)
+			BuildScriptInfoCaches (550ms)
+			ResolveRequiredComponents (72ms)
+	FinalizeReload (5796ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (11ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (735ms)
+			ProcessInitializeOnLoadAttributes (1132ms)
+			ProcessInitializeOnLoadMethodAttributes (246ms)
+			AfterProcessingInitializeOnLoad (23ms)
+			EditorAssembliesLoaded (7ms)
+		AwakeInstancesAfterBackupRestoration (2130ms)
+Refreshing native plugins compatible for Editor in 5.41 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=d05686990614a054aad0033d0133740b): Total: 64.677 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=6555 ms
+		Asset DB Callback time: managed=249 ms, native=134 ms
+		Scripting: domain reloads=1, domain reload time=35743 ms, compile time=21994 ms, other=0 ms
+		Project Asset Count: scripts=1379, non-scripts=2359
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 8.540ms
+	ApplyChangesToAssetFolders: 1.044ms
+	Scan: 243.424ms
+	Collect global state as custom dependencies: 27.883ms
+	OnSourceAssetsModified: 1.092ms
+	CategorizeScriptCompilationAssets: 0.172ms
+	ProcessAssetsWithTransientArtifactChanges: 22.321ms
+	CategorizeAssets: 156.797ms
+	CompileScripts: 21993.544ms
+	ImportOutOfDateAssets: 5968.028ms (5957.156ms without children)
+		CollectScriptTypesHashes: 10.042ms
+		ReloadNativeAssets: 4.163ms
+		UnloadImportedAssets: 0.437ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.699ms
+		ImportSchedulerStart: 4.520ms
+	PostProcessAllAssets: 256.903ms
+		XRBuildSystem.XRAssetImported 2.158ms
+		PostProcessCallbackCreateDeferredMaterials 0.538ms
+		VCAutoAddAssetPostprocess 0.289ms
+		WindowTitlePostprocess 0.274ms
+		ShaderAssetModifiedCallback 0.255ms
+		RaytracingShaderImportPostprocess 0.212ms
+		MonoPostProcessAllAssets: 249.441ms
+			SyncVS.PostprocessSyncProject 76.699ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 52.611ms
+			AssetChangedListener.OnPostprocessAllAssets 15.817ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 14.545ms
+			AssetPostprocessor.OnPostprocessAllAssets 12.084ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 6.870ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 5.149ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 4.414ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 3.724ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 2.896ms
+			MaterialPostprocessor.OnPostprocessAllAssets 2.689ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 2.461ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 2.358ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 1.854ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 1.632ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 1.605ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 1.465ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 1.377ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 1.301ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 1.119ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 1.085ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.801ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.713ms
+			AssetEvents.OnPostprocessAllAssets 0.686ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.662ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.574ms
+			PostProcessor.OnPostprocessAllAssets 0.549ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.490ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.486ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.461ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.441ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.426ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.389ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.212ms
+	PostAssetChangesProfiler: 123.004ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.477ms
+	PersistCurrentRevisions: 0.521ms
+	GenerateScriptTypeHashes: 7.582ms
+	GenerateScriptTypeSerializationHashes: 13.083ms
+	Untracked: 35825.209ms
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=d819d32e0ab77214cbeee95f9cfb319d): Total: 0.006 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.009 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 2.97 ms, found 4 plugins.
+Asset Pipeline Refresh (id=93cab65db1be7984a81ffb2ef5b79ada): Total: 0.078 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '0c18aa9d9a1fb7f262a8057ad04200ca') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=55f991b90defba87a5dbf3521b8d8451 StaticDependenciesID=ca2b78c4bed448fb55630d9c76a2a55a 
+Refreshing native plugins compatible for Editor in 2.96 ms, found 4 plugins.
+Asset Pipeline Refresh (id=2496dfe6f5ed5724fa200f9431f09044): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=c9b1aa9ba503e5345b82a130ba092e9f): Total: 0.025 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            21.762 ms
+	Integration:            61.332 ms
+	Integration of assets:  0.023 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   83.121 ms
+Unloading 197 unused Assets / (0.6 MB). Loaded Objects now: 9121.
+Memory consumption went from 0.68 GB to 0.67 GB.
+Total: 61.183100 ms (FindLiveObjects: 1.592300 ms CreateObjectMapping: 0.364300 ms MarkObjects: 55.198400 ms  DeleteObjects: 3.298600 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=b6757eeef8b69c54f81f7e958330dcc8): Total: 0.039 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=bc3c7dd2513fa914ab43f2f0bb34506c): Total: 0.011 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=e6167a4d8feff1b48a0b8d866a7cea59): Total: 0.011 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=8bcc0c4ea9d2880409f78cac2207afc0): Total: 0.012 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+[Worker0] Imported GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: PreviewImporter -> (ImportResultId: '43a4bf3d26ccf7791fc4aa766c0279ac') in 0.1949557 seconds
+
+Asset Pipeline Refresh (id=8fd918b8b831db845a09872b7bed9c6b): Total: 0.018 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+ExitCode: 0 Duration: 1s472ms
+[755/971    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[963/971    0s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll (+2 others)
+[964/971    0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll, with 126 defines and 347 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[965/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[966/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[967/971    0s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[968/971    0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll, with 124 defines and 375 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[969/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[970/971    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (1.30 seconds), 9 items updated, 971 evaluated
+Reloading assemblies after forced synchronous recompile.
+Total cache size 135021189
+Begin MonoManager ReloadAssembly
+Total cache size after purge 135021189, took 00:00:00.3156835
+Refreshing native plugins compatible for Editor in 3.95 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  3.989 seconds
+Domain Reload Profiling: 6115ms
+	BeginReloadAssembly (1089ms)
+		DisableScriptedObjects (308ms)
+		CreateAndSetChildDomain (368ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (129ms)
+	LoadAllAssembliesAndSetupDomain (860ms)
+		LoadAssemblies (315ms)
+		TypeCache.Refresh (19ms)
+		AnalyzeDomain (408ms)
+			BuildScriptInfoCaches (347ms)
+			ResolveRequiredComponents (57ms)
+	FinalizeReload (3991ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (5ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			BeforeProcessingInitializeOnLoad (425ms)
+			ProcessInitializeOnLoadAttributes (671ms)
+			ProcessInitializeOnLoadMethodAttributes (163ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (3ms)
+		AwakeInstancesAfterBackupRestoration (1576ms)
+Refreshing native plugins compatible for Editor in 3.13 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=fdfd5429b62a4094b8269dceaf0e2d10): Total: 8.871 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=4315 ms
+		Asset DB Callback time: managed=129 ms, native=89 ms
+		Scripting: domain reloads=1, domain reload time=2303 ms, compile time=2032 ms, other=0 ms
+		Project Asset Count: scripts=1379, non-scripts=2359
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 9.163ms
+	ApplyChangesToAssetFolders: 0.906ms
+	Scan: 20.010ms
+	Collect global state as custom dependencies: 14.941ms
+	OnSourceAssetsModified: 0.113ms
+	CategorizeScriptCompilationAssets: 0.053ms
+	ProcessAssetsWithTransientArtifactChanges: 10.619ms
+	CategorizeAssets: 136.734ms
+	CompileScripts: 2032.152ms
+	ImportOutOfDateAssets: 4012.514ms (4006.387ms without children)
+		CollectScriptTypesHashes: 2.265ms
+		ReloadNativeAssets: 2.936ms
+		UnloadImportedAssets: 0.384ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.666ms
+		ImportSchedulerStart: 0.984ms
+	PostProcessAllAssets: 133.311ms
+		XRBuildSystem.XRAssetImported 1.126ms
+		PostProcessCallbackCreateDeferredMaterials 0.855ms
+		ShaderAssetModifiedCallback 0.528ms
+		MonoPostProcessAllAssets: 129.631ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 27.392ms
+			SyncVS.PostprocessSyncProject 15.834ms
+			AssetChangedListener.OnPostprocessAllAssets 14.170ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 10.157ms
+			AssetPostprocessor.OnPostprocessAllAssets 7.134ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 4.142ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 3.283ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 2.914ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 2.685ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 2.592ms
+			MaterialPostprocessor.OnPostprocessAllAssets 1.970ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 1.596ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 1.458ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 1.335ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 1.329ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.954ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.779ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.693ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.648ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.601ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.523ms
+			PostProcessor.OnPostprocessAllAssets 0.466ms
+			AssetEvents.OnPostprocessAllAssets 0.451ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.429ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.403ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.293ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.288ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.282ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.276ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.262ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.248ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.226ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.209ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.172ms
+	PostAssetChangesProfiler: 83.994ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.501ms
+	UnloadStreamsBegin: 0.107ms
+	PersistCurrentRevisions: 0.243ms
+	GenerateScriptTypeHashes: 6.669ms
+	GenerateScriptTypeSerializationHashes: 11.898ms
+	Untracked: 2379.850ms
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+[main 2026-09-23T22:40:16.487Z] update#setState checking for updates
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: services.unity.com
+UnityConnectWebRequestException: Token Exchange failed due a failure with the web request.
+  at UnityEditor.Connect.TokenExchange.VerifyTokenExchangeResponse (UnityEngine.Networking.UnityWebRequest exchangeRequest) [0x00014] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.TokenExchange.TokenExchangeRequestAsync (UnityEditor.Connect.TokenExchangeRequest tokenExchangeRequest, System.Threading.CancellationToken cancellationToken) [0x00195] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.TokenExchange.GetServiceTokenAsync (System.String genesisToken, System.Threading.CancellationToken cancellationToken) [0x0007b] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.ServiceToken.GetServiceTokenAsync (System.String genesisToken, System.Threading.CancellationToken cancellationToken) [0x000f3] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.UnityConnect.RequestNewServiceToken () [0x00080] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <c5ae8a4eeb824526b5df2932bc2395e0>:0 
+  at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00000] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00052] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x0000e] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&)
+
+Curl error 6: Could not resolve host: engine-data.services.api.unity.com
+Curl error 6: Could not resolve host: engine-data.services.api.unity.com
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 6: Could not resolve host: engine-data.services.api.unity.com
+Curl error 6: Could not resolve host: engine-data.services.api.unity.com
+Project ID request failed, Reason: Could not resolve host: services.unity.com (0).
+Unknown Unity Connect error (408). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/efbe4be0-fe16-44e5-a1c5-d943951bcfa2", HTTP error code 0
+.[Licensing::Client] Successfully resolved entitlement details
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+[main 2026-09-23T22:40:21.071Z] #4: https://update.code.visualstudio.com/api/update/win32-x64-user/stable/2242ebbb54efeeb0129e08e919e7e8d43033cd83?bg=true&u=none - error undefined net::ERR_NAME_NOT_RESOLVED
+[main 2026-09-23T22:40:21.073Z] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:139974)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+[main 2026-09-23T22:40:21.073Z] update#setState idle
+Curl error 6: Could not resolve host: services.unity.com
+UnityConnectWebRequestException: Token Exchange failed due a failure with the web request.
+  at UnityEditor.Connect.TokenExchange.VerifyTokenExchangeResponse (UnityEngine.Networking.UnityWebRequest exchangeRequest) [0x00014] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.TokenExchange.TokenExchangeRequestAsync (UnityEditor.Connect.TokenExchangeRequest tokenExchangeRequest, System.Threading.CancellationToken cancellationToken) [0x00195] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.TokenExchange.GetServiceTokenAsync (System.String genesisToken, System.Threading.CancellationToken cancellationToken) [0x0007b] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.ServiceToken.GetServiceTokenAsync (System.String genesisToken, System.Threading.CancellationToken cancellationToken) [0x000f3] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.UnityConnect.RequestNewServiceToken () [0x00080] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <c5ae8a4eeb824526b5df2932bc2395e0>:0 
+  at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00000] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00052] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x0000e] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&)
+
+Project ID request failed, Reason: Could not resolve host: services.unity.com (0).
+Unknown Unity Connect error (408). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/efbe4be0-fe16-44e5-a1c5-d943951bcfa2", HTTP error code 0
+.Scanning for USB devices : 3.140ms
+Scanning for USB devices : 1.438ms
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "mYdlvMD8"... (expires: 2026-09-24T00:40:09Z)
+Scanning for USB devices : 44.752ms
+Scanning for USB devices : 3.444ms
+Scanning for USB devices : 7.505ms
+Scanning for USB devices : 4.131ms
+Scanning for USB devices : 3.714ms
+UnityConnectWebRequestException: Token Exchange failed due a failure with the web request.
+  at UnityEditor.Connect.TokenExchange.VerifyTokenExchangeResponse (UnityEngine.Networking.UnityWebRequest exchangeRequest) [0x00014] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.TokenExchange.TokenExchangeRequestAsync (UnityEditor.Connect.TokenExchangeRequest tokenExchangeRequest, System.Threading.CancellationToken cancellationToken) [0x00195] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.TokenExchange.GetServiceTokenAsync (System.String genesisToken, System.Threading.CancellationToken cancellationToken) [0x0007b] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.ServiceToken.GetServiceTokenAsync (System.String genesisToken, System.Threading.CancellationToken cancellationToken) [0x000f3] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at UnityEditor.Connect.UnityConnect.RequestNewServiceToken () [0x00080] in <8cdd7d0792c04bfebb8b85be0af13f89>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <c5ae8a4eeb824526b5df2932bc2395e0>:0 
+  at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00000] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00052] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x0000e] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&)
+
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/efbe4be0-fe16-44e5-a1c5-d943951bcfa2", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+Scanning for USB devices : 2.499ms
+Asset Pipeline Refresh (id=265d5f4c3cb817c47a3755319448b17a): Total: 0.025 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Scanning for USB devices : 2.557ms
+Scanning for USB devices : 2.305ms
+Scanning for USB devices : 2.217ms
+[main 2026-09-23T23:36:17.277Z] Extension host with pid 19148 exited with code: 0, signal: unknown.
+Asset Pipeline Refresh (id=0fb93a659c4bc2a4095b8f646eb47f8b): Total: 0.004 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            14.036 ms
+	Integration:            43.885 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.119 ms
+	Total Operation Time:   58.049 ms
+Unloading 44 unused Assets / (32.6 KB). Loaded Objects now: 9123.
+Memory consumption went from 0.67 GB to 0.67 GB.
+Total: 46.521200 ms (FindLiveObjects: 0.653600 ms CreateObjectMapping: 0.131300 ms MarkObjects: 44.290400 ms  DeleteObjects: 1.035300 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=deee68f105c31e547babc8c12ac286ec): Total: 0.065 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'c65f72174cc7629e01d03f4ccfcbd22a') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=93592c9b1414a84d13455d0ebd232799 StaticDependenciesID=9c356a5478c427b4d985f266d7f7c659 
+Asset Pipeline Refresh (id=ed0aea217030e954dac915e630018680): Total: 0.085 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+MonoPathRemapper: Attempts to remap: 61059; Successful remaps: 19344
+Serialized file version minimum: 22, current 23
+[LAYOUT] About to save layout C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/anima/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-anima-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-anima channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+Shut down UDS service system complete
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+abort_threads: Failed aborting id: 000000000000877C, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 000000000000877C, mono_thread_manage will ignore it
+
+debugger-agent: Unable to listen on 2584
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1790206592455,"processId":31852,"allocatedMemory":18575991,"memoryLabels":[{"Default":223083},{"Permanent":15516},{"NewDelete":77249},{"Thread":4198024},{"Manager":824125},{"VertexData":8},{"Geometry":816},{"Shader":862467},{"Material":2576},{"TextureCache":152},{"GfxDevice":55968},{"Animation":952},{"Font":350245},{"FreeType":6868},{"FontEngine":736},{"Physics":1970},{"Physics2D":16},{"Serialization":18928},{"Input":45280},{"JobScheduler":256},{"TextLib":33919},{"Mono":48},{"MonoCode":128},{"ScriptingNativeRuntime":1363728},{"BaseObject":43600},{"Resource":1252},{"Renderer":2376},{"Transform":4685},{"File":37087},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":1320992},{"StaticString":3808},{"Utility":2675893},{"Curl":1436},{"PoolAlloc":2312},{"AI":80},{"TypeTree":637458},{"ScriptManager":31640},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":8016},{"WebRequest":4657},{"VR":49650},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"NativeArray":2160},{"Camera":729},{"Secure":265},{"SerializationCache":9256},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":768},{"Hierarchy":1188},{"UIElements":40},{"CoreStats":14456},{"Identifiers":7152},{"Gui":269080},{"EditorUtility":241357},{"VersionControl":8},{"Undo":931},{"AssetDatabase":4677015},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":37750},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"LocalIPC":260},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3600},{"Windowing":456},{"Licensing":12842},{"AssetReference":32},{"IPCStream":32}]}
