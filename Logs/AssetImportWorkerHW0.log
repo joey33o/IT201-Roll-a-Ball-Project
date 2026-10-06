@@ -932,3 +932,137 @@ Total: 7.387200 ms (FindLiveObjects: 0.782600 ms CreateObjectMapping: 0.376900 m
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
   graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:05:00.1421467Z
+  Time since last request: 3512.53479779999998 seconds.
+  importAddress: GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a403f8889b9ef6c4f921de41820fac7c' -> (Import Result ID: 'b05f09eadc66aea178c0e13b94806990') in 0.409 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5b8592d6cb0312408c12ac97984af9cc DependenciesID=2d18ba8b5432f28085e48ca803bc4e64 StaticDependenciesID=c2da380119a1a4f7444d60dcd3b5df62 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 4.33 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.977 seconds
+Domain Reload Profiling: 3219ms
+	BeginReloadAssembly (758ms)
+		DisableScriptedObjects (103ms)
+		CreateAndSetChildDomain (200ms)
+	RebuildCommonClasses (14ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (183ms)
+	LoadAllAssembliesAndSetupDomain (1265ms)
+		LoadAssemblies (986ms)
+		TypeCache.Refresh (20ms)
+		AnalyzeDomain (291ms)
+			BuildScriptInfoCaches (279ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (979ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (142ms)
+			ProcessInitializeOnLoadAttributes (341ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (7ms)
+		AwakeInstancesAfterBackupRestoration (50ms)
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6664 unused Assets / (5.9 MB). Loaded Objects now: 7693.
+Memory consumption went from 391.6 MB to 385.7 MB.
+Total: 12.509400 ms (FindLiveObjects: 1.272900 ms CreateObjectMapping: 0.417500 ms MarkObjects: 8.372600 ms  DeleteObjects: 2.170800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:10:08.727803Z
+  Time since last request: 308.07092929999999 seconds.
+  importAddress: GUID: 124c112a6e8f1a54e8b0870e881b56d8 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph - Importer: PreviewImporter
+Importing 'GUID: 124c112a6e8f1a54e8b0870e881b56d8 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 124c112a6e8f1a54e8b0870e881b56d8' -> (Import Result ID: 'dda5130253ef5fc46539646f131fc758') in 2.224 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1275bfd360e77f80f0312bc1f09e6345 DependenciesID=15f49c13f59f7e66ccfaafb33ec263c8 StaticDependenciesID=48daca995f9109c5debeffa987b07525 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:10:10.9797138Z
+  Time since last request: 0.0108754 seconds.
+  importAddress: GUID: ca2ed216f98028c4dae6c5224a952b3c - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph - Importer: PreviewImporter
+Importing 'GUID: ca2ed216f98028c4dae6c5224a952b3c - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: ca2ed216f98028c4dae6c5224a952b3c' -> (Import Result ID: 'c7f4878e64b82361f37055899f77100f') in 0.023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e84d343a8b808a4bda78ab9cd837d293 DependenciesID=ca30a6a5c830b38a01a68e22a4b9e260 StaticDependenciesID=4acad35b0f8d7c046bd37f7ed3b32e2d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:10:11.0195049Z
+  Time since last request: 0.0033885 seconds.
+  importAddress: GUID: e3265ab4bf004d28a9537516768c1c75 - Path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf - Importer: PreviewImporter
+Importing 'GUID: e3265ab4bf004d28a9537516768c1c75 - Path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: e3265ab4bf004d28a9537516768c1c75' -> (Import Result ID: '266fe1cfeaf3ab8844aba814e39c02e7') in 0.066 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=44aa50e8480703d8e4ddf5b900d0f513 DependenciesID=5c384b0414c28e4a5c76370f6ccd9a83 StaticDependenciesID=6f85f1847d8c60c6b63e91f03e4d0e10 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:10:11.1014715Z
+  Time since last request: 0.0000353 seconds.
+  importAddress: GUID: 79459efec17a4d00a321bdcc27bbc385 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat - Importer: PreviewImporter
+Importing 'GUID: 79459efec17a4d00a321bdcc27bbc385 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 79459efec17a4d00a321bdcc27bbc385' -> (Import Result ID: '3efb7c1b1b59bc209f12f9b68badc7a9') in 0.124 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fb0927117ba8b76594e838e7aed36139 DependenciesID=670b6129bef6c3d5cb8df8f560e18ede StaticDependenciesID=fc9629f01f55eb495942587f8f201ac6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:10:11.2401128Z
+  Time since last request: 0.0015319 seconds.
+  importAddress: GUID: e73a58f6e2794ae7b1b7e50b7fb811b0 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat - Importer: PreviewImporter
+Importing 'GUID: e73a58f6e2794ae7b1b7e50b7fb811b0 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: e73a58f6e2794ae7b1b7e50b7fb811b0' -> (Import Result ID: '57c4cb36477c994f2c3a2723aeb34cca') in 0.090 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=36f5a8320399c0f9e46c423a2eb7301b DependenciesID=835b10070529e4205ec4e7ceb0f8c586 StaticDependenciesID=d0942cdc377008b7111875ba81f772c9 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:10:11.3457516Z
+  Time since last request: 0.0009915 seconds.
+  importAddress: GUID: 987a129b6b0ab494c92ada585372f505 - Path: Assets/BOXOPHOBIC/Utils/Scene/Scene Skybox.mat - Importer: PreviewImporter
+Importing 'GUID: 987a129b6b0ab494c92ada585372f505 - Path: Assets/BOXOPHOBIC/Utils/Scene/Scene Skybox.mat - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 987a129b6b0ab494c92ada585372f505' -> (Import Result ID: '2f6c5288b1ddd96510def04bd33b359f') in 0.286 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=56559e6a42b060a1c99a3d3735649a7c DependenciesID=cd747dba389e4d4127a15b9f81a8b696 StaticDependenciesID=211331527b35109a681830df9ca9e116 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:10:11.6538801Z
+  Time since last request: 0.0038222 seconds.
+  importAddress: GUID: 8f586378b4e144a9851e7b34d9b748ee - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset - Importer: PreviewImporter
+Importing 'GUID: 8f586378b4e144a9851e7b34d9b748ee - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 8f586378b4e144a9851e7b34d9b748ee' -> (Import Result ID: '46f3737387d963e9c522f30b4878f346') in 0.042 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d861b2252f70c3d132ade42a5aaf8cac DependenciesID=a9f4427ba08d39c7b46c687944c1d27e StaticDependenciesID=903be5cf52d4a80c276d32951420acb1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:10:11.7095009Z
+  Time since last request: 0.0011943 seconds.
+  importAddress: GUID: 2e498d1c8094910479dc3e1b768306a4 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset - Importer: PreviewImporter
+Importing 'GUID: 2e498d1c8094910479dc3e1b768306a4 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 2e498d1c8094910479dc3e1b768306a4' -> (Import Result ID: 'c3fd8c939465db025fb0ddec9e2da9f5') in 0.015 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=de3b9b5f3064ade73deacbd671395302 DependenciesID=3cae84ab11fc37240bc692d0edbce699 StaticDependenciesID=5d966b296043ce5727d4c426c36d789c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0

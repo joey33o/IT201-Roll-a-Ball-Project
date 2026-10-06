@@ -2300,3 +2300,666 @@ Total: 25.415900 ms (FindLiveObjects: 0.675800 ms CreateObjectMapping: 0.211900 
 Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
 Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
 Asset Pipeline Refresh (id=dcd169d9cd65ddd448da306691f6e234): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=236f65c4a6f06274898ef4f973b64013): Total: 0.005 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=487b88e89a3e16847af61047ad6a9242): Total: 0.004 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=b34408c8dea19bc48b84fa0e783f9619): Total: 0.006 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/efbe4be0-fe16-44e5-a1c5-d943951bcfa2", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "CJUi23oY"... (expires: 2026-10-06T14:32:48Z)
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/efbe4be0-fe16-44e5-a1c5-d943951bcfa2", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received 'efbe4be0-fe16-44e5-a1c5-d943951bcfa2'.
+Asset Pipeline Refresh (id=92888eadcd57fc44ba34c6b6a4775cfe): Total: 0.012 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b05f09eadc66aea178c0e13b94806990') in 0.5135468 seconds
+[Worker1] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '31f0b8165afd8f1d0fcd54887c27389b') in 0.5171271 seconds
+Asset Pipeline Refresh (id=83c09412d76b9df4aa261863593bac07): Total: 0.012 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=e4f1fff17d12c7546aa943398a7acdb9): Total: 0.009 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[main 2026-10-06T13:07:16.408Z] update#setState checking for updates
+[main 2026-10-06T13:07:16.543Z] update#setState idle
+[ScriptCompilation] Requested script compilation because: Assembly Definition File(s) changed
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+ExitCode: 4 Duration: 0s388ms
+[757/971    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/2000b0aE-inputdata.json
+*** Tundra requires additional run (0.27 seconds), 1 items updated, 971 evaluated
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\DotNetSdk\dotnet.exe "C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\ScriptCompilationBuildProgram.exe" "Library/Bee/2000b0aE.dag.json" "Library/Bee/2000b0aE-inputdata.json" "Library\Bee\buildprogram0.traceevents"
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+ExitCode: 0 Duration: 3s868ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --dagfilejson="Library\Bee\2000b0aE.dag.json" --profile="Library/Bee/backend2.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+ExitCode: 0 Duration: 7s508ms
+Finished compiling graph: 1005 nodes, 19505 flattened edges (16589 ToBuild, 154 ToUse), maximum node priority 1056
+[ 504/1001  0s] WriteResponseFile Library/Bee/artifacts/rsp/2542454210037383380.rsp
+[ 518/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.SkyboxCubemapExtended.Editor.UnityAdditionalFile.txt
+[ 525/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.SkyboxCubemapExtended.Editor.dll.mvfrm.rsp
+[ 526/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Scripts.UnityAdditionalFile.txt
+[ 540/1001  0s] WriteResponseFile Library/Bee/artifacts/rsp/3037372816226278216.rsp
+[ 541/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.SkyboxCubemapExtended.Editor.rsp2
+[ 542/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.rsp
+[ 543/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.SkyboxCubemapExtended.Editor.rsp
+[ 544/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.rsp
+[ 545/1001  0s] WriteResponseFile Library/Bee/artifacts/rsp/10017656952941242526.rsp
+[ 546/1001  0s] WriteResponseFile Library/Bee/artifacts/rsp/6303508236527271660.rsp
+[ 547/1001  0s] WriteResponseFile Library/Bee/artifacts/rsp/5320200637817509319.rsp
+[ 548/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Scripts.rsp2
+[ 549/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Editor.rsp2
+[ 550/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Scripts.dll.mvfrm.rsp
+[ 551/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Editor.UnityAdditionalFile.txt
+[ 552/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Scripts.rsp
+[ 553/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Editor.dll.mvfrm.rsp
+[ 554/1001  0s] WriteText Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Editor.rsp
+[ 770/1001  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[ 978/1001  0s] MovedFromExtractor-Combine Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Scripts.dll.mvfrm
+[ 979/1001  0s] MovedFromExtractor-Combine Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Editor.dll.mvfrm
+[ 980/1001  0s] MovedFromExtractor-Combine Library/Bee/artifacts/2000b0aE.dag/Boxophobic.SkyboxCubemapExtended.Editor.dll.mvfrm
+[ 981/1001  2s] Csc Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Scripts.dll (+2 others)
+[ 982/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Boxophobic.Utils.Scripts.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Scripts.dll, with 126 defines and 302 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 983/1001  0s] CopyFiles Library/ScriptAssemblies/Boxophobic.Utils.Scripts.pdb
+[ 984/1001  0s] CopyFiles Library/ScriptAssemblies/Boxophobic.Utils.Scripts.dll
+[ 985/1001  3s] Csc Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Editor.dll (+2 others)
+[ 986/1001  0s] Csc Library/Bee/artifacts/2000b0aE.dag/Boxophobic.SkyboxCubemapExtended.Editor.dll (+2 others)
+[ 987/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Boxophobic.SkyboxCubemapExtended.Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Boxophobic.SkyboxCubemapExtended.Editor.dll, with 124 defines and 317 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 988/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Boxophobic.Utils.Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Editor.dll, with 124 defines and 316 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 989/1001  0s] CopyFiles Library/ScriptAssemblies/Boxophobic.SkyboxCubemapExtended.Editor.dll
+[ 990/1001  0s] CopyFiles Library/ScriptAssemblies/Boxophobic.SkyboxCubemapExtended.Editor.pdb
+[ 991/1001  0s] CopyFiles Library/ScriptAssemblies/Boxophobic.Utils.Editor.pdb
+[ 992/1001  0s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll (+2 others)
+[ 993/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll, with 126 defines and 350 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 994/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[ 995/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[ 996/1001  0s] CopyFiles Library/ScriptAssemblies/Boxophobic.Utils.Editor.dll
+[ 997/1001  0s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[ 998/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll, with 124 defines and 378 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 999/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1000/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (7.47 seconds), 43 items updated, 1001 evaluated
+Total cache size 135021189
+Total cache size after purge 135021189, took 00:00:00.3813770
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Importing 'GUID: 6157313c9a6fde548ac9461c4c767715 - Path: Assets/BOXOPHOBIC' with importer (DefaultImporter)
+Imported 'GUID: 6157313c9a6fde548ac9461c4c767715' -> (Import Result ID: '149e5642c09fedab6dca60f593356ff9') in 0.032 seconds [static dependencies only]. Details - ImportResultOutputID=a3fa25df77a5dc166bdd969c24d733d4 DependenciesID=95e5dabe8cc2197898cb59f2ed61995c StaticDependenciesID=031bfc26e1cc22a24c3a29fc8b3ea525 
+Importing 'GUID: 87f2a36082af25849bc09a748e1188c4 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended' with importer (DefaultImporter)
+Imported 'GUID: 87f2a36082af25849bc09a748e1188c4' -> (Import Result ID: '597f39b77698f41b8744b689374c00f3') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=ef0fb09c8ae34e81009ce169b3b768e0 DependenciesID=f35037cb92092a1691a4883f01d9a721 StaticDependenciesID=ee61071b88636a3ef8c36bf23d96347d 
+Importing 'GUID: 09703e247f713804ab97a4a6c7510ea7 - Path: Assets/BOXOPHOBIC/Utils' with importer (DefaultImporter)
+Imported 'GUID: 09703e247f713804ab97a4a6c7510ea7' -> (Import Result ID: '9450a6ac47762ee650792b2744f17414') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=17739599d5d5a16146f7e9252fa2592a DependenciesID=e395a04ff57f8bef3fa724617548ed1e StaticDependenciesID=2eb990595371dee1d95e436476596a7f 
+Importing 'GUID: b25d76ee19b704f4ea134505efb218e4 - Path: Assets/BOXOPHOBIC/Utils/Shaders' with importer (DefaultImporter)
+Imported 'GUID: b25d76ee19b704f4ea134505efb218e4' -> (Import Result ID: '7271edc6a6ffbd8c56d52b5954e46143') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=925a0f18dcb19373a775d1e5b4918b1b DependenciesID=e38fbb04289e7eec541d27e3473fcaec StaticDependenciesID=ea1d579430dfdbbc47eb40d3297647b8 
+Importing 'GUID: 34e988038a562554e90d32a5c11865ed - Path: Assets/BOXOPHOBIC/Utils/Gizmos' with importer (DefaultImporter)
+Imported 'GUID: 34e988038a562554e90d32a5c11865ed' -> (Import Result ID: '692f49fc330cc05fae07720f291abbf1') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=00520c5020b7571d57ce7244e58dd7c3 DependenciesID=653731e172fe9c3c8f0ec957a2a80435 StaticDependenciesID=0fd62c7c390c007e69b76c3a44bee81d 
+Importing 'GUID: 853bc634c610eb14790828d2a68970da - Path: Assets/BOXOPHOBIC/Utils/Scene' with importer (DefaultImporter)
+Imported 'GUID: 853bc634c610eb14790828d2a68970da' -> (Import Result ID: '844f6db173256d97b116ca386bd2e714') in 0.010 seconds [static dependencies only]. Details - ImportResultOutputID=090e7c4d1048d054280915a1689af777 DependenciesID=8be8cbf74d98cbd62c4731f84789f316 StaticDependenciesID=5555e2e51b4765ed897c5e20216f1fdb 
+Importing 'GUID: 8847cd3b74377bc499476aa945ee1525 - Path: Assets/BOXOPHOBIC/Utils/Settings' with importer (DefaultImporter)
+Imported 'GUID: 8847cd3b74377bc499476aa945ee1525' -> (Import Result ID: '7366c9b4a479c99bb6ed83a7c40e9660') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=28952c7cac5c66c584ed13ff17ce46e5 DependenciesID=b79cba8d65e6e4cdcb283b72015c90da StaticDependenciesID=c552979988dde57565b29e609a783168 
+Importing 'GUID: ade1c2302d29f7d4fa706ced5b7c5c3c - Path: Assets/BOXOPHOBIC/Utils/Scripts' with importer (DefaultImporter)
+Imported 'GUID: ade1c2302d29f7d4fa706ced5b7c5c3c' -> (Import Result ID: '0f5463456b4ab6e4286c52ac7b391476') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=b36d305ec995b001d5e0ad83aab2cbaa DependenciesID=747c53dfafa636e58599948ee7b1f398 StaticDependenciesID=5df1a91f28ee3b8e0cb6c81bb5bfbedc 
+Importing 'GUID: 8e6a1fbf81d704b418c6740e0fae13b5 - Path: Assets/BOXOPHOBIC/Utils/Editor' with importer (DefaultImporter)
+Imported 'GUID: 8e6a1fbf81d704b418c6740e0fae13b5' -> (Import Result ID: 'b78b3f76f70cd3409d05c7d25e4e26d9') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=1b1318bffb647a8c9d05219a2c8b119c DependenciesID=14d8d7c32b1696584ab8f4b423b906f2 StaticDependenciesID=7c373ba14a6a3d113d78f65b8119d408 
+Importing 'GUID: 0f0812cc35c661e4980b160c09004edb - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core' with importer (DefaultImporter)
+Imported 'GUID: 0f0812cc35c661e4980b160c09004edb' -> (Import Result ID: '1d1d70165841e34702712524db3ec016') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=dc5b0f52ff86895726e88d075ead5550 DependenciesID=1b662ff5c73ba21d767804204c76fa6f StaticDependenciesID=c584c867216904e8e2baf2e875b041b6 
+Importing 'GUID: a1492a16b65d5224391c64d74599fb2c - Path: Assets/BOXOPHOBIC/Utils/Scripts/Utility' with importer (DefaultImporter)
+Imported 'GUID: a1492a16b65d5224391c64d74599fb2c' -> (Import Result ID: 'a62808b35b357c4b5a12fa8e1fa2e3bd') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=3ceedd969ee5e1a8f7a37c05466e27f7 DependenciesID=91f41481711eda77378c359b00cf5048 StaticDependenciesID=bfb523e5742e70b2330d2c4382492676 
+Importing 'GUID: 1256899d1a62eca479b5e7db250928d1 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledMono' with importer (DefaultImporter)
+Imported 'GUID: 1256899d1a62eca479b5e7db250928d1' -> (Import Result ID: '0cd60994277e04bc7275ffd05799e95d') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=40496f0faff7c68e0e8876060f193b37 DependenciesID=11fb1c08bc6e0cc8eb0c021fa3c5f993 StaticDependenciesID=a358bfe69c874fe8bc90ee8657281175 
+Importing 'GUID: 42fc02e22d9e6e241a380b290fff2945 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector' with importer (DefaultImporter)
+Imported 'GUID: 42fc02e22d9e6e241a380b290fff2945' -> (Import Result ID: 'a30ad0d20dacd7cd927f1c59384c9f60') in 0.009 seconds [static dependencies only]. Details - ImportResultOutputID=e654106b2c0b323530e74570b677f6be DependenciesID=95df7a286c0b260556b9b79fff061317 StaticDependenciesID=ad11027e594679f078b2e83a580df355 
+Importing 'GUID: 137797bc7d5fd4548b7e6cfc0b180976 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions' with importer (DefaultImporter)
+Imported 'GUID: 137797bc7d5fd4548b7e6cfc0b180976' -> (Import Result ID: '3a3e6cc1bb6dd96b8e1f1862b79aad18') in 0.009 seconds [static dependencies only]. Details - ImportResultOutputID=9d729052fa52adda011e6841cec2c766 DependenciesID=e4f5b6f4f7a27180cd8db2c15d56a044 StaticDependenciesID=29d0e1de17ca225b62168de64cb603be 
+Importing 'GUID: 344829a1bbf98c245b5bcb97b6f90fe6 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor' with importer (DefaultImporter)
+Imported 'GUID: 344829a1bbf98c245b5bcb97b6f90fe6' -> (Import Result ID: '2e4e4d74155a3925c93b287c2db03f32') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=38401b96da91d900b2914bffacbea4d1 DependenciesID=c197bbfb1fb5d97a0494dbc609a970c0 StaticDependenciesID=8d7efdf7be0c41899976e3700f98932e 
+Importing 'GUID: 643644a768b7aac46b0fa360b0ce0615 - Path: Assets/BOXOPHOBIC/Utils/Scripts/Runtime' with importer (DefaultImporter)
+Imported 'GUID: 643644a768b7aac46b0fa360b0ce0615' -> (Import Result ID: '4d3bcef9a0ffdad72ebb0aa8c425160a') in 0.009 seconds [static dependencies only]. Details - ImportResultOutputID=67ea920194ac9a87d79b966f10bd5925 DependenciesID=13e081dc000d461b7dbf30c8444d9788 StaticDependenciesID=83a1fb082dafff5fd8512b9aa8a6d2af 
+Importing 'GUID: c612fe43fb699ff47b5cb3f5964917ef - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders' with importer (DefaultImporter)
+Imported 'GUID: c612fe43fb699ff47b5cb3f5964917ef' -> (Import Result ID: '5975bdec27779a878f33630e1f3b3ad3') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=709d254a1cb24d7d4050aa9f22487420 DependenciesID=0b1112a437ae3f21120348c06b478db3 StaticDependenciesID=fc685d92317556cf10606fc31264f4e2 
+Importing 'GUID: 37b546f334955db42b4e3bbfdaeddd8a - Path: Assets/BOXOPHOBIC/Utils/Editor/Notebox' with importer (DefaultImporter)
+Imported 'GUID: 37b546f334955db42b4e3bbfdaeddd8a' -> (Import Result ID: '4c0a635db4af9240b774623188d0f181') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=db286ce40b5212986179450cfd1965bc DependenciesID=a59edb58ca1d96f831d0410cae791b17 StaticDependenciesID=bbc2a62f0788c3cfacaaee9258af3c9f 
+Importing 'GUID: 973a89d961bf66545ad1cce84fc236df - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledGizmos' with importer (DefaultImporter)
+Imported 'GUID: 973a89d961bf66545ad1cce84fc236df' -> (Import Result ID: '2510d298eaa379672302de13ae78d3b3') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=905b7114a682b5916bf70c1767f5d2e7 DependenciesID=a157a054b467ae6524670093f0583e48 StaticDependenciesID=697b225bf743af68ba9c3173f571634f 
+Importing 'GUID: a748daf381c523a4ea12e61d2061088e - Path: Assets/BOXOPHOBIC/Utils/Editor/Constant' with importer (DefaultImporter)
+Imported 'GUID: a748daf381c523a4ea12e61d2061088e' -> (Import Result ID: '47df3834f4fb5249e3703606cf7e5a33') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=521af8fe1d619cf06cc5dcc5b8df3384 DependenciesID=b4df1ca29bb520d2a5b0f705098a0807 StaticDependenciesID=1dfd0c67ed4e41106dab0f443d487584 
+Importing 'GUID: 88a1c36348ad71a4081b6b895339ccff - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI' with importer (DefaultImporter)
+Imported 'GUID: 88a1c36348ad71a4081b6b895339ccff' -> (Import Result ID: 'f3c6cc106b3e2be0444dc36382365102') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=4c1a60cd0ebe4467966972357ff181ec DependenciesID=40867fd68f53bda10a0d486448aebcd1 StaticDependenciesID=2cf678b17ea7139f7ec8b90f59b2c482 
+Importing 'GUID: e805964d61d3a1843ac173844aec3377 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMono' with importer (DefaultImporter)
+Imported 'GUID: e805964d61d3a1843ac173844aec3377' -> (Import Result ID: '7ade9fe202580773ca1342f898cce088') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=5ce661d1c3e7bbd54e9538a4eeccbc39 DependenciesID=7bcf1362d110541e1c189d453a565a0f StaticDependenciesID=0eaa296ffa547b1678a58bc7e3ccd1b5 
+Importing 'GUID: 4a7d70b201e9b2b40a26b2891a3058f7 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector' with importer (DefaultImporter)
+Imported 'GUID: 4a7d70b201e9b2b40a26b2891a3058f7' -> (Import Result ID: 'cd00a9bc6e1c4d2097f0f694df6690cc') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=68e4c1c85f842b4895e766fefca9c7fa DependenciesID=0ffc6ff17661b0fef9f7a38b0dcf025f StaticDependenciesID=ae608b69e10c158836b1f3b4469bcc8e 
+Importing 'GUID: 3b79ad6fdb95ee64a93fd344af5cccd7 - Path: Assets/BOXOPHOBIC/Utils/Scripts/Notebox' with importer (DefaultImporter)
+Imported 'GUID: 3b79ad6fdb95ee64a93fd344af5cccd7' -> (Import Result ID: '9864b6770cf81a0d5f4eb5d0d22f70f5') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=bfaeb61d0afb62322bef4475583addbc DependenciesID=cf0964a2b7f98c5d4687afaa01f5aae5 StaticDependenciesID=e1b065100abd1aee4b2c6fbe16d9fccf 
+Importing 'GUID: 4c63145d395578c409f01ff805227d08 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial' with importer (DefaultImporter)
+Imported 'GUID: 4c63145d395578c409f01ff805227d08' -> (Import Result ID: 'f9975eda867e16f5cc529bd6741eb960') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=6033a8b084e6ce4cf7aa43adc043dee2 DependenciesID=b1f47b6a0545752d19fd2a30d52dd561 StaticDependenciesID=4bccb1a85e29b137f647e89e92dad565 
+Importing 'GUID: cc2f9353b0def934e9d0ae317fceac50 - Path: Assets/BOXOPHOBIC/Utils/Editor/SettingsUtils' with importer (DefaultImporter)
+Imported 'GUID: cc2f9353b0def934e9d0ae317fceac50' -> (Import Result ID: '8873b497eceb5277fd916ad6966ef7ee') in 0.008 seconds [static dependencies only]. Details - ImportResultOutputID=fa1d88f7867be4192ad29e5a810e0123 DependenciesID=63f9ee12764a0f6b4c831f07b25ca8e8 StaticDependenciesID=472479c88634832ba4d9b4f28b492797 
+Importing 'GUID: cd080eeb3cb8d2f40af3063d8b17942a - Path: Assets/BOXOPHOBIC/Utils/Scripts/SettingsUtils' with importer (DefaultImporter)
+Imported 'GUID: cd080eeb3cb8d2f40af3063d8b17942a' -> (Import Result ID: 'faa4e7b014eecac46adddb68c4e36c71') in 0.009 seconds [static dependencies only]. Details - ImportResultOutputID=e5c8f6793a8332ffbedd40a4ef78c52f DependenciesID=5400f0447ccfa7a6ed9ea63e32df4424 StaticDependenciesID=7068cf7a9baaae7d26d05b0a9dc69a45 
+Importing 'GUID: 10f1dd4cfd6afb54da274d7d818bd8f6 - Path: Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef' with importer (AssemblyDefinitionImporter)
+Imported 'GUID: 10f1dd4cfd6afb54da274d7d818bd8f6' -> (Import Result ID: '64e9bb11fd8b9e41ba5d6d4d9190c851') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=6ab788ebe56fb17848966cabca20ab35 DependenciesID=49d1652d5df05ac238bd500a96ed3d64 StaticDependenciesID=50da94e3004d2c4c5cb25359124b0e4f 
+Importing 'GUID: 825ad574da7360d4e8aea558f272972e - Path: Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef' with importer (AssemblyDefinitionImporter)
+Imported 'GUID: 825ad574da7360d4e8aea558f272972e' -> (Import Result ID: '1b96072c2bd94224608769c31c641c93') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=75ea7ff5b5f16a44125b82e0ab889bc4 DependenciesID=1ac45a9d08b4206b8e053f63557d4025 StaticDependenciesID=00c30a1af29794bd816c0f291fc3a0af 
+Importing 'GUID: 29bc400970c5066438cbde7676418b75 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef' with importer (AssemblyDefinitionImporter)
+Imported 'GUID: 29bc400970c5066438cbde7676418b75' -> (Import Result ID: '48b6cb06872162598325f7f18cd532b3') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2299e2b57eec23271f85b91d87288a48 DependenciesID=947f766adce7c5109eb52688b7d0916d StaticDependenciesID=45a38c9c4987163b3a859223cbbd97e4 
+Refreshing native plugins compatible for Editor in 5.21 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  2.608 seconds
+Domain Reload Profiling: 4665ms
+	BeginReloadAssembly (1222ms)
+		DisableScriptedObjects (298ms)
+		CreateAndSetChildDomain (455ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (175ms)
+	LoadAllAssembliesAndSetupDomain (612ms)
+		LoadAssemblies (377ms)
+		TypeCache.Refresh (20ms)
+		AnalyzeDomain (259ms)
+			BuildScriptInfoCaches (224ms)
+			ResolveRequiredComponents (32ms)
+	FinalizeReload (2610ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (5ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (358ms)
+			ProcessInitializeOnLoadAttributes (409ms)
+			ProcessInitializeOnLoadMethodAttributes (88ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (3ms)
+		AwakeInstancesAfterBackupRestoration (1088ms)
+Importing 'GUID: 0aca0e2d06b26544681357ef98393b10 - Path: Assets/BOXOPHOBIC/Utils/Utils.pdf' with importer (DefaultImporter)
+Imported 'GUID: 0aca0e2d06b26544681357ef98393b10' -> (Import Result ID: 'c619411635dbd1654ec8183057a22957') in 0.051 seconds [static dependencies only]. Details - ImportResultOutputID=8908f66890ebee2431d4d78a9dea9ee6 DependenciesID=4632fffe4e257d210b3ef0b802af0a5b StaticDependenciesID=006f9110b85810abec983b1304be5a74 
+Importing 'GUID: 5cbce0d58b9d6d147bde7b2601194b85 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf' with importer (DefaultImporter)
+Imported 'GUID: 5cbce0d58b9d6d147bde7b2601194b85' -> (Import Result ID: 'c8fc499086381b8d05d1e454b2cf453c') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=aa72ca7577d95f45ca22580396a908b6 DependenciesID=ff700e820111a630975d60428399b5f9 StaticDependenciesID=c954cd7994685060e55953d9e6b413d3 
+Importing 'GUID: 5d9dcd523b77e3f47955115799a3b880 - Path: Assets/BOXOPHOBIC/Utils/Scene/Scene Empty.unity' with importer (DefaultImporter)
+Imported 'GUID: 5d9dcd523b77e3f47955115799a3b880' -> (Import Result ID: '6307e87ec95ead7fb12ab4119f298749') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=cafac40ebb70175650c489dcc8a7fdb8 DependenciesID=b2ca77a82aec8effbc0cbca8705bdac8 StaticDependenciesID=811fd0d7eae2de970b6360f849e18466 
+Importing 'GUID: d8f8e3d7fed9c834b9feeb32026dff3e - Path: Assets/BOXOPHOBIC/Utils/Settings/HD Sky.exr' with importer (TextureImporter)
+Imported 'GUID: d8f8e3d7fed9c834b9feeb32026dff3e' -> (Import Result ID: '71fe23451bca0b74c2596e57d937f405') in 0.037 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=40457455cb3172447efa57ff996602e6 DependenciesID=aeeb334fccc6027f7bcc1b27632aa377 StaticDependenciesID=4dfb4694be3e3e20eef3210f4a271353 
+Importing 'GUID: 7a0d9f99b02cc8941a235c921fbe6266 - Path: Assets/BOXOPHOBIC/Utils/Gizmos/Notebox.psd' with importer (TextureImporter)
+Imported 'GUID: 7a0d9f99b02cc8941a235c921fbe6266' -> (Import Result ID: '766663f7b6428c05e93d390d2df9cd54') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=28e31c497021227289780754e5faab69 DependenciesID=3949d7cdbe8d3d1e41b527d1d2464e6f StaticDependenciesID=3a161106803dfc68ef72e414c8d1adf9 
+Importing 'GUID: 0f9def0f7e05709488f1ad256de55d9f - Path: Assets/BOXOPHOBIC/Utils/Gizmos/SettingsData.psd' with importer (TextureImporter)
+Imported 'GUID: 0f9def0f7e05709488f1ad256de55d9f' -> (Import Result ID: 'd7f5574ff369865f4a7ab4166126fa7d') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=67849940b6b21f3ef2c18eb06890c992 DependenciesID=993117ed37da110372718d810d01fe98 StaticDependenciesID=9b2dff6189a78f1218257e8390a920df 
+Importing 'GUID: 6fd05189f16020c478274741984eaa17 - Path: Assets/BOXOPHOBIC/Utils/Scene/Human.png' with importer (TextureImporter)
+Imported 'GUID: 6fd05189f16020c478274741984eaa17' -> (Import Result ID: 'ce410be9486b7db2cc77a8adfe95ae55') in 0.019 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1868f13720378496823f564c40c7b24e DependenciesID=69fd533d87b6cf999c2e5c46775bb328 StaticDependenciesID=fa716a2534f865d75c872c6ca26eb64a 
+Importing 'GUID: 82881a2d011b0964696411c822cdd00b - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Extended.shader' with importer (ShaderImporter)
+Imported 'GUID: 82881a2d011b0964696411c822cdd00b' -> (Import Result ID: '5e86492563791b1060430fa7128304b1') in 0.086 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=24380f8bac8c13f764e5d915bfd98f71 DependenciesID=2c1978de4596adaa73fbd8d8c0667ac0 StaticDependenciesID=d58d829933bb9127cd472b70fd4a3c63 
+Importing 'GUID: 23642b56d9212ec4ab7c226630a6de96 - Path: Assets/BOXOPHOBIC/Utils/Shaders/Channel Preview.shader' with importer (ShaderImporter)
+Imported 'GUID: 23642b56d9212ec4ab7c226630a6de96' -> (Import Result ID: 'cb42cca5e89dc4495959d990466be683') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7e5cfdca86bd8e80868fcf6a77b06fcd DependenciesID=1d03f55485ee9e06232ea909aeef0c60 StaticDependenciesID=b95331364c827ba01cc563bcf367e80d 
+Importing 'GUID: 7705790d9e8e16344ad5d7960c568904 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Blend.shader' with importer (ShaderImporter)
+Imported 'GUID: 7705790d9e8e16344ad5d7960c568904' -> (Import Result ID: 'cdec82f70030688dc45445a2f9893f42') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cfeadb01c98d9283d8ce9e202b412f7f DependenciesID=fb02dc4b299c721cdc0b6eddfe09f8f6 StaticDependenciesID=32b3560876a1c26106348d633f088168 
+Importing 'GUID: 106d1ca7c14e2a9448b78b58645c5c21 - Path: Assets/BOXOPHOBIC/Utils/Settings/Lighting Settings.lighting' with importer (NativeFormatImporter)
+LightingSettings: switching bake backend from 2 to 1.
+Imported 'GUID: 106d1ca7c14e2a9448b78b58645c5c21' -> (Import Result ID: '0fbb2865d7fecd99315418b905600398') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=44914e1ec517b5498c162901f2efbb0b DependenciesID=bb1a06309517c80d5fe053ebf4713fb7 StaticDependenciesID=709eea951a92951d702f186315d8977e 
+Importing 'GUID: 987a129b6b0ab494c92ada585372f505 - Path: Assets/BOXOPHOBIC/Utils/Scene/Scene Skybox.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 987a129b6b0ab494c92ada585372f505' -> (Import Result ID: 'f3cfbb343450b4f4fb7ef256c78f28ab') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=5d0a8d8260e76cc9aa530dfe829e405b DependenciesID=496c218972a92908ef1aa94976bec12f StaticDependenciesID=f7932faac3eb1f4f11a575f785dced1a 
+Importing 'GUID: a15c57a0379e088458f4b54715babf2b - Path: Assets/BOXOPHOBIC/Utils/Editor/Version.asset' with importer (NativeFormatImporter)
+Imported 'GUID: a15c57a0379e088458f4b54715babf2b' -> (Import Result ID: '306317d75ee5bf979c232c0ea3885b6f') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=3803021b07a8983c006be9db6e6cb33b DependenciesID=176fd5bb96f2fc2a4c1e6c57394bf267 StaticDependenciesID=7026fd2649aa91b9d6f87d68058ffd3e 
+Importing 'GUID: b1f4defd4f2942e458eb377c269e4f28 - Path: Assets/BOXOPHOBIC/Utils/Settings/Universal Volume Bloom.asset' with importer (NativeFormatImporter)
+Imported 'GUID: b1f4defd4f2942e458eb377c269e4f28' -> (Import Result ID: 'e4f6548e31e211f96f2d0027e76f8c0b') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=b14dfe5620cd02c68250f8f4d8dc15c5 DependenciesID=a227f627ad8c4ea551e5a5d33ad8a794 StaticDependenciesID=81825fed150f60b51b4f30116fc088ac 
+Importing 'GUID: f26e4e0ef587d0447975abf9f33ebb65 - Path: Assets/BOXOPHOBIC/Utils/Settings/HD Volume Low.asset' with importer (NativeFormatImporter)
+Imported 'GUID: f26e4e0ef587d0447975abf9f33ebb65' -> (Import Result ID: '5abcea0341747c247dc07a335ea66247') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=7c5549bd3a9500d466f34e5acaf63744 DependenciesID=abf58c164d63efa4f11db91765b6db2e StaticDependenciesID=489c92153f7a77e7a4b6d4466c25e7b5 
+Importing 'GUID: 93614ea46ae5aee48ab6d9b3524562f5 - Path: Assets/BOXOPHOBIC/Utils/Settings/Universal Volume.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 93614ea46ae5aee48ab6d9b3524562f5' -> (Import Result ID: '656b0895390af2b9470f15a6a25afa99') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=2b6e6fec08b9b0c6d06aaec5a90200d5 DependenciesID=b34a5e25fa8c3ba91ada59cb57e5b1d6 StaticDependenciesID=5f77414460491b57966694bdef2bca5a 
+Importing 'GUID: d547067a87ea5c64983ceba2dc497317 - Path: Assets/BOXOPHOBIC/Utils/Settings/HD Volume Day.asset' with importer (NativeFormatImporter)
+Imported 'GUID: d547067a87ea5c64983ceba2dc497317' -> (Import Result ID: '5004d6955c27c5a2e95d056d03c462ad') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=1996de30f1fee11d94efb3b7885ece3b DependenciesID=75f1b2f7d6ef4d7be42d1b66c58f0428 StaticDependenciesID=42060656703053718c067fa0c0feb3b9 
+Importing 'GUID: 693b7d13a80c93a4e8b791a9cd5e5ab2 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions/Compute Rotation Y.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 693b7d13a80c93a4e8b791a9cd5e5ab2' -> (Import Result ID: '14997a3d88c8c0c47e51bbf9c528d0a1') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=c6626731d8921787df657f4b3f19064f DependenciesID=2a33e35c0b7847d65eee4d597e620400 StaticDependenciesID=9bb3e16ac4322ccda0c00e1aee5a7f63 
+Importing 'GUID: 7b2bba9d34548bb4f991d6820c71a653 - Path: Assets/BOXOPHOBIC/Utils/Settings/Standard Volume.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 7b2bba9d34548bb4f991d6820c71a653' -> (Import Result ID: '68e6852bc6780dacb321aa507644a1ee') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=8c34d5e4f2f905199c6a79ee494a765b DependenciesID=bf39d1f778e395e5a78596caec426bf0 StaticDependenciesID=11fce639019adb56efd5bd1978b418c1 
+Importing 'GUID: cb530898cc05d744da0941d6160f7b92 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Version.asset' with importer (NativeFormatImporter)
+Imported 'GUID: cb530898cc05d744da0941d6160f7b92' -> (Import Result ID: '9af86f5d552f18f56eb4cb4e66d909ab') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=65848bb321e5c728b7ae24342e6e29fe DependenciesID=8cff9f5542c8229d862bdad5ee642463 StaticDependenciesID=fdfbdd4917beee04e92884d80f17c6f1 
+Importing 'GUID: 11ca8b95cee8f4347bc5cb70d28cee45 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Universal Low.prefab' with importer (PrefabImporter)
+Imported 'GUID: 11ca8b95cee8f4347bc5cb70d28cee45' -> (Import Result ID: 'f8fb01ec11d9c6d54011a17cf00dad83') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dc358ee7cdf5ce0663f1051bd9a3a22e DependenciesID=a4f2977372cd7feffecdb5d857ec7680 StaticDependenciesID=d73f5a6bdd50b67da0f7628767097c04 
+Importing 'GUID: 71aeaf565adbd554caa51fcac0588acc - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Universal.prefab' with importer (PrefabImporter)
+Imported 'GUID: 71aeaf565adbd554caa51fcac0588acc' -> (Import Result ID: '445309d2bcb1fae59721bfc80b8c2866') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f4dc9f15f12e8ef930f97118371596f3 DependenciesID=301c14d7fe34529f2a569afcf3c59b6f StaticDependenciesID=135ef6d61bf8589d3de4d1bad46b33a0 
+Importing 'GUID: b19cf3e7632ffd948902e7272af43a6c - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Universal Day.prefab' with importer (PrefabImporter)
+Imported 'GUID: b19cf3e7632ffd948902e7272af43a6c' -> (Import Result ID: '714c6f71ec7cf5cbab264ecf6ec231ba') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9c79ce7e6af24976bb8313feb066b526 DependenciesID=9cd9ecf5c05c52d8e8a3ab97cb7b1e2c StaticDependenciesID=964bd062fc6b8afd62b38c8efa26efd2 
+Importing 'GUID: 32cc595a7aade2749a61c144038a6379 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Standard.prefab' with importer (PrefabImporter)
+Imported 'GUID: 32cc595a7aade2749a61c144038a6379' -> (Import Result ID: 'e80ef2db862a1cd6652a539b2e89e935') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c4bf831ed05cd2578345461e21fa1c3b DependenciesID=5f7d0bf9c27af5de023f03fac940bf11 StaticDependenciesID=8339c301f57d668d3f6516dc57afd6f2 
+Importing 'GUID: b37e11a48a143ec469544df52085d526 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post HD Day.prefab' with importer (PrefabImporter)
+Imported 'GUID: b37e11a48a143ec469544df52085d526' -> (Import Result ID: '483743e119323710aa2d9fdff7aee944') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9fbbe653a7b81f55fd205051f304db38 DependenciesID=1b1c4bd5d09da634a743498730ec1ee4 StaticDependenciesID=9c7a8b042833c71943577c63ec072beb 
+Importing 'GUID: 3420996c453349c47b672ddcf35a6660 - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera HD.prefab' with importer (PrefabImporter)
+Imported 'GUID: 3420996c453349c47b672ddcf35a6660' -> (Import Result ID: 'f6ef56820ff13ade98db05e733ac5942') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d31a4a9dbaf9e47c7336c05296a62f2a DependenciesID=8060aa1155bed020a7b04d414ec48d20 StaticDependenciesID=f1fc4717cf3b1c0442d0e65d82f29ea6 
+Importing 'GUID: 94a823ba9229d074ea2da6c82a0077d0 - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera Standard.prefab' with importer (PrefabImporter)
+Imported 'GUID: 94a823ba9229d074ea2da6c82a0077d0' -> (Import Result ID: '366654678ab324cb57a3118498cd4088') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7c9b40512248b9e99b9441f4be5e5f20 DependenciesID=8488c61d1adb1fc3398de311ddf8f1b8 StaticDependenciesID=193ed62365980f76f5d0fcbe65f7f35d 
+Importing 'GUID: 958aeacb825c57c4197f5e9357a04c88 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light HD Low.prefab' with importer (PrefabImporter)
+Imported 'GUID: 958aeacb825c57c4197f5e9357a04c88' -> (Import Result ID: 'a42c1ca7fda28b89e7aad4ffcf7f1910') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4495f01152a995c58f73ad5e2fe60aa9 DependenciesID=619176dea76b06098c03c4432b6b2498 StaticDependenciesID=8b9779ef09ba926842e54c18706587b0 
+Importing 'GUID: c810007b32a1e3d4896ebb8344ae7335 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Universal Bloom.prefab' with importer (PrefabImporter)
+Imported 'GUID: c810007b32a1e3d4896ebb8344ae7335' -> (Import Result ID: 'bcbc2193cca3f4f7ce2da81d15dcfc6c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=422218b3db4a1fe9b672c966500e419f DependenciesID=3d657760410e45552838256d3fef3ebb StaticDependenciesID=7e2c6fb74e0c3ead3bdbf92c7c5f6e3f 
+Importing 'GUID: aa80eb79e909c724aa794c3eab5beb3b - Path: Assets/BOXOPHOBIC/Utils/Scene/Light HD Day.prefab' with importer (PrefabImporter)
+Imported 'GUID: aa80eb79e909c724aa794c3eab5beb3b' -> (Import Result ID: 'da03e70bf1a3ad6b1777b2eeac76024b') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=57fe631002610f135b4f0f3551893a44 DependenciesID=52f10be2ba34bf9ee496faa92ce3e8ca StaticDependenciesID=a8e5fce71b114e4c6e6e5980b9c42fad 
+Importing 'GUID: 2bcb52b822142624ab2db4b6fc249dde - Path: Assets/BOXOPHOBIC/Utils/Scene/Post HD Low.prefab' with importer (PrefabImporter)
+Imported 'GUID: 2bcb52b822142624ab2db4b6fc249dde' -> (Import Result ID: 'a6b010516c90153c0877bc268a3f0f54') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=212fa64cc332615b4470172a25088a72 DependenciesID=018af21f6bb9de6334141663e8b9ec29 StaticDependenciesID=b09fe7dd5a926a7e9d378f808d608237 
+Importing 'GUID: 7cb2c8f46b381e94aac72fd1704cae67 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Day.prefab' with importer (PrefabImporter)
+Imported 'GUID: 7cb2c8f46b381e94aac72fd1704cae67' -> (Import Result ID: 'ea8927cb694a9d9506e604135866b42e') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=73249b933b83d0542aa29de23693d074 DependenciesID=8eeb8eae1a4ed8e6e8fa3d5faca38201 StaticDependenciesID=cedcacfafdf160783b9f7ab9aea3af6b 
+Importing 'GUID: bcb2ca69016b2684fa20fb79533c591a - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Low.prefab' with importer (PrefabImporter)
+Imported 'GUID: bcb2ca69016b2684fa20fb79533c591a' -> (Import Result ID: 'b8061e18a3b007310fb8e26e49ace9e1') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=7ba3d97bede79d7d9dc34f4f020f5be1 DependenciesID=97503ebd0d9ea5e3cfaa7658ed3e5a52 StaticDependenciesID=9f777b444f997764fe6f600af4e0479a 
+Importing 'GUID: 0fecc0d7927445440acc3ee89ed9f4fc - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera Universal.prefab' with importer (PrefabImporter)
+Imported 'GUID: 0fecc0d7927445440acc3ee89ed9f4fc' -> (Import Result ID: '5a2b290194faa22e6682b21c2398e1f2') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fbdae0e0c184beac013399631115fd8a DependenciesID=4a4641651f563b13f05a38655ae5ef7b StaticDependenciesID=9108d2b88333f47b830a34b9dd52b507 
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 7.57 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=b3056f8e000d44842aa6b8047bc021dc): Total: 19.954 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=63 (actual=63, local cache=0, cache server=0)
+		Asset DB Process Time: managed=12 ms, native=4040 ms
+		Asset DB Callback time: managed=609 ms, native=404 ms
+		Scripting: domain reloads=1, domain reload time=2256 ms, compile time=12630 ms, other=0 ms
+		Project Asset Count: scripts=1410, non-scripts=2398
+		Asset File Changes: new=147, changed=147, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 4.425ms
+	ApplyChangesToAssetFolders: 0.506ms
+	Scan: 289.864ms
+	Collect global state as custom dependencies: 9.635ms
+	OnSourceAssetsModified: 5.648ms
+	CategorizeScriptCompilationAssets: 3.034ms
+	ProcessAssetsWithTransientArtifactChanges: 13.881ms
+	CategorizeAssets: 273.597ms
+	CompileScripts: 12630.500ms
+	ImportOutOfDateAssets: 3248.410ms (2628.500ms without children)
+		ImportManagerImport: 615.288ms (13.358ms without children)
+			UpdateCategorizedAssets: 1.477ms
+		CollectScriptTypesHashes: 7.439ms
+		ReloadNativeAssets: 1.340ms
+		UnloadImportedAssets: 0.578ms
+		ReloadImportedAssets: 0.132ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.995ms
+		ImportSchedulerStart: 1.672ms
+	PostProcessAllAssets: 998.798ms
+		ShaderAssetModifiedCallback 350.134ms
+		AssemblyValidation.PostprocessAllAssets 11.642ms
+		VersionControlSettings.HiddenFilePostprocess 10.852ms
+		PostProcessCallbackCreateDeferredMaterials 4.757ms
+		LocalizationDatabase.AssetDatabasePostprocessCallback 3.060ms
+		ComputeShaderImportPostprocess 0.711ms
+		PostprocessAssetsUpdateCachedIcon 0.668ms
+		XRBuildSystem.XRAssetImported 0.522ms
+		VCAutoAddAssetPostprocess 0.262ms
+		RaytracingShaderImportPostprocess 0.235ms
+		WindowTitlePostprocess 0.204ms
+		SpeedTreeImporter.PostprocessAllAssets 0.195ms
+		BlockShaderImporter.PostprocessAllAssets 0.133ms
+		MonoPostProcessAllAssets: 607.271ms
+			SyncVS.PostprocessSyncProject 410.896ms
+			AssetPostprocessor.OnPostprocessAllAssets 71.735ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 25.352ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 19.809ms
+			AssetChangedListener.OnPostprocessAllAssets 14.069ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 12.705ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 4.559ms
+			MaterialPostprocessor.OnPostprocessAllAssets 3.503ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 2.756ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 2.569ms
+			PostProcessor.OnPostprocessAllAssets 2.450ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 2.436ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 2.418ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 2.115ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 1.717ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 1.599ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 1.524ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.142ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 1.122ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.772ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.592ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.579ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.531ms
+			AssetEvents.OnPostprocessAllAssets 0.506ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.505ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.354ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.332ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.276ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.276ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.209ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.173ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.165ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.157ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.148ms
+	PostAssetChangesProfiler: 9.407ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.207ms
+	UnloadStreamsBegin: 1.499ms
+	PersistCurrentRevisions: 0.990ms
+	GenerateScriptTypeHashes: 3.649ms
+	GenerateScriptTypeSerializationHashes: 5.900ms
+	Untracked: 2438.826ms
+
+Asset Pipeline Refresh (id=7f2904770631fc94e9e787fae08609a4): Total: 0.024 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+-- Listing OpenCL platforms(s) --
+ * OpenCL platform 0
+	PROFILE = FULL_PROFILE
+	VERSION = OpenCL 3.0 CUDA 13.2.81
+	NAME = NVIDIA CUDA
+	VENDOR = NVIDIA Corporation
+ * OpenCL platform 1
+	PROFILE = FULL_PROFILE
+	VERSION = OpenCL 3.0 
+	NAME = Intel(R) OpenCL Graphics
+	VENDOR = Intel(R) Corporation
+-- Listing OpenCL device(s) --
+ * OpenCL platform 0, device 0 
+	DEVICE_TYPE = 4
+	DEVICE_NAME = NVIDIA GeForce RTX 4070 Laptop GPU
+	DEVICE_VENDOR = NVIDIA Corporation
+	DEVICE_VERSION = OpenCL 3.0 CUDA
+	DRIVER_VERSION = 596.08
+	DEVICE_MAX_COMPUTE_UNITS = 36
+	DEVICE_MAX_CLOCK_FREQUENCY = 1980
+	CL_DEVICE_MAX_CONSTANT_BUFFER_SIZE = 65536
+	CL_DEVICE_HOST_UNIFIED_MEMORY = false
+	CL_DEVICE_MAX_MEM_ALLOC_SIZE = 2146304000
+	DEVICE_GLOBAL_MEM_SIZE = 8585216000
+ * OpenCL platform 1, device 0 
+	DEVICE_TYPE = 4
+	DEVICE_NAME = Intel(R) Arc(TM) Graphics
+	DEVICE_VENDOR = Intel(R) Corporation
+	DEVICE_VERSION = OpenCL 3.0 NEO 
+	DRIVER_VERSION = 32.0.101.8247
+	DEVICE_MAX_COMPUTE_UNITS = 128
+	DEVICE_MAX_CLOCK_FREQUENCY = 2250
+	CL_DEVICE_MAX_CONSTANT_BUFFER_SIZE = 4228544512
+	CL_DEVICE_HOST_UNIFIED_MEMORY = true
+	CL_DEVICE_MAX_MEM_ALLOC_SIZE = 4228544512
+	DEVICE_GLOBAL_MEM_SIZE = 8457089024
+	Adjusted DEVICE_GLOBAL_MEM_SIZE due to Intel specific driver reservation, new value is 10842421825.
+Asset Pipeline Refresh (id=e005cfbbaa1045f4a9c700e045289f64): Total: 0.022 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker1] Imported GUID: f63d574838ccfb44f84acc05fed0af48 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph - Importer: PreviewImporter -> (ImportResultId: '05424e4d3d780863766e199806d7d1bc') in 0.6775545 seconds
+Starting new worker id: 2 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW2.log
+[Worker0] Imported GUID: 124c112a6e8f1a54e8b0870e881b56d8 - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph - Importer: PreviewImporter -> (ImportResultId: 'dda5130253ef5fc46539646f131fc758') in 2.2382388 seconds
+[Worker0] Imported GUID: ca2ed216f98028c4dae6c5224a952b3c - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph - Importer: PreviewImporter -> (ImportResultId: 'c7f4878e64b82361f37055899f77100f') in 0.0361764 seconds
+[Worker0] Imported GUID: e3265ab4bf004d28a9537516768c1c75 - Path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf - Importer: PreviewImporter -> (ImportResultId: '266fe1cfeaf3ab8844aba814e39c02e7') in 0.0792747 seconds
+[Worker0] Imported GUID: 79459efec17a4d00a321bdcc27bbc385 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat - Importer: PreviewImporter -> (ImportResultId: '3efb7c1b1b59bc209f12f9b68badc7a9') in 0.1367642 seconds
+[Worker0] Imported GUID: e73a58f6e2794ae7b1b7e50b7fb811b0 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat - Importer: PreviewImporter -> (ImportResultId: '57c4cb36477c994f2c3a2723aeb34cca') in 0.1042608 seconds
+[Worker0] Imported GUID: 987a129b6b0ab494c92ada585372f505 - Path: Assets/BOXOPHOBIC/Utils/Scene/Scene Skybox.mat - Importer: PreviewImporter -> (ImportResultId: '2f6c5288b1ddd96510def04bd33b359f') in 0.3040143 seconds
+[Worker0] Imported GUID: 8f586378b4e144a9851e7b34d9b748ee - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset - Importer: PreviewImporter -> (ImportResultId: '46f3737387d963e9c522f30b4878f346') in 0.0541056 seconds
+[Worker0] Imported GUID: 2e498d1c8094910479dc3e1b768306a4 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset - Importer: PreviewImporter -> (ImportResultId: 'c3fd8c939465db025fb0ddec9e2da9f5') in 0.0268157 seconds
+[Worker1] Imported GUID: a3d800b099a06e0478fb790c5e79057a - Path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph - Importer: PreviewImporter -> (ImportResultId: '50c3dddd6c2b8f78767d5dd033fa034c') in 3.6329733 seconds
+Worker ready: AssetImportWorkerHW2 2
+Asset Pipeline Refresh (id=f910cbd2d84e5464abd793da7f7417cb): Total: 0.014 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=d5e6d8e453850f0409dcda1611ccf323): Total: 0.006 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker2] Imported GUID: 87f2a36082af25849bc09a748e1188c4 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended - Importer: PreviewImporter -> (ImportResultId: 'a65a7d7cbb94a1b4f7ba5692f12506f6') in 0.0287247 seconds
+[Worker2] Imported GUID: 5cbce0d58b9d6d147bde7b2601194b85 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf - Importer: PreviewImporter -> (ImportResultId: '26228278302ad2b1956164391035bfd9') in 0.0338736 seconds
+Starting new worker id: 3 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW3.log
+[Worker2] Imported GUID: 0f0812cc35c661e4980b160c09004edb - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '925d533f62919408421e6a32e9b6d7f6') in 0.0834004 seconds
+Starting new worker id: 4 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW4.log
+[Worker2] Imported GUID: 0003a5bea05764747b05fa096a075848 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledMonoBehaviour.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '175cf8883769cf85f1496ea1262553be') in 0.0688941 seconds
+[Worker2] Imported GUID: bf20e876ed7bf344281b4cf5baca6ca8 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledVector4Drawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '425776ae02c8efbbaa4ea3820de4d419') in 0.0177343 seconds
+[Worker1] Imported GUID: 2734a300c1fbfb8499fe8a71e9b109e7 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledMessageDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '3a2704a1e3b258f070eb1d93597dcb0f') in 0.1924626 seconds
+[Worker2] Imported GUID: a832b9f47ccef214e81c89efe6bf31dd - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledBannerDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '08649217e656058c98fa5054ca018ddb') in 0.0201295 seconds
+[Worker1] Imported GUID: 3ceb6b7bf0fb6a8449797ccd85dea11c - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledMaskDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'ab8727d184ae8af1781d4702d147cb84') in 0.0206253 seconds
+[Worker2] Imported GUID: e805964d61d3a1843ac173844aec3377 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMono - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0313b765e433c694043b5f00134329aa') in 0.013702 seconds
+[Worker1] Imported GUID: 6dfd994aa3f6b3944a0bd6effc2b3102 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledCategory.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0e2145f2fcc29d4c67fe957b548b05e0') in 0.0150855 seconds
+[Worker2] Imported GUID: 318ab901930fcbe4e972c6dcd09d372c - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledColorDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '6c10ded1118dd1dd1f6cbf01a9aec27e') in 0.012417 seconds
+[Worker1] Imported GUID: dafdc63aa2865b04e924ffea07fde94e - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledKeywordInvertedDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '6d2d1e1ec340f32bcc4f56c2848da6de') in 0.0172413 seconds
+[Worker2] Imported GUID: 8847cd3b74377bc499476aa945ee1525 - Path: Assets/BOXOPHOBIC/Utils/Settings - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '803af50e01a0026e114e58caed0ffada') in 0.0166289 seconds
+[Worker1] Imported GUID: 5d9dcd523b77e3f47955115799a3b880 - Path: Assets/BOXOPHOBIC/Utils/Scene/Scene Empty.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '166a31a55b929e9c92ef16257a5ff553') in 0.0243844 seconds
+[Worker1] Imported GUID: 120dfe3a7a21fab499ce7c53ecf2c9f2 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledRemap.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e32617c70c34a65178575d3ea5b3445e') in 0.0174491 seconds
+[Worker2] Imported GUID: 7cb2c8f46b381e94aac72fd1704cae67 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Day.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b92e93cd70e135323426daf54c49d49b') in 0.0576048 seconds
+[Worker2] Imported GUID: 1b5715cd99e4a2e4c91d69653d31dad9 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledCategoryDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0c9544c383429c721d0537610e5a7a20') in 0.0166631 seconds
+[Worker2] Imported GUID: 8810eaa25fcae3f488c321efd7c48acf - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledDisplay.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '6d681992e7d086ed2f7c3ca14bdada77') in 0.0138289 seconds
+[Worker2] Imported GUID: b33fc29a1077eff40880c4d54b57136c - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledTexturePreview.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'ae3fcd2745e25848e9e4fef787a46f4c') in 0.0161777 seconds
+[Worker2] Imported GUID: 6157313c9a6fde548ac9461c4c767715 - Path: Assets/BOXOPHOBIC - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '400e0b6ecac629c1b4c4e4da9b55b607') in 0.0129719 seconds
+[Worker1] Imported GUID: 7a0d9f99b02cc8941a235c921fbe6266 - Path: Assets/BOXOPHOBIC/Utils/Gizmos/Notebox.psd - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b42a26504c458aaf977bcef1dfdc71e6') in 0.0919494 seconds
+[Worker2] Imported GUID: 864d8c89c5d2ef240b0c51f15c5211e2 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledBannerDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '189468c67c981905391f84cba7cef0ce') in 0.0198634 seconds
+[Worker1] Imported GUID: e137daebc2f7e0c4aa0ee5c5b140e8fd - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7e2da17a712b46e39c4599a756a47849') in 0.0204261 seconds
+[Worker2] Imported GUID: 87b94a9c1333f074e8c24cd5a2fe1d73 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorCategory.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '438781170ed7d5df02e7c40d21b3167b') in 0.0162663 seconds
+[Worker1] Imported GUID: 7afe5a6ac49829c408df7e64761e822d - Path: Assets/BOXOPHOBIC/Utils/Editor/SettingsUtils/SaveSettingsData.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '791a6d88ae2bc06fb0cb336eebca78fe') in 0.0167954 seconds
+[Worker2] Imported GUID: a748daf381c523a4ea12e61d2061088e - Path: Assets/BOXOPHOBIC/Utils/Editor/Constant - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0a82c3ebc0af6d07851958f1880b0f7c') in 0.0141494 seconds
+[Worker2] Imported GUID: d01ce91280120de49b931b40f9e16f6b - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledMessageDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '8d0c0c520314af7a75a07e6b08d5e920') in 0.0173024 seconds
+[Worker1] Imported GUID: 856f0b63ea2072047bbd2aaa41d2c72e - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledVector2Drawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'c70ef76b462cede70ed777bbb32f355d') in 0.0192509 seconds
+[Worker2] Imported GUID: b1d76466e8080c147b2fa9e3b42e8850 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledEmissiveIntensityDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '125f920b4822b674199b9511e0c50175') in 0.0167911 seconds
+[Worker2] Imported GUID: 057520665db88c444ae3d275cb0923d2 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledKeywordDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b7c56cd51d27eeed3e95b4adc7c2571a') in 0.0185112 seconds
+[Worker1] Imported GUID: aa80eb79e909c724aa794c3eab5beb3b - Path: Assets/BOXOPHOBIC/Utils/Scene/Light HD Day.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '29fe57491c5ae6d1ad0f8ed4bcbf3221') in 0.0489505 seconds
+[Worker2] Imported GUID: 0fb089d68a8e4634390e299256c8eec7 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledBanner.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '6567a680bd4392d382afa3ae71a75983') in 0.0194554 seconds
+[Worker1] Imported GUID: 846c011559e38824090c713c729cfec1 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledLayers.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'fdbefe6ac4ad591fadd21a4d40b2f208') in 0.0210868 seconds
+[Worker2] Imported GUID: bef1390ad3d0330479ab886ebf22bce5 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorHeader.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a25d0884b95031eb203e53d86d88ca6f') in 0.0175978 seconds
+[Worker2] Imported GUID: 0e001eb24a06011408df25d4fcad5120 - Path: Assets/BOXOPHOBIC/Utils/Editor/Notebox/NoteboxInspector.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '6543c55bac7bdbe1196fdee2200c3ca9') in 0.0159803 seconds
+[Worker1] Imported GUID: a1492a16b65d5224391c64d74599fb2c - Path: Assets/BOXOPHOBIC/Utils/Scripts/Utility - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '301fdb3bbf9294db9516dc2cfd285400') in 0.020097 seconds
+[Worker2] Imported GUID: 23642b56d9212ec4ab7c226630a6de96 - Path: Assets/BOXOPHOBIC/Utils/Shaders/Channel Preview.shader - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a9459d69467b9c99a341fd0f58306f4f') in 0.0260621 seconds
+[Worker1] Imported GUID: 7705790d9e8e16344ad5d7960c568904 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Blend.shader - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '2a1f0cf01943378df0f711926fbea5f6') in 0.035157 seconds
+[Worker2] Imported GUID: 3f10ca89b5b74e04d97daa49dad86981 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawTexturePreview.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '442e27e8e08ddea526a49badc16b86ec') in 0.017733 seconds
+[Worker2] Imported GUID: 693b7d13a80c93a4e8b791a9cd5e5ab2 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions/Compute Rotation Y.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'aca25b0b352b7a1d79fffe49f0fbc90d') in 0.0188867 seconds
+[Worker1] Imported GUID: d8f8e3d7fed9c834b9feeb32026dff3e - Path: Assets/BOXOPHOBIC/Utils/Settings/HD Sky.exr - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'ba2cb20bfb858a467ae66d0ceab857c2') in 0.0283373 seconds
+[Worker2] Imported GUID: df9ee7b5ab129dd4991f424a8d93430b - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledText.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '13d654dff5c03225022d859264bf37c7') in 0.0200361 seconds
+[Worker1] Imported GUID: 2f8925abba486f64284bccfcd3bd4bb6 - Path: Assets/BOXOPHOBIC/Utils/Scripts/Runtime/SceneSwitch.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'd8941c2a11ded340f7f84f076d6a0822') in 0.0213603 seconds
+[Worker2] Imported GUID: e540d565f15dd894c856740044442dc4 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledVectorOptionsDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b8fd46511650d0348427f05718f9ca29') in 0.0202717 seconds
+[Worker1] Imported GUID: 32cc595a7aade2749a61c144038a6379 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Standard.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '911007c1aacde383c561a7fda93f25ab') in 0.0235441 seconds
+[Worker2] Imported GUID: cc2f9353b0def934e9d0ae317fceac50 - Path: Assets/BOXOPHOBIC/Utils/Editor/SettingsUtils - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '041a7feb896ead696dd792851b8c28c1') in 0.0185574 seconds
+[Worker1] Imported GUID: 29bc400970c5066438cbde7676418b75 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '8aa1f9bcfcd21dc24512a4693ed4105d') in 0.0213908 seconds
+[Worker2] Imported GUID: ab1d3117b9da8d7429e5ac70bd016772 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMessage.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '1fdfd93dd1665a0c5d54ed8d91f00548') in 0.0170353 seconds
+[Worker1] Imported GUID: c8daad1bc4051084ca6204e12dc0890d - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTexturePreviewDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e6bc294ed110c39767cb6da655c476fc') in 0.0198686 seconds
+[Worker1] Imported GUID: 7a0e1a0aaab33f341b20d7d940fe0a06 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMono/StyledScriptableObjectEditor.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5cde5d875684149751de876392575d22') in 0.0217708 seconds
+[Worker1] Imported GUID: fd2d7ee86763017438ae71ea6a9800f6 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledMaskDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'bb7eecda79ad6a15917e4113780074d4') in 0.0292585 seconds
+[Worker2] Imported GUID: 0f9def0f7e05709488f1ad256de55d9f - Path: Assets/BOXOPHOBIC/Utils/Gizmos/SettingsData.psd - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5531ca37ed63253f7eb2d4c88bce4609') in 0.089034 seconds
+[Worker1] Imported GUID: e4362c0144e8a5b45be782723d2c956f - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMask.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b88afa60a015c5829e52721d81b9fe8e') in 0.0262886 seconds
+[Worker2] Imported GUID: 356898a958424c146b57e08ea00d6922 - Path: Assets/BOXOPHOBIC/Utils/Scripts/Notebox/Notebox.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '8d039759c895b7ba09c97acdf11f425d') in 0.0228488 seconds
+[Worker2] Imported GUID: aac99d6d81f90e54cabd822770c11875 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawWindowCategory.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '08717aec8f371722f2f599f52dd1a338') in 0.0210614 seconds
+[Worker2] Imported GUID: 973a89d961bf66545ad1cce84fc236df - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledGizmos - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '82b25164d8860d98043b8a6ab30b800d') in 0.0199951 seconds
+[Worker2] Imported GUID: 09703e247f713804ab97a4a6c7510ea7 - Path: Assets/BOXOPHOBIC/Utils - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a7fe02b032519a863f6a44f5c3299d47') in 0.0142055 seconds
+[Worker1] Imported GUID: 11ca8b95cee8f4347bc5cb70d28cee45 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Universal Low.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '3a48bb434e57ff3176624023061b09a0') in 0.0815074 seconds
+[Worker2] Imported GUID: 643644a768b7aac46b0fa360b0ce0615 - Path: Assets/BOXOPHOBIC/Utils/Scripts/Runtime - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '49184649e05d5a1c2a9bee29908411f1') in 0.0175956 seconds
+[Worker2] Imported GUID: 7c167590d9d480e438111f555c3a9d09 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledButton.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '87187b846a8e6540d29ac25e962691e7') in 0.0152602 seconds
+[Worker1] Imported GUID: b37e11a48a143ec469544df52085d526 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post HD Day.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5b0df432043ada4872cc51e9703b1923') in 0.0340426 seconds
+[Worker1] Imported GUID: ebb397dcd33e7cb48a6c3c5b9d928c05 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledVectorDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '3420d7d7acc39e681713b8bf6d1e6949') in 0.0168783 seconds
+[Worker2] Imported GUID: 6fd05189f16020c478274741984eaa17 - Path: Assets/BOXOPHOBIC/Utils/Scene/Human.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '18e42f2f017112d7627f0ae01eab71df') in 0.0242874 seconds
+[Worker1] Imported GUID: b19cf3e7632ffd948902e7272af43a6c - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Universal Day.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'bd3153b0624aae34ee2f48a576fb8da3') in 0.0236819 seconds
+[Worker1] Imported GUID: 1256899d1a62eca479b5e7db250928d1 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledMono - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0eeb5419e0ca27a961e517b85d59a9ec') in 0.0195319 seconds
+[Worker2] Imported GUID: 94a823ba9229d074ea2da6c82a0077d0 - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera Standard.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'd78ea29c9507766062678db620ac6ee6') in 0.0543152 seconds
+[Worker2] Imported GUID: ae4fb3d8081065c47860724ea515c97c - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledIndentDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'de74b1d31e7b67663fd3b4bbede4210b') in 0.0181522 seconds
+[Worker1] Imported GUID: f13faeb510c3cb54ba5d051ecaad26e3 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledDiffusionMaterialDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '151cf99ddf6a634ce41dae14936760a5') in 0.0183425 seconds
+[Worker2] Imported GUID: c65df615eedc39d41bcf5191b9429056 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledEnum.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '09ee1cdb860646c4701e1c36448f6694') in 0.0145615 seconds
+[Worker1] Imported GUID: b351b243374f2d948a9e9943abe174bf - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledLayersDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '94812e1e369a5b20b10accdc25598027') in 0.0180073 seconds
+[Worker2] Imported GUID: 42fc02e22d9e6e241a380b290fff2945 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '09981b52036f988adccae22147e40ca6') in 0.0148298 seconds
+[Worker1] Imported GUID: 87f2a36082af25849bc09a748e1188c4 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '3c3b64da5c1404a2ef7bcdd9bc2c6594') in 0.0169726 seconds
+[Worker2] Imported GUID: 4a7d70b201e9b2b40a26b2891a3058f7 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '71d0a1b4a489283b404fa5e1067cd3aa') in 0.0146424 seconds
+[Worker1] Imported GUID: 90057ce590a8bd148ab59e018f35d9cb - Path: Assets/BOXOPHOBIC/Utils/Editor/SettingsUtils/LoadSettingsData.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'bb34e4ebec10d2fe1c60e2a13e86027a') in 0.0152542 seconds
+[Worker2] Imported GUID: fd0e43229939f8b45bd79345e699dfcd - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledIndent.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '216292a75138891261ce901f94b5c0ff') in 0.0137629 seconds
+[Worker1] Imported GUID: 34e988038a562554e90d32a5c11865ed - Path: Assets/BOXOPHOBIC/Utils/Gizmos - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '2a4765ec7da9bf54402c86934805cc3a') in 0.015724 seconds
+[Worker2] Imported GUID: 7c3935e6d6b91844d8053d3fa7faff1b - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledEnumDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'd76b87da55305bf39a526688d4a1f15e') in 0.0125127 seconds
+[Worker1] Imported GUID: 3b79ad6fdb95ee64a93fd344af5cccd7 - Path: Assets/BOXOPHOBIC/Utils/Scripts/Notebox - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e371f2a19c8a3c04f4fc9d6279ca570f') in 0.0136941 seconds
+[Worker2] Imported GUID: dd0ddca94871d9a4586a143a83184806 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawWindowBanner.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '4579d7b4cfb221efedd11a2500062f86') in 0.0109834 seconds
+[Worker2] Imported GUID: db0457065a494f34aa3b619f240d8bda - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledSpaceDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b2412067a8afc8c82ed766892234542e') in 0.0107075 seconds
+[Worker1] Imported GUID: 4c63145d395578c409f01ff805227d08 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0deb7d36e11c2712a6ad248a6290c77b') in 0.0142289 seconds
+[Worker2] Imported GUID: 388415cfa9bb69041a8281bc567acec5 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledInteractive.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a9b156ea586a460714aed46f2a45b8af') in 0.0153189 seconds
+[Worker1] Imported GUID: 896f8a6be3053ff4a8f322a960986af1 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledRangeOptions.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '8cfcb01bf2403edbb56bf90201caede1') in 0.0165813 seconds
+[Worker2] Imported GUID: fb3be98ee36cd8b4f8710bbb0a16160b - Path: Assets/BOXOPHOBIC/Utils/Scripts/Runtime/NPCController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a3b771a219e0a392bf2e858e5518cc63') in 0.0156368 seconds
+[Worker2] Imported GUID: cb530898cc05d744da0941d6160f7b92 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Version.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '213e03bab741b854b564d8d2415e8a50') in 0.0222534 seconds
+[Worker1] Imported GUID: 0fecc0d7927445440acc3ee89ed9f4fc - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera Universal.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '482d04d4dd9c36c0efe0cdfe93a6bf9e') in 0.0445384 seconds
+[Worker2] Imported GUID: a5dbd5cf6c68f1d4ebd1369f8795ee3a - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledEnumDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b80f563d846d7094dc60e0c7b148c9bf') in 0.017837 seconds
+[Worker1] Imported GUID: 39b7f3695c062924983675fcef51f7f8 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedShaderGUI.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5252353db28e7e5c1d5700fb0eaabd52') in 0.0156758 seconds
+[Worker2] Imported GUID: 3420996c453349c47b672ddcf35a6660 - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera HD.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '90104851b0faf356a09d6d4678eee535') in 0.0182096 seconds
+[Worker1] Imported GUID: d547067a87ea5c64983ceba2dc497317 - Path: Assets/BOXOPHOBIC/Utils/Settings/HD Volume Day.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'dcc1d3afbe542ad9b6fc049ba4dd3f68') in 0.0217969 seconds
+[Worker2] Imported GUID: 61e9c4e504463ae49bb18338bbf4841d - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledHeaderDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'ddbe375a24218d456ade658f74a4b5ce') in 0.0162233 seconds
+[Worker1] Imported GUID: 71aeaf565adbd554caa51fcac0588acc - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Universal.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '4a1552e80e20dfd97c19bb32ec390a12') in 0.0250317 seconds
+[Worker2] Imported GUID: 1f2f57e67392e5b41af1a4cecc3a6c04 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledSpaceDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0e3dac4cd5b58f57a36581886a72a7d7') in 0.0185431 seconds
+[Worker2] Imported GUID: 93614ea46ae5aee48ab6d9b3524562f5 - Path: Assets/BOXOPHOBIC/Utils/Settings/Universal Volume.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '90172d49becffe64980adc867c6b8a88') in 0.0159144 seconds
+[Worker1] Imported GUID: 106d1ca7c14e2a9448b78b58645c5c21 - Path: Assets/BOXOPHOBIC/Utils/Settings/Lighting Settings.lighting - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '4d8864cad87c564d29094ebc77d431d4') in 0.0287833 seconds
+[Worker2] Imported GUID: ea3f7407f69f900468d4b60de570e49d - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledIndentDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '044ed4de768a2d7d56bd5e20fe0cf22e') in 0.0151164 seconds
+[Worker2] Imported GUID: 80229de18cd73624b8181a9db49a304f - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledInteractiveDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'ef2e7f7f1abf21b66c0ef9c6c19e41e6') in 0.0157771 seconds
+[Worker1] Imported GUID: a5681c6e5862ae545ba9b00a5b813250 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledRangeOptionsDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'c5685c05de3fbff7527862567ee34b08') in 0.0195463 seconds
+[Worker1] Imported GUID: 7c986bd7ffe2fa34a857eb813db03d77 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedWindows.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'ac1a9dc6527c61edda173ca5274c994c') in 0.0195547 seconds
+[Worker2] Imported GUID: 958aeacb825c57c4197f5e9357a04c88 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light HD Low.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b4b3307197d1759e53b761d41e7e06bf') in 0.0217622 seconds
+[Worker2] Imported GUID: 4cd9cd113f44b044686ee05820fc753e - Path: Assets/BOXOPHOBIC/Utils/Scripts/Utility/Utility.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7410a4bfcae76e83f4be96e957afd5fe') in 0.0155528 seconds
+[Worker1] Imported GUID: 10f1dd4cfd6afb54da274d7d818bd8f6 - Path: Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'fbf1ae4a1c20193414e81af45a310a96') in 0.0174326 seconds
+[Worker2] Imported GUID: 30afcd86dad75504ebd5516adf73ad08 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledColoringDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e44a8d32524989abdc82c05a7dd30b9e') in 0.0145044 seconds
+[Worker1] Imported GUID: 853bc634c610eb14790828d2a68970da - Path: Assets/BOXOPHOBIC/Utils/Scene - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '3ef5b89ab32254618fcee33cc267c6be') in 0.0194344 seconds
+[Worker2] Imported GUID: e11186e2ccd8bf44d9d8699902268c99 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledSpace.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'cb368c203d879eb9c9407f5a7345c26f') in 0.0186941 seconds
+[Worker1] Imported GUID: 0aca0e2d06b26544681357ef98393b10 - Path: Assets/BOXOPHOBIC/Utils/Utils.pdf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'd9935231a5d1d25d0fc51a1867a59ef8') in 0.0178719 seconds
+[Worker2] Imported GUID: fb59d41716ab6114cb7cf03a5695083b - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledCategoryDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0736dcd474a036467c1be7677958eb9b') in 0.0129398 seconds
+[Worker1] Imported GUID: b25d76ee19b704f4ea134505efb218e4 - Path: Assets/BOXOPHOBIC/Utils/Shaders - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5de9f4ea00580e2a2355f01fb093eb2a') in 0.0156289 seconds
+[Worker2] Imported GUID: ab83955dedb2aed428447d90cf62c81b - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextureDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '478cf6f5c1b10256882006e5100851ce') in 0.0150416 seconds
+[Worker1] Imported GUID: d5699c954b5c9184199293b4ede31d57 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledToggleDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7691be5ff94f3318669169418420c229') in 0.0171899 seconds
+[Worker2] Imported GUID: 1525d4228f26951498e86e425363f3f0 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorBanner.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5a5a443aec69728cb4ac5bdefae23541') in 0.0140697 seconds
+[Worker2] Imported GUID: 37b546f334955db42b4e3bbfdaeddd8a - Path: Assets/BOXOPHOBIC/Utils/Editor/Notebox - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '72e0b86f35cd33e7627dd6e0aee96fad') in 0.0192321 seconds
+[Worker1] Imported GUID: 82881a2d011b0964696411c822cdd00b - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Extended.shader - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b716b148bacff0bca17796940021fd3d') in 0.0273636 seconds
+[Worker1] Imported GUID: b1d35dbbb9b6c214aa892d7b240de3df - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledButtonDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '4e57a4e9c4c30ee8dc1ae9a87a855944') in 0.0206483 seconds
+[Worker2] Imported GUID: 2bcb52b822142624ab2db4b6fc249dde - Path: Assets/BOXOPHOBIC/Utils/Scene/Post HD Low.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '14a59b393df5047bdb64486bccc6a142') in 0.0280968 seconds
+[Worker1] Imported GUID: e3a24ffac8f074c4f8765c1844bb5e90 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledGizmos/StyledLabelGizmo.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '6264a49e172fb7b0bb07782d407911d5') in 0.0174607 seconds
+[Worker2] Imported GUID: 825ad574da7360d4e8aea558f272972e - Path: Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b6a1ab19645031f6018b54aeaee59cb3') in 0.0169816 seconds
+[Worker1] Imported GUID: 344829a1bbf98c245b5bcb97b6f90fe6 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '9fa4b471d9ccb0740336be33e82a62ea') in 0.0193422 seconds
+[Worker2] Imported GUID: 195d4c9b85f7ea146aac46a389a6f08f - Path: Assets/BOXOPHOBIC/Utils/Scripts/Runtime/CamController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '73a358899be3a6a4a4685460d5451f76') in 0.0159494 seconds
+[Worker2] Imported GUID: ade1c2302d29f7d4fa706ced5b7c5c3c - Path: Assets/BOXOPHOBIC/Utils/Scripts - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '1e4cd63ca5add118d04b85efbea097c6') in 0.0163751 seconds
+[Worker1] Imported GUID: c612fe43fb699ff47b5cb3f5964917ef - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a9983c964eb723acd4c648cebec6c914') in 0.0222842 seconds
+[Worker2] Imported GUID: 7cc33d297d20daa40a9b09fbb8e59502 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledInteractiveDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'eb7af2fad27e8fffa6074174e6ca05b9') in 0.0195704 seconds
+[Worker1] Imported GUID: e0cf8ff3bbc97374f88272f686fb80e5 - Path: Assets/BOXOPHOBIC/Utils/Editor/Constant/Constant.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '32662063420a9e7e96d91ed89a2493e0') in 0.0213875 seconds
+[Worker2] Imported GUID: 5cbce0d58b9d6d147bde7b2601194b85 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'fa80220483e09a261fc556044db934c9') in 0.0227136 seconds
+[Worker1] Imported GUID: 21a212bac1cb81f449faa837b54c1fca - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledVector3Drawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e09edd5ea3542747f3551e6a38c34d62') in 0.0280544 seconds
+[Worker2] Imported GUID: 29c1ac24df072a744a4bdc6a209772bf - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMono/StyledMonoBehaviourEditor.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '797cf8035c4c02c44844a9d14d1b5653') in 0.0192062 seconds
+[Worker1] Imported GUID: 14dd81840028bd24ebee23af01e480fd - Path: Assets/BOXOPHOBIC/Utils/Scripts/Runtime/FPSController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'dd18b0170be4861600c22209b7d44300') in 0.0198243 seconds
+[Worker2] Imported GUID: d4bc1ff93a8a28e42954d7469249a7a0 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledOptionsSliderDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '576cec8c944bb1108255d8eaaa2025b8') in 0.0165173 seconds
+[Worker1] Imported GUID: c810007b32a1e3d4896ebb8344ae7335 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Universal Bloom.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '902ce16ef3d71a25c30f4abf0aef8fb3') in 0.0220962 seconds
+[Worker2] Imported GUID: b40d7a397aa055b46a1651ee9f9bdd03 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledButtonDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7a10cf5338ec75fa42616c1266ad76e3') in 0.0171404 seconds
+[Worker2] Imported GUID: aeec2ac650d2d8f40aa3b9e0cb807db5 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTextDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'acc50d2f568510c1bbfbdd5e3228b90f') in 0.0155603 seconds
+[Worker1] Imported GUID: f0e69805f2a9f6040bd8d848937ce993 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledRemapSliderDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '18d9df2dae7496982e73508fa6e8e422') in 0.0204643 seconds
+[Worker2] Imported GUID: 88a1c36348ad71a4081b6b895339ccff - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '076d2fe7e11d332bdfe07cf13b853eb9') in 0.015007 seconds
+[Worker1] Imported GUID: 364f1df7c922ba84fa6fc52fd3900332 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledRemapSliderDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a1922e0ae341762f744d91f09087c625') in 0.0179077 seconds
+[Worker2] Imported GUID: b1f4defd4f2942e458eb377c269e4f28 - Path: Assets/BOXOPHOBIC/Utils/Settings/Universal Volume Bloom.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5b01a162edd3a2c09248515d27f34641') in 0.017992 seconds
+[Worker1] Imported GUID: bcb2ca69016b2684fa20fb79533c591a - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Low.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '4aa43efc8bf979892f2b91945b5d318c') in 0.0257091 seconds
+[Worker2] Imported GUID: c155c8d33fc45bc40966d6bd88c2b5de - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledColorOptionsDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '329d9feee2e855faea201d735e37fc21') in 0.0281512 seconds
+[Worker1] Imported GUID: 7b2bba9d34548bb4f991d6820c71a653 - Path: Assets/BOXOPHOBIC/Utils/Settings/Standard Volume.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '2f42309962de76efcae68ecc5a55f19b') in 0.0184021 seconds
+[Worker2] Imported GUID: f26e4e0ef587d0447975abf9f33ebb65 - Path: Assets/BOXOPHOBIC/Utils/Settings/HD Volume Low.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '08ad3ec6b60fd5ba47fd3c3917d3778c') in 0.0233716 seconds
+[Worker1] Imported GUID: 561b67406eee81948baf13ee752ae801 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextureSingleLineDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '4a81a14efd3e2aedf7c581615c09bca3') in 0.0215993 seconds
+[Worker2] Imported GUID: cd080eeb3cb8d2f40af3063d8b17942a - Path: Assets/BOXOPHOBIC/Utils/Scripts/SettingsUtils - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '14f7feefbcd01d860a773ce966c70575') in 0.0187569 seconds
+[Worker1] Imported GUID: c837d89f6f4cd574595a810c5fcc15f8 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledLayersDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '8fa54157df97a68277723ac8a8da482e') in 0.0204491 seconds
+[Worker1] Imported GUID: 528a63c4c58b58a4ca3927eec830c596 - Path: Assets/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledScriptableObject.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '2ff62ff1a132979ca1283b221b31e9f4') in 0.0201312 seconds
+[Worker2] Imported GUID: 987a129b6b0ab494c92ada585372f505 - Path: Assets/BOXOPHOBIC/Utils/Scene/Scene Skybox.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '175ea74a73e7a5a5578abcd719573fc8') in 0.0380058 seconds
+[Worker2] Imported GUID: 8e6a1fbf81d704b418c6740e0fae13b5 - Path: Assets/BOXOPHOBIC/Utils/Editor - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '1386d0e92b525fb26eecdc116835adcc') in 0.015095 seconds
+[Worker1] Imported GUID: a15c57a0379e088458f4b54715babf2b - Path: Assets/BOXOPHOBIC/Utils/Editor/Version.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '3aa35115d7c89fe2a4b3349360c720da') in 0.0337657 seconds
+[Worker2] Imported GUID: 9be3bcc691857cb488c5b42b2b83f840 - Path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledDisplayDrawer.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'f0d9925ce5acf4504d3905680cd71a6e') in 0.0372681 seconds
+[Worker1] Imported GUID: 93308045fbb3c5e42ba5ccb66d848632 - Path: Assets/BOXOPHOBIC/Utils/Scripts/SettingsUtils/SettingsData.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7aecbc77201603a77b4b1e61aeef6033') in 0.0203777 seconds
+[Worker2] Imported GUID: 137797bc7d5fd4548b7e6cfc0b180976 - Path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b8128b44b79e8682a4d3e59415e2648e') in 0.0179472 seconds
+Worker ready: AssetImportWorkerHW3 3
+Worker ready: AssetImportWorkerHW4 4
+Importing 'GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1fa437544652c614887a06d670be5f5e' -> (Import Result ID: '75d4240e3881f6fe880aab337eea00a2') in 0.006 seconds [static dependencies only]. Details - ImportResultOutputID=796c7f37baa48321a599c6ddf281adcb DependenciesID=c8fd8491a84a388b91cb38f5d885c213 StaticDependenciesID=e01dae319ba12373c6663bd6c1bfb2e4 
+Refreshing native plugins compatible for Editor in 4.28 ms, found 4 plugins.
+Asset Pipeline Refresh (id=dd23f4d14da7b0e4cb56fa0ec4be4080): Total: 0.181 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Importing 'GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1fa437544652c614887a06d670be5f5e' -> (Import Result ID: '5d4721b94ee2cee08e8e1a362079ccdb') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=796c7f37baa48321a599c6ddf281adcb DependenciesID=6c5f03718565014c0b6d639c1bec712b StaticDependenciesID=4aa4594af6a721bcf0b1eba979afe253 
+Refreshing native plugins compatible for Editor in 4.14 ms, found 4 plugins.
+Asset Pipeline Refresh (id=f832913f45734974cb23981c8859cd4a): Total: 0.079 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '92fdaad96823cb75e072c73c51cc015c') in 0.1631755 seconds
+[Worker2] Imported GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat - Importer: PreviewImporter -> (ImportResultId: 'f51c55ed82006b109337bbfc7e0848f6') in 0.7247928 seconds
+Asset Pipeline Refresh (id=d156b1102c8aeef43a6bc287ca5954c4): Total: 0.026 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=e65c6c1acee9fd7409bf065fe4d60731): Total: 0.010 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=c2e580017c0447f46be32e10a7e100e0): Total: 0.008 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+
+[main 2026-10-06T13:16:48.724Z] Extension host with pid 32188 exited with code: 0, signal: unknown.
+Asset Pipeline Refresh (id=b59e623ddab7ead46b46f135125126de): Total: 0.007 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1fa437544652c614887a06d670be5f5e' -> (Import Result ID: 'ddc8f814902197975c37a2a207262743') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=796c7f37baa48321a599c6ddf281adcb DependenciesID=beaeaa209715f66f407a81618398f276 StaticDependenciesID=3a87d1e0d856a91126b57c09fb32e1e3 
+Refreshing native plugins compatible for Editor in 4.22 ms, found 4 plugins.
+Asset Pipeline Refresh (id=e06184560cd696c47b2acadc1053b8f0): Total: 0.073 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '15a592b578c6da5c2247d2c0f2e4246d') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=2ed6fc1108639b0ac8c2ad571e9cc8c6 StaticDependenciesID=99b2b59cdf11fa9652f3a55d52cc3db6 
+Asset Pipeline Refresh (id=6572479f140334f4f90c76097a2573b2): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+[Worker4] Imported GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat - Importer: PreviewImporter -> (ImportResultId: '2955542118c6fed2e0b7a93e0fa11506') in 0.7398331 seconds
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.324 ms
+	Integration:            30.739 ms
+	Integration of assets:  0.006 ms
+	Thread Wait Time:       0.030 ms
+	Total Operation Time:   37.100 ms
+Unloading 481 unused Assets / (143.1 MB). Loaded Objects now: 9932.
+Memory consumption went from 0.86 GB to 0.72 GB.
+Total: 62.824600 ms (FindLiveObjects: 0.799100 ms CreateObjectMapping: 0.127200 ms MarkObjects: 29.722500 ms  DeleteObjects: 31.853700 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'ff727a3ad30253c878e8dfc2f322978a') in 0.0217906 seconds
+[Worker2] Imported GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a4fe27bf771b03520542aa2564b52c50') in 0.0326097 seconds
+Asset Pipeline Refresh (id=3ac82bd9bc92feb43aee014ec8a4cc36): Total: 0.024 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.447 ms
+	Integration:            25.069 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.010 ms
+	Total Operation Time:   27.528 ms
+Unloading 187 unused Assets / (143.1 MB). Loaded Objects now: 9934.
+Memory consumption went from 0.85 GB to 0.71 GB.
+Total: 33.807900 ms (FindLiveObjects: 1.084500 ms CreateObjectMapping: 0.237000 ms MarkObjects: 21.990400 ms  DeleteObjects: 10.073600 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Importing 'GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1fa437544652c614887a06d670be5f5e' -> (Import Result ID: '8cfadaac0f88a8a8766ed42ff6de5945') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=796c7f37baa48321a599c6ddf281adcb DependenciesID=e8fc5c8a0390f1dd36ee66b3cb1e9f1b StaticDependenciesID=1aa95a4077cb71f5102d751b8b829c61 
+Asset Pipeline Refresh (id=0d715b496791e6e4bb564dd5d380ac14): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker2] Imported GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat - Importer: PreviewImporter -> (ImportResultId: 'ac93dfdb49d3a535e83f426ed62a698e') in 0.0937076 seconds
+[Worker4] Imported GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '1170971e89d9a404890df2d96940fe7e') in 0.0163531 seconds

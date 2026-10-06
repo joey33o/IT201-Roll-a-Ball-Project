@@ -48,3 +48,100 @@ params: {}
 params: {}
 [2026-10-06T12:16:53.620Z][INFO] config:project:get-registries --> 200 (14 ms)
 [2026-10-06T12:16:53.634Z][INFO] project:list-packages --> 200 (123 ms)
+[2026-10-06T12:32:53.206Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T12:32:53.633Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T12:32:54.187Z][INFO] project:list-packages --> 200 (554 ms)
+[2026-10-06T12:32:54.189Z][INFO] project:list-packages --> 200 (985 ms)
+[2026-10-06T12:32:58.189Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T12:32:58.374Z][INFO] project:list-packages --> 200 (185 ms)
+[2026-10-06T12:32:58.734Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T12:32:58.852Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T12:32:58.945Z][INFO] project:list-packages --> 200 (210 ms)
+[2026-10-06T12:32:59.065Z][INFO] project:list-packages --> 200 (213 ms)
+[2026-10-06T12:32:59.396Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T12:32:59.569Z][INFO] project:list-packages --> 200 (173 ms)
+[2026-10-06T13:06:45.213Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T13:06:45.265Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-10-06T13:06:45.273Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-10-06T13:06:45.274Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T13:06:47.830Z][INFO] project:list-packages --> 200 (2556 ms)
+[2026-10-06T13:06:47.831Z][INFO] project:list-packages --> 200 (2621 ms)
+[2026-10-06T13:06:52.867Z][INFO] packages:get-all-packageinfo --> 200 (7594 ms)
+[2026-10-06T13:06:52.974Z][INFO] packages:get-all-packageinfo --> 200 (7709 ms)
+[2026-10-06T13:06:53.711Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.addressables@2.11.2"
+}
+[2026-10-06T13:06:53.727Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ads.ios-support@1.0.1"
+}
+[2026-10-06T13:06:53.742Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.mobile.notifications@2.4.3"
+}
+[2026-10-06T13:06:53.757Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.polyspatial.extensions@3.2.2"
+}
+[2026-10-06T13:06:53.770Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.polyspatial.visionos@3.2.2"
+}
+[2026-10-06T13:06:53.785Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.project-auditor-rules@1.0.3"
+}
+[2026-10-06T13:06:53.799Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.scriptablebuildpipeline@3.0.3"
+}
+[2026-10-06T13:06:53.814Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.compositionlayers@2.5.0"
+}
+[2026-10-06T13:06:53.830Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.visionos@3.2.2"
+}
+[2026-10-06T13:06:53.833Z][INFO] packages:get-packageinfo --> 200 (106 ms)
+[2026-10-06T13:06:53.843Z][INFO] packages:get-packageinfo --> 200 (132 ms)
+[2026-10-06T13:06:53.845Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.friends@1.1.1"
+}
+[2026-10-06T13:06:53.859Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.moderation@1.0.2"
+}
+[2026-10-06T13:06:53.889Z][INFO] packages:get-packageinfo --> 200 (147 ms)
+[2026-10-06T13:06:53.890Z][INFO] packages:get-packageinfo --> 200 (133 ms)
+[2026-10-06T13:06:53.897Z][INFO] packages:get-packageinfo --> 200 (127 ms)
+[2026-10-06T13:06:53.897Z][INFO] packages:get-packageinfo --> 200 (112 ms)
+[2026-10-06T13:06:53.903Z][INFO] packages:get-packageinfo --> 200 (58 ms)
+[2026-10-06T13:06:53.904Z][INFO] packages:get-packageinfo --> 200 (90 ms)
+[2026-10-06T13:06:53.906Z][INFO] packages:get-packageinfo --> 200 (107 ms)
+[2026-10-06T13:06:53.908Z][INFO] packages:get-packageinfo --> 200 (49 ms)
+[2026-10-06T13:06:53.910Z][INFO] packages:get-packageinfo --> 200 (80 ms)
+[2026-10-06T13:07:13.361Z][INFO] tarball:extract <-- Request received
+params: {}
+[2026-10-06T13:07:14.581Z][INFO] tarball:extract --> 200 (1220 ms)
+[2026-10-06T13:07:55.671Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T13:07:55.798Z][INFO] project:list-packages --> 200 (127 ms)
+[2026-10-06T13:07:56.000Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-06T13:07:56.086Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-06T13:07:56.093Z][INFO] config:project:get-registries --> 200 (7 ms)
+[2026-10-06T13:07:56.110Z][INFO] project:list-packages --> 200 (110 ms)
