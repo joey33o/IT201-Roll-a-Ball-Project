@@ -9,6 +9,7 @@ TagManager:
   - Spin
   - Jump
   - Door
+  - Pet
   layers:
   - Default
   - TransparentFX
