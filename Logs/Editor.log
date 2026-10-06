@@ -2963,3 +2963,137 @@ Imported 'GUID: 1fa437544652c614887a06d670be5f5e' -> (Import Result ID: '8cfadaa
 Asset Pipeline Refresh (id=0d715b496791e6e4bb564dd5d380ac14): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
 [Worker2] Imported GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat - Importer: PreviewImporter -> (ImportResultId: 'ac93dfdb49d3a535e83f426ed62a698e') in 0.0937076 seconds
 [Worker4] Imported GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybox.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '1170971e89d9a404890df2d96940fe7e') in 0.0163531 seconds
+Asset Pipeline Refresh (id=d61e6fe0280e78a4789499794156a2c9): Total: 0.011 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=a14276345a4c4ca40b05a6249b723b33): Total: 0.004 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 36841eaca053ad44aa3c84c9627ecd63 - Path: Assets/Scenes/minigame/NavMesh-Ground (5).asset' with importer (NativeFormatImporter)
+Imported 'GUID: 36841eaca053ad44aa3c84c9627ecd63' -> (Import Result ID: '4b04994d5cb81b51a42ced2f9ddb8a0b') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=dace848777517b34ccd7fbab5b1d09d7 DependenciesID=81a411c2f180577bb0846419d1f1701e StaticDependenciesID=a81f5d8ebe439109a1790a7a230de13d 
+Refreshing native plugins compatible for Editor in 2.01 ms, found 4 plugins.
+Asset Pipeline Refresh (id=5bc3b54c5b87abb4eaafd60560a56b7c): Total: 0.064 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 36841eaca053ad44aa3c84c9627ecd63 - Path: Assets/Scenes/minigame/NavMesh-Ground (5).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '88b7e2ddc353f1f415700f319a2428c2') in 0.0215059 seconds
+Importing 'GUID: f10ccd8cf33ba1748b481191e958b930 - Path: Assets/Scenes/minigame/NavMesh-Ground (3).asset' with importer (NativeFormatImporter)
+Imported 'GUID: f10ccd8cf33ba1748b481191e958b930' -> (Import Result ID: '20ebc9521d6437238a3c167fd3fd92f5') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=caef5bd39ff9d293b5691292bfd77965 DependenciesID=024ed46324342c01eab2f7cd1f3f21c4 StaticDependenciesID=0364e21d37dbcce971ffcf3d213726bb 
+Asset Pipeline Refresh (id=f586de975ffb20f4eb5466b6fc84d639): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: ea9263ea5b4e8b2489a86ab3acb65d67 - Path: Assets/Scenes/minigame/NavMesh-Ground (2).asset' with importer (NativeFormatImporter)
+Imported 'GUID: ea9263ea5b4e8b2489a86ab3acb65d67' -> (Import Result ID: 'e85bf5e30271b31651cc0ee16b1b994d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=21d95028cb67ec6cf1b299895e29068e DependenciesID=01e962d7223f26954d752ae31c3711d5 StaticDependenciesID=cb2041bea9c58fd527c8ceda7ee94140 
+Asset Pipeline Refresh (id=92b7e56f991d9c441ab5e1d4adf58260): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 96c271c37228a9549848a255f503cd92 - Path: Assets/Scenes/minigame/NavMesh-Ground (4).asset' with importer (NativeFormatImporter)
+Imported 'GUID: 96c271c37228a9549848a255f503cd92' -> (Import Result ID: 'd1d9a9aa217bb419c3fd2f7a6267ea1b') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=43d7777c86ed563198b3b600280f392d DependenciesID=e869bd8e46e8c5a38492240a0d867b39 StaticDependenciesID=5723323abd7cb778ba719a5be7232cb0 
+Asset Pipeline Refresh (id=c475d69c5fe1d6f49bfa0faf06d55401): Total: 0.047 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: ea9263ea5b4e8b2489a86ab3acb65d67 - Path: Assets/Scenes/minigame/NavMesh-Ground (2).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '2287c6068a7883a04a0a23cdaabaa3b1') in 0.0140557 seconds
+[Worker2] Imported GUID: f10ccd8cf33ba1748b481191e958b930 - Path: Assets/Scenes/minigame/NavMesh-Ground (3).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'bf681ff6e3131ff4239e484cd1fce5d9') in 0.0177972 seconds
+[Worker4] Imported GUID: 96c271c37228a9549848a255f503cd92 - Path: Assets/Scenes/minigame/NavMesh-Ground (4).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '726247b7d0ac066ff8acc3595e3333d5') in 0.0139499 seconds
+Refreshing native plugins compatible for Editor in 2.28 ms, found 4 plugins.
+Asset Pipeline Refresh (id=d754b95d94171c94b9a8f6e5344315c0): Total: 0.068 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: c098e92f715f65541a500c11a69621d5 - Path: Assets/Scenes/minigame/NavMesh-Ground.asset' with importer (NativeFormatImporter)
+Imported 'GUID: c098e92f715f65541a500c11a69621d5' -> (Import Result ID: '88926341b184176d056f4f4ed15204f7') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=31969e253b171701c65086465291f0b0 DependenciesID=a8687696039472b4e5b355ccc9e0d37e StaticDependenciesID=3f1e9cf1983899c7c4384151f987a55c 
+Asset Pipeline Refresh (id=fe8366d7c8067b348ad1b2b8a1019499): Total: 0.081 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0ba89349ee98a1946ad77414da50c56e - Path: Assets/Scenes/minigame/NavMesh-Ramp (13).asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0ba89349ee98a1946ad77414da50c56e' -> (Import Result ID: '53e778ddee95fce3550bd5732b8c6902') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=f85c6bb07e7b8d230b24772414922876 DependenciesID=dd18302732228531aba69c8e6ec3d86f StaticDependenciesID=26f367affa7934f0aadf9061500aa1fd 
+Asset Pipeline Refresh (id=fc8f57980eac44e40a830e2f20f7c285): Total: 0.060 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 2789282538960c64d9bc5ac6940e1843 - Path: Assets/Scenes/minigame/NavMesh-Ramp (11).asset' with importer (NativeFormatImporter)
+Imported 'GUID: 2789282538960c64d9bc5ac6940e1843' -> (Import Result ID: 'e0643bcbdc78d8bce544f92bb080775c') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=0a6bd8002d7a015b41b332c020dd4102 DependenciesID=f167db406c909610defc9f78cb7cec92 StaticDependenciesID=2dbf6c733460822ecf3a63e1a815f2d2 
+Asset Pipeline Refresh (id=382e1a7ca0f779749b2f247d6f0bb1f0): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 0ba89349ee98a1946ad77414da50c56e - Path: Assets/Scenes/minigame/NavMesh-Ramp (13).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7f87c4728fbc4c6ecf137e03d24b1f0d') in 0.016538 seconds
+[Worker2] Imported GUID: 2789282538960c64d9bc5ac6940e1843 - Path: Assets/Scenes/minigame/NavMesh-Ramp (11).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7abe618765ad477781f695aeb2f5a9ea') in 0.0181968 seconds
+Importing 'GUID: 4bc69ac68bee7944084ebe2c567c8698 - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 1.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 4bc69ac68bee7944084ebe2c567c8698' -> (Import Result ID: '17971f6a3b16c83dfe9fd5bead3869e9') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=0e0895d75e40faddb12bffd9cf0ebfe0 DependenciesID=e042dda71be0a9e29c9e41864d9bf7d0 StaticDependenciesID=ff631b88769c6d9663c1965c2af09051 
+Asset Pipeline Refresh (id=7213417d2b6e21446b2a138eaaea6844): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 4bc69ac68bee7944084ebe2c567c8698 - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 1.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '60166ac9a8e26d4c3eb9cb89c6b2979c') in 0.0145823 seconds
+Importing 'GUID: 24c456b80a9eb5d45a9c34fa627b70c8 - Path: Assets/Scenes/minigame/NavMesh-Ramp (11) 1.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 24c456b80a9eb5d45a9c34fa627b70c8' -> (Import Result ID: 'a4bfe1834751801e4b5535de9e67d3f8') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2c9ea432c1c9841d3f9790e5d3f38771 DependenciesID=359e45f93986383dc0e7c60d9092cb0a StaticDependenciesID=eaab8b80d5ba311e176fd22543865ac3 
+Refreshing native plugins compatible for Editor in 2.44 ms, found 4 plugins.
+Asset Pipeline Refresh (id=471a714c918383f46b35e9a21d1e5e47): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 24c456b80a9eb5d45a9c34fa627b70c8 - Path: Assets/Scenes/minigame/NavMesh-Ramp (11) 1.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '76b4c1094d0d8006d981322c1111c7af') in 0.0163069 seconds
+Asset Pipeline Refresh (id=6051d653427ae7c4b873603d14a9c9ee): Total: 0.035 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=6482a438a00007f4293cb6e93af0a97a): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 63c7426cf305e8e4d9a52f9b2b6c217f - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 2.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 63c7426cf305e8e4d9a52f9b2b6c217f' -> (Import Result ID: '9d9ef71da980635d3c4e8db8cc6b4726') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=0eeab80b508209c219dad14e5bae698e DependenciesID=cebd1cdc3557a149b2b12dcbd894b35c StaticDependenciesID=66ec9a2800ccd64632dff0b588afc001 
+Asset Pipeline Refresh (id=50b2c0f1faef55f41a745cbd0998d75e): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 63c7426cf305e8e4d9a52f9b2b6c217f - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 2.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '6966c826a19769f7079cbef2294ab7be') in 0.0168686 seconds
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=071746f2ba52ce0468da528f80b86b32): Total: 0.037 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=6308e7bbc278a0143a50a842c2b2b29b): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=82b9ae2097d260447916e808fe741d70): Total: 0.035 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=61a425783da6a11488d43562c1076eb6): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b15c8561d4029944b9b2790e7c1e508e - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 3.asset' with importer (NativeFormatImporter)
+Imported 'GUID: b15c8561d4029944b9b2790e7c1e508e' -> (Import Result ID: 'e2a9389ded616905c84784a1bc873f9e') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=d86a083a8170b951b0f783dc3d3b330c DependenciesID=a8322d7da86e18ddd0cf29984c22c9b8 StaticDependenciesID=7662715e619d112d2be8b0fd1f5d3e6e 
+Asset Pipeline Refresh (id=da89fbcec87f65143b6e061c98572778): Total: 0.051 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 6ac5b9e5e20e99e4eba676300247cb53 - Path: Assets/Scenes/minigame/NavMesh-Ramp (11) 2.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 6ac5b9e5e20e99e4eba676300247cb53' -> (Import Result ID: '70fe5d9da6cfffe149699b8dd2246459') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=33173aa8614f8245ff117625f81e9f16 DependenciesID=c65fc25a8d032a6b087652aa0783791f StaticDependenciesID=c76aec9a413d278fb3cc3174d1efc4b7 
+Asset Pipeline Refresh (id=9b8b37e8835fed548b0f9100d89def88): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: b15c8561d4029944b9b2790e7c1e508e - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 3.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '1ee271731b76b940bd2f9b2abc7ce082') in 0.0137014 seconds
+[Worker2] Imported GUID: 6ac5b9e5e20e99e4eba676300247cb53 - Path: Assets/Scenes/minigame/NavMesh-Ramp (11) 2.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '4622da99ec3c95940bab9f4c6b52e836') in 0.0156367 seconds
+Asset Pipeline Refresh (id=d4d4ae889ea01ee408116079616f88e4): Total: 0.034 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=524cc2cbbffb35d4d897702136475d1a): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=34ca870db97837e42a2b26ded76fd07a): Total: 0.032 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=450dabc8dfed13747b6e669a5599957b): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=5c1408c2585e2fa4c9c7cb1b67c4b6ce): Total: 0.016 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'ece339eb395953cf8023356b8c7a39b3') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=a3ca7f07f3bf515b61390ea8ab3a5c1e StaticDependenciesID=4b3c69462da0882e5b69a1c00c6e2d14 
+Refreshing native plugins compatible for Editor in 2.81 ms, found 4 plugins.
+Asset Pipeline Refresh (id=7a4b014a23882634dabb4c0396578153): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '307f85ad9807b6e70e2da2ed7cbb1523') in 0.021116 seconds
+Asset Pipeline Refresh (id=ff04b95c701431e4ab904f9bba912386): Total: 0.012 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=35c357ad97a4e1744a612ed02075ca29): Total: 0.007 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=82b0b38f5fd6ec8438f477ae73962f11): Total: 0.005 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '01f0385c7cd0683d454108814be7bcdc') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=5b747047d61b806d24636d8c5f29b1ad StaticDependenciesID=bd55ac8e6629a3c9de2ec118771f6dd1 
+Refreshing native plugins compatible for Editor in 2.07 ms, found 4 plugins.
+Asset Pipeline Refresh (id=38529802e155cbc49b0b6aee6a611602): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '25c6057ec1ba2e350037744225e317b3') in 0.0154803 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            5.073 ms
+	Integration:            27.029 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   32.117 ms
+Unloading 192 unused Assets / (0.5 MB). Loaded Objects now: 10089.
+Memory consumption went from 0.73 GB to 0.73 GB.
+Total: 42.546000 ms (FindLiveObjects: 1.140400 ms CreateObjectMapping: 0.192500 ms MarkObjects: 40.411800 ms  DeleteObjects: 0.425800 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.474 ms
+	Integration:            23.572 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   26.058 ms
+Unloading 6 unused Assets / (1.1 MB). Loaded Objects now: 10089.
+Memory consumption went from 0.73 GB to 0.73 GB.
+Total: 28.154500 ms (FindLiveObjects: 0.762400 ms CreateObjectMapping: 0.147800 ms MarkObjects: 26.753900 ms  DeleteObjects: 0.097600 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=e71855daea646ff47b78c5d5fe15f60c): Total: 0.022 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=597273c246692144abcc6239eaef0158): Total: 0.005 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=f7f8b37f65bf6ba41957517add9b4af5): Total: 0.001 seconds - Initiated by StopAssetImportingV2(ForceUpdate)
+Asset Pipeline Refresh (id=da149003aa7ae9f47ae3ea5f89423f70): Total: 0.001 seconds - Initiated by StopAssetImportingV2(ForceUpdate)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=c86ae569912412643880130d40baf8f0): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '9e04996d56da371e77d507dd69c6423d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=68d30b7a90da666195b176be3bd06adb StaticDependenciesID=e21f2228c626bf988edcdbd619e1448b 
+Asset Pipeline Refresh (id=a62306ad07a3a7a43965f73c957b0ac0): Total: 0.036 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7e5ead2fd734e339b3e132c1a1e85b6a') in 0.0157471 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.347 ms
+	Integration:            26.399 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   28.758 ms
+Unloading 169 unused Assets / (1.2 MB). Loaded Objects now: 10089.
+Memory consumption went from 0.73 GB to 0.73 GB.
+Total: 30.872000 ms (FindLiveObjects: 0.836200 ms CreateObjectMapping: 0.157500 ms MarkObjects: 29.103000 ms  DeleteObjects: 0.298100 ms)
+
+[Licensing::Client] Successfully resolved entitlement details

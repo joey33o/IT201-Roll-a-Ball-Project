@@ -706,3 +706,160 @@ Importing 'GUID: 1fa437544652c614887a06d670be5f5e - Path: Assets/Materials/Skybo
 Imported 'GUID: 1fa437544652c614887a06d670be5f5e' -> (Import Result ID: '1170971e89d9a404890df2d96940fe7e') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7a608e21ed434a320c0d9929596def82 DependenciesID=4e061b29ecd335bf94b888c515d56f6e StaticDependenciesID=92ffb0b054ac19f6fa401d1f9ffe0cd2 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.0 MB). Loaded Objects now: 7789.
+Memory consumption went from 383.7 MB to 380.6 MB.
+Total: 8.760300 ms (FindLiveObjects: 0.561900 ms CreateObjectMapping: 0.157800 ms MarkObjects: 7.319600 ms  DeleteObjects: 0.446800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:21:38.3784399Z
+  Time since last request: 92.4108939 seconds.
+  importAddress: GUID: 36841eaca053ad44aa3c84c9627ecd63 - Path: Assets/Scenes/minigame/NavMesh-Ground (5).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 36841eaca053ad44aa3c84c9627ecd63 - Path: Assets/Scenes/minigame/NavMesh-Ground (5).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 36841eaca053ad44aa3c84c9627ecd63' -> (Import Result ID: '88b7e2ddc353f1f415700f319a2428c2') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=43b26c32419f36065b771d9264792116 DependenciesID=2eb5b9df5cf678f61754c780d1c42666 StaticDependenciesID=88f496c2fa6a6e9e1d26d8b989015975 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:21:50.9320109Z
+  Time since last request: 12.5319033 seconds.
+  importAddress: GUID: ea9263ea5b4e8b2489a86ab3acb65d67 - Path: Assets/Scenes/minigame/NavMesh-Ground (2).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ea9263ea5b4e8b2489a86ab3acb65d67 - Path: Assets/Scenes/minigame/NavMesh-Ground (2).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ea9263ea5b4e8b2489a86ab3acb65d67' -> (Import Result ID: '2287c6068a7883a04a0a23cdaabaa3b1') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2fd4eff9961bebdf8267139b4c011483 DependenciesID=8925a4aa46f6c47b77c0f53c754943b4 StaticDependenciesID=f033e43b02d33e700e2fbbb2bd3af769 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:21:50.9488009Z
+  Time since last request: 0.0025956 seconds.
+  importAddress: GUID: 96c271c37228a9549848a255f503cd92 - Path: Assets/Scenes/minigame/NavMesh-Ground (4).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 96c271c37228a9549848a255f503cd92 - Path: Assets/Scenes/minigame/NavMesh-Ground (4).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 96c271c37228a9549848a255f503cd92' -> (Import Result ID: '726247b7d0ac066ff8acc3595e3333d5') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=22fc21d933872fffc58bb228951373db DependenciesID=8978438bb3e2488c6124d45bd8a39f55 StaticDependenciesID=7d9c83934033414962f5060b1b99884c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.0 MB). Loaded Objects now: 7789.
+Memory consumption went from 380.4 MB to 377.4 MB.
+Total: 9.707600 ms (FindLiveObjects: 0.906400 ms CreateObjectMapping: 0.302600 ms MarkObjects: 7.778500 ms  DeleteObjects: 0.461400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 2.46 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.0 MB). Loaded Objects now: 7789.
+Memory consumption went from 383.7 MB to 380.8 MB.
+Total: 9.012900 ms (FindLiveObjects: 0.681100 ms CreateObjectMapping: 0.174700 ms MarkObjects: 7.481900 ms  DeleteObjects: 0.402700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:29:30.6169209Z
+  Time since last request: 459.65405270000002 seconds.
+  importAddress: GUID: 0ba89349ee98a1946ad77414da50c56e - Path: Assets/Scenes/minigame/NavMesh-Ramp (13).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 0ba89349ee98a1946ad77414da50c56e - Path: Assets/Scenes/minigame/NavMesh-Ramp (13).asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 0ba89349ee98a1946ad77414da50c56e' -> (Import Result ID: '7f87c4728fbc4c6ecf137e03d24b1f0d') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dbc066f2ff2588e0acad468164b7bf2d DependenciesID=ddc1407de888cebe51e739839391723a StaticDependenciesID=ec49a9a0d983c84478141659cd51ec4e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:29:42.1983586Z
+  Time since last request: 11.5645154 seconds.
+  importAddress: GUID: 4bc69ac68bee7944084ebe2c567c8698 - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 1.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 4bc69ac68bee7944084ebe2c567c8698 - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 1.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 4bc69ac68bee7944084ebe2c567c8698' -> (Import Result ID: '60166ac9a8e26d4c3eb9cb89c6b2979c') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=939e482b1cb1b62f33231e4a2c5fd3c5 DependenciesID=5eed0b8ccbcf107a049493f25133dd69 StaticDependenciesID=e32bea9d5f57a5a126eddadf77feea95 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 2.10 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.0 MB). Loaded Objects now: 7789.
+Memory consumption went from 380.4 MB to 377.4 MB.
+Total: 6.854100 ms (FindLiveObjects: 0.542800 ms CreateObjectMapping: 0.129200 ms MarkObjects: 5.432700 ms  DeleteObjects: 0.495300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:31:48.9005336Z
+  Time since last request: 126.6874672 seconds.
+  importAddress: GUID: 24c456b80a9eb5d45a9c34fa627b70c8 - Path: Assets/Scenes/minigame/NavMesh-Ramp (11) 1.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 24c456b80a9eb5d45a9c34fa627b70c8 - Path: Assets/Scenes/minigame/NavMesh-Ramp (11) 1.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 24c456b80a9eb5d45a9c34fa627b70c8' -> (Import Result ID: '76b4c1094d0d8006d981322c1111c7af') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=be1dcb0f58a0e78706f197325aa5ee2c DependenciesID=070e5f1c10101a8a856cf5c72cf48a2b StaticDependenciesID=07b352f8a2a014ae844b0641af102c9f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:31:58.6420127Z
+  Time since last request: 9.7250401 seconds.
+  importAddress: GUID: 63c7426cf305e8e4d9a52f9b2b6c217f - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 2.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 63c7426cf305e8e4d9a52f9b2b6c217f - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 2.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 63c7426cf305e8e4d9a52f9b2b6c217f' -> (Import Result ID: '6966c826a19769f7079cbef2294ab7be') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d5a3d13a7de7fafb6482cbd612c43bec DependenciesID=c0f26630604de93050a1d243fde96266 StaticDependenciesID=9c3bc0e17dce8bd1ce5cbcd05f4166f1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:33:08.281341Z
+  Time since last request: 69.6223253 seconds.
+  importAddress: GUID: b15c8561d4029944b9b2790e7c1e508e - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 3.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: b15c8561d4029944b9b2790e7c1e508e - Path: Assets/Scenes/minigame/NavMesh-Ramp (13) 3.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: b15c8561d4029944b9b2790e7c1e508e' -> (Import Result ID: '1ee271731b76b940bd2f9b2abc7ce082') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7548fc6ea0a330887b94ee306ae90ecb DependenciesID=49bd249c354c760ac729e78402846fe5 StaticDependenciesID=94f0d935bbd49d4e7d493ef1d3b78ec8 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:33:47.1841176Z
+  Time since last request: 38.8889514 seconds.
+  importAddress: GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '307f85ad9807b6e70e2da2ed7cbb1523') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cb51f253aee49f4cdbb24fe6edf3e69c DependenciesID=3909a18721705cbb936f5f8624edbe78 StaticDependenciesID=c692f314a7fbec852a70a83d3358729f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:37:41.189413Z
+  Time since last request: 233.98404120000001 seconds.
+  importAddress: GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '25c6057ec1ba2e350037744225e317b3') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d4d549d5f14d92880deee9ad98f6cb57 DependenciesID=c6b736cd2db697655d0d8a53026482d3 StaticDependenciesID=37a5cedb2e68ba8af53f0903ed5d4e9b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 2.96 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.0 MB). Loaded Objects now: 7789.
+Memory consumption went from 380.4 MB to 377.4 MB.
+Total: 9.749100 ms (FindLiveObjects: 0.783900 ms CreateObjectMapping: 0.282600 ms MarkObjects: 7.924400 ms  DeleteObjects: 0.474200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T13:47:45.3412512Z
+  Time since last request: 604.13618840000004 seconds.
+  importAddress: GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '7e5ead2fd734e339b3e132c1a1e85b6a') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=98a87b3f2e2457826fa17f08022d6e00 DependenciesID=de3c40843326f6b11b43d998ac908279 StaticDependenciesID=c73586f618d36defad096f4b290642e1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
