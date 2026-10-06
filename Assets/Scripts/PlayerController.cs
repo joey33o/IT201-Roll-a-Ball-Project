@@ -66,6 +66,9 @@ public class PlayerController : MonoBehaviour
          other.gameObject.SetActive(false);
          count= count +1;
          SetCountText();
+         if(count == 2){
+             GameObject.FindWithTag("Door").SetActive(false);
+         }
        }
     if (other.gameObject.CompareTag("Jump"))
    {
