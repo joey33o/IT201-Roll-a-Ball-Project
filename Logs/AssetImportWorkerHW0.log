@@ -689,3 +689,77 @@ Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame
 Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '1afc774d5dbd40b261522aab769b303a') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e84e97ce3718a72637d736fa2246a70d DependenciesID=00a91500b62b6ffe75ebc6c3f7bb452a StaticDependenciesID=6ac83a67931b791a299a2127c2ee861d 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 2.17 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (2.9 MB). Loaded Objects now: 7646.
+Memory consumption went from 364.2 MB to 361.2 MB.
+Total: 35.375300 ms (FindLiveObjects: 1.455400 ms CreateObjectMapping: 0.508400 ms MarkObjects: 32.464200 ms  DeleteObjects: 0.507400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T11:50:51.2873453Z
+  Time since last request: 723.44618879999996 seconds.
+  importAddress: GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'a3fdd956de115c775f08237826ab38f8') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f45130078a802f9b976669a930e69844 DependenciesID=463d3017460de45cd2c5924f7f6077bc StaticDependenciesID=24c247e23beba227731eb9b233715584 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 2.20 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.0 MB). Loaded Objects now: 7646.
+Memory consumption went from 364.2 MB to 361.2 MB.
+Total: 8.486200 ms (FindLiveObjects: 0.520900 ms CreateObjectMapping: 0.143200 ms MarkObjects: 7.185300 ms  DeleteObjects: 0.377700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T11:57:06.7871056Z
+  Time since last request: 375.47030539999997 seconds.
+  importAddress: GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '36f61c167f12266a39986ac9a6e5b82f') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7808279de85163e9b92199c1497a14b0 DependenciesID=26d7ee469767b6f044a366f04bfc1bcf StaticDependenciesID=70870087bc5cf93f3ef1a86c9ddc1890 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.1 MB). Loaded Objects now: 7646.
+Memory consumption went from 364.2 MB to 361.1 MB.
+Total: 8.873500 ms (FindLiveObjects: 0.496300 ms CreateObjectMapping: 0.153000 ms MarkObjects: 7.518800 ms  DeleteObjects: 0.417900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-06T12:01:35.7515211Z
+  Time since last request: 268.9462542 seconds.
+  importAddress: GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'e0c391328bfa6cf97b0e890c67d34bc8') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8d6eabdee61b466ab8c7b8a68a73e748 DependenciesID=551c33e7dbb832d5a9396d4da3c432fd StaticDependenciesID=df3a3c44e0b0eacac7bccb6d7e7c59ff 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.0 MB). Loaded Objects now: 7646.
+Memory consumption went from 364.2 MB to 361.2 MB.
+Total: 8.899200 ms (FindLiveObjects: 0.457300 ms CreateObjectMapping: 0.182200 ms MarkObjects: 7.544900 ms  DeleteObjects: 0.435000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192

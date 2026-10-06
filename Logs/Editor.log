@@ -784,3 +784,36 @@ Memory consumption went from 0.66 GB to 0.66 GB.
 Total: 25.847900 ms (FindLiveObjects: 0.681400 ms CreateObjectMapping: 0.163500 ms MarkObjects: 23.444100 ms  DeleteObjects: 1.292900 ms)
 
 [Worker0] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '1afc774d5dbd40b261522aab769b303a') in 0.0174339 seconds
+Asset Pipeline Refresh (id=a411da34ff814b147bdcc72aa0303b97): Total: 0.012 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=ee2ceeedc7e426f4cb68473e779eaebd): Total: 0.004 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=5d5eaf257b6b7a04a8e127702f9cd61a): Total: 0.004 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '60d7dbcebd3878c4bee8e13ab089eeb8') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=822f24245d82c74c5d4a6bfa342e2643 StaticDependenciesID=b96e90ffaa934064fac500d8e78dda3f 
+Asset Pipeline Refresh (id=5d0863b17346d194e91fee7f274002f3): Total: 0.060 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a3fdd956de115c775f08237826ab38f8') in 0.0291707 seconds
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '2dadee899ae1c1d9efcb1c995caa27e5') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=a3e6e1e37e998ee1d6a614b5972a26ca StaticDependenciesID=f7f6946bf536b491ad4e0b733a4b5ccb 
+Asset Pipeline Refresh (id=42f97c676c8bc8146960ed725e72129e): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '36f61c167f12266a39986ac9a6e5b82f') in 0.0180145 seconds
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '9146f5ec2a5a4b17257138b47bb34484') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=386c71db9dfafaa67d0b985e2b6a8057 StaticDependenciesID=34c61c21060f6746c6b2ef7673e90295 
+Asset Pipeline Refresh (id=18b779647da36f74ba308138a4109a34): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e0c391328bfa6cf97b0e890c67d34bc8') in 0.0141626 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            4.324 ms
+	Integration:            25.574 ms
+	Integration of assets:  0.006 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   29.911 ms
+Unloading 172 unused Assets / (0.5 MB). Loaded Objects now: 9604.
+Memory consumption went from 0.66 GB to 0.66 GB.
+Total: 31.089800 ms (FindLiveObjects: 1.140700 ms CreateObjectMapping: 0.311600 ms MarkObjects: 28.642300 ms  DeleteObjects: 0.656000 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=b72050af306c489429c6cfea0c91dc6d): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
