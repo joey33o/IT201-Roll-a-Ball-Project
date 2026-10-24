@@ -2139,3 +2139,368 @@ Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame
 Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '004d71459d57c5d3d2a7f400a59bb9ee') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=46f7802f4f313a19eb038a319b06f13d StaticDependenciesID=6c155eb2cc4633bf67e95843589281c7 
 Asset Pipeline Refresh (id=299d9f121320d7e43992f826381838db): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
 [Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '9ff3a2b44d7b00d8f43bd4d954b3edd9') in 0.0202511 seconds
+Asset Pipeline Refresh (id=56d0acee3fcb7bd42bf5d5321039b4f7): Total: 0.012 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=8f8789284799d1745b6701c15b8b12f6): Total: 0.004 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=51a0be4aaacff694ba6387b70fd7e031): Total: 0.013 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=87063355483df0345b989a1cb88a911f): Total: 0.008 seconds - Initiated by StopAssetImportingV2(ForceUpdate)
+[Licensing::Client] Successfully resolved entitlement details
+
+[main 2026-10-24T15:22:21.505Z] [node-compile-cache] main: packaged cache enabled (status: enabled, configured: C:\Users\anima\AppData\Local\Programs\Microsoft VS Code\6d62b1d5da\resources\app\node-compile-cache\main, active: C:\Users\anima\AppData\Local\Programs\Microsoft VS Code\6d62b1d5da\resources\app\node-compile-cache\main\v24.21.0-x64-c3a7e8f2)
+[main 2026-10-24T15:22:21.542Z] StorageMainService: creating application shared storage
+[main 2026-10-24T15:22:21.886Z] [shared storage] Creating shared storage database at 'c:\Users\anima\.vscode-shared\sharedStorage\state.vscdb' (wasCreated: false)
+[main 2026-10-24T15:22:21.887Z] [shared storage] Initializing fallback application storage (path: c:\Users\anima\AppData\Roaming\Code\User\globalStorage\state.vscdb)
+[main 2026-10-24T15:22:21.987Z] [shared storage] Fallback application storage initialized with 185 items
+[main 2026-10-24T15:22:22.808Z] update#setState idle
+[main 2026-10-24T15:22:22.871Z] AgentHostProcessManager: agent host started
+[main 2026-10-24T15:22:24.709Z] [AgentHost:stderr] (node:37812) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+
+(node:43224) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+Unknown channel: agentHostClientByokLm
+Unknown channel: agentHostClientProxy
+Unknown channel: agentHostClientProxy
+Unknown channel: agentHostClientProxy
+[main 2026-10-24T15:22:35.504Z] Extension host with pid 43884 exited with code: 0, signal: unknown.
+Asset Pipeline Refresh (id=75b5e3867c5ae1245847575725c71c7b): Total: 0.012 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=a8850fcdab9e48940a210e666a662293): Total: 0.045 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker4] Imported GUID: bd5105e1f39844b4daded70961d0174f - Path: Assets/Stylized_Astronaut/Character/Materials/Grey_Mat.mat - Importer: PreviewImporter -> (ImportResultId: 'e9ce03c775c2f4c5fa17108a5c85687c') in 0.2355056 seconds
+[Worker4] Imported GUID: d2c8f925eb40c4748811efdd803f25c6 - Path: Assets/Stylized_Astronaut/Character/Materials/Yellow_Mat.mat - Importer: PreviewImporter -> (ImportResultId: '2c391672482a28cc7dd0c7291aefc51c') in 0.0553145 seconds
+[Worker2] Imported GUID: 06eb4e637b7ef614e9265f48c542664b - Path: Assets/Stylized_Astronaut/Character/Materials/White_Mat.mat - Importer: PreviewImporter -> (ImportResultId: 'c475be3358a01833a44fb13b13d0ace5') in 0.4009716 seconds
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'fb238eed784f536a43e156bc9efbfe3b') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=d9f0456b20419341412d4711999550bc StaticDependenciesID=105e85df4044ff58cf781d84550294fb 
+Refreshing native plugins compatible for Editor in 10.77 ms, found 4 plugins.
+Asset Pipeline Refresh (id=eac8dcd4dbd39674dbfb701ef7610f97): Total: 0.090 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            11.135 ms
+	Integration:            91.063 ms
+	Integration of assets:  0.015 ms
+	Thread Wait Time:       0.043 ms
+	Total Operation Time:   102.256 ms
+Unloading 232 unused Assets / (2.2 MB). Loaded Objects now: 11002.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 99.396600 ms (FindLiveObjects: 2.279000 ms CreateObjectMapping: 0.569100 ms MarkObjects: 94.380100 ms  DeleteObjects: 1.346500 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e4eabe1f3ba2cddbcd05f4af88e26041') in 0.0428356 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.611 ms
+	Integration:            80.371 ms
+	Integration of assets:  0.009 ms
+	Thread Wait Time:       0.024 ms
+	Total Operation Time:   87.014 ms
+Unloading 16 unused Assets / (2.1 MB). Loaded Objects now: 11032.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 79.054700 ms (FindLiveObjects: 1.814800 ms CreateObjectMapping: 0.287000 ms MarkObjects: 75.774500 ms  DeleteObjects: 0.303700 ms)
+
+Asset Pipeline Refresh (id=aeeff71e4b52a5b4ea23dbbd4f4bf351): Total: 0.026 seconds - Initiated by StopAssetImportingV2(ForceUpdate)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.745 ms
+	Integration:            68.855 ms
+	Integration of assets:  0.009 ms
+	Thread Wait Time:       0.020 ms
+	Total Operation Time:   75.629 ms
+Unloading 18 unused Assets / (1.4 MB). Loaded Objects now: 11025.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 61.877200 ms (FindLiveObjects: 1.831700 ms CreateObjectMapping: 0.468000 ms MarkObjects: 58.193700 ms  DeleteObjects: 0.247800 ms)
+
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.249 ms
+	Integration:            61.562 ms
+	Integration of assets:  0.009 ms
+	Thread Wait Time:       0.023 ms
+	Total Operation Time:   67.842 ms
+Unloading 16 unused Assets / (1.5 MB). Loaded Objects now: 11000.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 83.226300 ms (FindLiveObjects: 1.747300 ms CreateObjectMapping: 0.314300 ms MarkObjects: 79.965100 ms  DeleteObjects: 0.156300 ms)
+
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 43 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            4.707 ms
+	Integration:            53.852 ms
+	Integration of assets:  0.006 ms
+	Thread Wait Time:       0.023 ms
+	Total Operation Time:   58.587 ms
+Unloading 16 unused Assets / (1.6 MB). Loaded Objects now: 11005.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 56.023300 ms (FindLiveObjects: 2.055900 ms CreateObjectMapping: 0.307300 ms MarkObjects: 52.483900 ms  DeleteObjects: 0.143000 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 45 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            4.314 ms
+	Integration:            53.620 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.075 ms
+	Total Operation Time:   58.018 ms
+Unloading 34 unused Assets / (2.8 MB). Loaded Objects now: 11034.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 59.359400 ms (FindLiveObjects: 1.648900 ms CreateObjectMapping: 0.291400 ms MarkObjects: 56.364800 ms  DeleteObjects: 0.266400 ms)
+
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 42 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            4.594 ms
+	Integration:            56.086 ms
+	Integration of assets:  0.009 ms
+	Thread Wait Time:       0.014 ms
+	Total Operation Time:   60.703 ms
+Unloading 24 unused Assets / (2.8 MB). Loaded Objects now: 11000.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 50.725300 ms (FindLiveObjects: 1.241500 ms CreateObjectMapping: 0.239000 ms MarkObjects: 47.926900 ms  DeleteObjects: 0.285400 ms)
+
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 2.88 ms, found 4 plugins.
+Asset Pipeline Refresh (id=9294f620324a49b49bca2f272eb5b366): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '616146721071fbfbc52b4f13840d8285') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=35638ed71fef481cbcfee628e42cd289 StaticDependenciesID=3db8064645e32663ac542f555c032744 
+Refreshing native plugins compatible for Editor in 3.96 ms, found 4 plugins.
+Asset Pipeline Refresh (id=abd3a7a4786531146adb3b0f5f1b0826): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 61 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.206 ms
+	Integration:            72.281 ms
+	Integration of assets:  0.010 ms
+	Thread Wait Time:       0.023 ms
+	Total Operation Time:   78.521 ms
+Unloading 183 unused Assets / (3.0 MB). Loaded Objects now: 10998.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 77.947700 ms (FindLiveObjects: 2.024900 ms CreateObjectMapping: 0.417800 ms MarkObjects: 73.449700 ms  DeleteObjects: 0.573700 ms)
+
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '1ba86abb6f5b2129c920b87b8f4bac1a') in 0.0579887 seconds
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 5.74 ms, found 4 plugins.
+Asset Pipeline Refresh (id=c80203ef5b78ee04e8e04dcd547fc527): Total: 0.062 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '92d526c28e9250dbb92ace56f3858acd') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=67f462b715082a171b860882449c3543 StaticDependenciesID=53b7eb510a2b83f3613b29a0967ed91b 
+Refreshing native plugins compatible for Editor in 3.23 ms, found 4 plugins.
+Asset Pipeline Refresh (id=5ae9d10b834ba214ab4884be17e31467): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '804890528fab2de6444fe84b45389577') in 0.0406971 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 72 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.903 ms
+	Integration:            102.637 ms
+	Integration of assets:  0.013 ms
+	Thread Wait Time:       0.026 ms
+	Total Operation Time:   109.579 ms
+Unloading 197 unused Assets / (4.6 MB). Loaded Objects now: 11010.
+Memory consumption went from 1.04 GB to 1.03 GB.
+Total: 54.685000 ms (FindLiveObjects: 2.339000 ms CreateObjectMapping: 0.456300 ms MarkObjects: 49.804600 ms  DeleteObjects: 0.764600 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 4.08 ms, found 4 plugins.
+Asset Pipeline Refresh (id=8d53ea45a929787458c0d4be628809ed): Total: 0.049 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'c4b8140541068e9e484f5e3ce5858ef8') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=d0f5adfaed133a72078c56cfe2284716 StaticDependenciesID=5e84d57fb5b268c96c08718080682007 
+Refreshing native plugins compatible for Editor in 4.05 ms, found 4 plugins.
+Asset Pipeline Refresh (id=c48c4d63a3c4d8246979611ea8adb2d8): Total: 0.077 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 74 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            7.217 ms
+	Integration:            78.471 ms
+	Integration of assets:  0.007 ms
+	Thread Wait Time:       0.024 ms
+	Total Operation Time:   85.719 ms
+Unloading 200 unused Assets / (3.4 MB). Loaded Objects now: 11004.
+Memory consumption went from 1.04 GB to 1.03 GB.
+Total: 70.200000 ms (FindLiveObjects: 2.560000 ms CreateObjectMapping: 0.573000 ms MarkObjects: 65.131400 ms  DeleteObjects: 0.798700 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e91873ec70663b65abb5b03e734c0641') in 0.0462831 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 57 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.334 ms
+	Integration:            59.798 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.032 ms
+	Total Operation Time:   66.172 ms
+Unloading 16 unused Assets / (2.3 MB). Loaded Objects now: 11032.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 54.688800 ms (FindLiveObjects: 1.458300 ms CreateObjectMapping: 0.252600 ms MarkObjects: 52.112100 ms  DeleteObjects: 0.107900 ms)
+
+Asset Pipeline Refresh (id=6c0ec1152fd51dc469598ebfbf982c23): Total: 0.072 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 3.10 ms, found 4 plugins.
+Asset Pipeline Refresh (id=9f81d0168dc499443b646f87fb623584): Total: 0.050 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '9f60671ae3c080622ed8b0cea93dcfea') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=e2cb5862e22003cdcd271093fa3266a6 StaticDependenciesID=a852e15192bdc1f6fb269deb2c168221 
+Refreshing native plugins compatible for Editor in 3.85 ms, found 4 plugins.
+Asset Pipeline Refresh (id=c163aedcacdcce44cbb88b1d7cecffae): Total: 0.077 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 74 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            7.555 ms
+	Integration:            74.465 ms
+	Integration of assets:  0.013 ms
+	Thread Wait Time:       0.019 ms
+	Total Operation Time:   82.052 ms
+Unloading 184 unused Assets / (2.2 MB). Loaded Objects now: 11010.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 84.672900 ms (FindLiveObjects: 2.232700 ms CreateObjectMapping: 0.300700 ms MarkObjects: 79.933300 ms  DeleteObjects: 0.740000 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5efa0ce1f41be5a1dbabf1b3dbdab94c') in 0.0407574 seconds
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Importing 'GUID: d42e244a5919fe042aa2e66751fbb05c - Path: Assets/Materials/Player.mat' with importer (NativeFormatImporter)
+Imported 'GUID: d42e244a5919fe042aa2e66751fbb05c' -> (Import Result ID: '39e17a4c79acd54194d33dc47779e051') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=61e758c216764730d9ef1a691d003821 DependenciesID=8559872522fc8f393cc843f1c0353e99 StaticDependenciesID=56bf6bad6ab127823ae17333d54f8a99 
+Refreshing native plugins compatible for Editor in 2.92 ms, found 4 plugins.
+Asset Pipeline Refresh (id=7ab98d8ff545a9448a11a1adbe7c5690): Total: 0.097 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'd93f0b7e8b1d886be5e24a9808f970be') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=57176b6b65a1f37292808c0dea19fbfe StaticDependenciesID=727aedbd8c8a6a222faf6e63daef0c67 
+Refreshing native plugins compatible for Editor in 3.68 ms, found 4 plugins.
+Asset Pipeline Refresh (id=b809e4b883460f841af0993b9517ed08): Total: 0.078 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker2] Imported GUID: d42e244a5919fe042aa2e66751fbb05c - Path: Assets/Materials/Player.mat - Importer: PreviewImporter -> (ImportResultId: 'be128fa1546db6adad21049afa8b18e0') in 0.0509622 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            5.411 ms
+	Integration:            57.393 ms
+	Integration of assets:  0.009 ms
+	Thread Wait Time:       0.022 ms
+	Total Operation Time:   62.836 ms
+Unloading 187 unused Assets / (1.8 MB). Loaded Objects now: 11011.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 59.226600 ms (FindLiveObjects: 1.981500 ms CreateObjectMapping: 0.340500 ms MarkObjects: 55.553500 ms  DeleteObjects: 0.420000 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Worker4] Imported GUID: d42e244a5919fe042aa2e66751fbb05c - Path: Assets/Materials/Player.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '05416a367d0f44ee9fd812393d3eea04') in 0.0489489 seconds
+[Worker2] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '3f2c9c2c037befa12b9b1bb67e8929d2') in 0.0516069 seconds
+Asset Pipeline Refresh (id=e0387fc57eecdb1458d927b4e3937622): Total: 0.045 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Refreshing native plugins compatible for Editor in 3.05 ms, found 4 plugins.
+Asset Pipeline Refresh (id=0542052a214077041b2e840912a660d6): Total: 0.142 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=585bda8a2228fd346b3e04b5b3258275): Total: 0.002 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: b2a1944c844e5bf4ab9234728d4e4980 - Path: Assets/PreFabs/StarGem3.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e2703fc80c379e8636621f30d7e6ea01') in 0.3685447 seconds
+[Licensing::Client] Successfully resolved entitlement details
+
+[main 2026-10-24T15:37:40.742Z] [node-compile-cache] main: packaged cache enabled (status: enabled, configured: C:\Users\anima\AppData\Local\Programs\Microsoft VS Code\6d62b1d5da\resources\app\node-compile-cache\main, active: C:\Users\anima\AppData\Local\Programs\Microsoft VS Code\6d62b1d5da\resources\app\node-compile-cache\main\v24.21.0-x64-c3a7e8f2)
+[main 2026-10-24T15:37:40.771Z] StorageMainService: creating application shared storage
+[main 2026-10-24T15:37:40.965Z] [shared storage] Creating shared storage database at 'c:\Users\anima\.vscode-shared\sharedStorage\state.vscdb' (wasCreated: false)
+[main 2026-10-24T15:37:40.966Z] [shared storage] Initializing fallback application storage (path: c:\Users\anima\AppData\Roaming\Code\User\globalStorage\state.vscdb)
+[main 2026-10-24T15:37:41.034Z] [shared storage] Fallback application storage initialized with 185 items
+[main 2026-10-24T15:37:41.835Z] update#setState idle
+Asset Pipeline Refresh (id=6f1f07d3ee8ffd949bd9d89dff589543): Total: 0.026 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 6be92caf8bbf4b3498bab03d0ff292c0 - Path: Assets/PreFabs/Pickup.prefab' with importer (PrefabImporter)
+Imported 'GUID: 6be92caf8bbf4b3498bab03d0ff292c0' -> (Import Result ID: '04dcc8baff2d995208dcea79b3986331') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d7a12131a68678d832d1a95c2834180d DependenciesID=8c42f7376319cf3fd7f6e45f6ce9fca5 StaticDependenciesID=4a4b87a335274e21280a7c0fa02c438a 
+Refreshing native plugins compatible for Editor in 3.74 ms, found 4 plugins.
+Asset Pipeline Refresh (id=a1995e935bcb33c4aa7c9ee90a02aae3): Total: 0.093 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 6be92caf8bbf4b3498bab03d0ff292c0 - Path: Assets/PreFabs/Pickup.prefab - Importer: PreviewImporter -> (ImportResultId: '65de4d9f393a5d4f46f2d29e8a41c46b') in 0.0562594 seconds
+[Worker4] Imported GUID: 6be92caf8bbf4b3498bab03d0ff292c0 - Path: Assets/PreFabs/Pickup.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5a3ca5069c230d12d6e6618cb8d24636') in 0.080899 seconds
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 5.87 ms, found 4 plugins.
+Asset Pipeline Refresh (id=a3939ca4eb96484439ffc63279e6c26a): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '4f67980a49740ab81950dc83912f6fae') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=03d4ed068cef29a1a82970f0248d01b4 StaticDependenciesID=791a9f5e046311b99662531ed902fcbd 
+Refreshing native plugins compatible for Editor in 4.78 ms, found 4 plugins.
+Asset Pipeline Refresh (id=b0f9987283d926a4a917207039158dbe): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '17c18adb8518267bed25e3f405b2918a') in 0.0396974 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            6.567 ms
+	Integration:            67.325 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.020 ms
+	Total Operation Time:   73.919 ms
+Unloading 291 unused Assets / (4.6 MB). Loaded Objects now: 11027.
+Memory consumption went from 1.04 GB to 1.03 GB.
+Total: 71.102300 ms (FindLiveObjects: 2.233900 ms CreateObjectMapping: 0.390700 ms MarkObjects: 65.791000 ms  DeleteObjects: 1.151000 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Importing 'GUID: d0007274d19cf8341a11f60211a72e79 - Path: Assets/Materials/Pickup.mat' with importer (NativeFormatImporter)
+Imported 'GUID: d0007274d19cf8341a11f60211a72e79' -> (Import Result ID: 'be4b7349d82787b582aa8fa48c3b770e') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=4a33cf1292438b79e093cf2b63312bfa DependenciesID=1c850c548a796389c571b5802c78b3c9 StaticDependenciesID=e54e5c2568c6fbabe0ef063f4a74b442 
+Refreshing native plugins compatible for Editor in 2.92 ms, found 4 plugins.
+Asset Pipeline Refresh (id=69fb2e7f2b2584348aa174c03551e245): Total: 0.095 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker2] Imported GUID: d0007274d19cf8341a11f60211a72e79 - Path: Assets/Materials/Pickup.mat - Importer: PreviewImporter -> (ImportResultId: '7e82e6155a7dc6355af0b03d1142ba0c') in 0.0448373 seconds
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            4.843 ms
+	Integration:            70.620 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       0.037 ms
+	Total Operation Time:   75.505 ms
+Unloading 29 unused Assets / (0.7 MB). Loaded Objects now: 11020.
+Memory consumption went from 1.03 GB to 1.03 GB.
+Total: 68.960500 ms (FindLiveObjects: 1.871600 ms CreateObjectMapping: 0.305500 ms MarkObjects: 65.402500 ms  DeleteObjects: 0.343300 ms)
+
+[Worker4] Imported GUID: d0007274d19cf8341a11f60211a72e79 - Path: Assets/Materials/Pickup.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'd55a1b96591a4ae01081da8456eebaac') in 0.0280708 seconds
+Importing 'GUID: 5e2b4154f13caef45adfdf6f3f25865a - Path: Assets/Materials/Pet.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 5e2b4154f13caef45adfdf6f3f25865a' -> (Import Result ID: 'fc580d21db146a88113494e4f21c3e98') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=dc124eba209683a9bf01a490c5325cc1 DependenciesID=670cb1066c41222ad271c218a12b1820 StaticDependenciesID=4bbdc2f82a9108fb82f43728a8899c79 
+Refreshing native plugins compatible for Editor in 3.13 ms, found 4 plugins.
+Asset Pipeline Refresh (id=fba63773f7ef20549bf56542ea88fc2b): Total: 0.138 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Importing 'GUID: d42e244a5919fe042aa2e66751fbb05c - Path: Assets/Materials/Player.mat' with importer (NativeFormatImporter)
+Imported 'GUID: d42e244a5919fe042aa2e66751fbb05c' -> (Import Result ID: '7268f4356e58aa71af273e0b23b88005') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=61e758c216764730d9ef1a691d003821 DependenciesID=7b3bd41eba51ff74fb93f5143882fa67 StaticDependenciesID=062bf9766d7b3f147d3667cd7e6912cb 
+Importing 'GUID: 5e2b4154f13caef45adfdf6f3f25865a - Path: Assets/Materials/Pet.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 5e2b4154f13caef45adfdf6f3f25865a' -> (Import Result ID: 'b34f87a9c654635522765b31d1f20b92') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=dc124eba209683a9bf01a490c5325cc1 DependenciesID=9ebc6134a91f9f6124e663b125b4f952 StaticDependenciesID=bcab2ed4940d2e3bc16c849518c96714 
+Refreshing native plugins compatible for Editor in 2.70 ms, found 4 plugins.
+Asset Pipeline Refresh (id=2ee01ebe2388a7146bf6da78943383b2): Total: 0.082 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker2] Imported GUID: 5e2b4154f13caef45adfdf6f3f25865a - Path: Assets/Materials/Pet.mat - Importer: PreviewImporter -> (ImportResultId: 'b6314aaa97f9f5562f66d4d4e80b2ad0') in 0.0447347 seconds
+[Worker4] Imported GUID: d42e244a5919fe042aa2e66751fbb05c - Path: Assets/Materials/Player.mat - Importer: PreviewImporter -> (ImportResultId: 'c66a7847ada369eba61266e15442b860') in 0.0470594 seconds
+[Worker4] Imported GUID: d42e244a5919fe042aa2e66751fbb05c - Path: Assets/Materials/Player.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '8c4a65410d5b62948552c156fc483c66') in 0.038798 seconds
+[Worker2] Imported GUID: 5e2b4154f13caef45adfdf6f3f25865a - Path: Assets/Materials/Pet.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '6fc257089332fccc648b65c00ba58ac6') in 0.0469656 seconds
+Importing 'GUID: 5e2b4154f13caef45adfdf6f3f25865a - Path: Assets/Materials/Pet.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 5e2b4154f13caef45adfdf6f3f25865a' -> (Import Result ID: 'bce046a06638d751bd50de34c6e4a6bb') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=dc124eba209683a9bf01a490c5325cc1 DependenciesID=5fc0699318b566d9edcc5ac35403229b StaticDependenciesID=df879f703aa9be4cf160960f95512434 
+Refreshing native plugins compatible for Editor in 3.87 ms, found 4 plugins.
+Asset Pipeline Refresh (id=5cbfa19e28d6a9a4ea9c166e6b92be53): Total: 0.080 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '78447dce7497b7939c5efda65297f0a2') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=9677d9f506f3d0ffe41c08b7e9d9240a StaticDependenciesID=26a80d03a3834d9e4b2d9351be96d3e0 
+Refreshing native plugins compatible for Editor in 5.38 ms, found 4 plugins.
+Asset Pipeline Refresh (id=574d246b669232e45a1215a3d9ee9b14): Total: 0.077 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 5e2b4154f13caef45adfdf6f3f25865a - Path: Assets/Materials/Pet.mat - Importer: PreviewImporter -> (ImportResultId: '8170fea39d76d393d45609635688acf8') in 0.0461983 seconds
+[Worker4] Imported GUID: 5e2b4154f13caef45adfdf6f3f25865a - Path: Assets/Materials/Pet.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'ffce8e93318733e27a5133a963e316d1') in 0.0427429 seconds
+[Worker2] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'bc14e14a10b56ea924b7e64a6cdf8b85') in 0.0501057 seconds
