@@ -2130,3 +2130,12 @@ Total: 27.823700 ms (FindLiveObjects: 1.011400 ms CreateObjectMapping: 0.185300 
 
 [Licensing::Client] Successfully resolved entitlement details
 [Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '58c1ab9d86c88baac5027bd491224655') in 0.020571 seconds
+Asset Pipeline Refresh (id=a1d89973ebad092459720ccb0b342c73): Total: 0.033 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 2.36 ms, found 4 plugins.
+Asset Pipeline Refresh (id=57f118578e7b6bb4ba427653b440bba1): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '004d71459d57c5d3d2a7f400a59bb9ee') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=46f7802f4f313a19eb038a319b06f13d StaticDependenciesID=6c155eb2cc4633bf67e95843589281c7 
+Asset Pipeline Refresh (id=299d9f121320d7e43992f826381838db): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker4] Imported GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '9ff3a2b44d7b00d8f43bd4d954b3edd9') in 0.0202511 seconds

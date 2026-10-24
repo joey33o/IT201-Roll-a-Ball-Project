@@ -822,3 +822,15 @@ Total: 8.047500 ms (FindLiveObjects: 0.662300 ms CreateObjectMapping: 0.189700 m
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
   graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 3.80 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (3.0 MB). Loaded Objects now: 7775.
+Memory consumption went from 405.3 MB to 402.3 MB.
+Total: 9.205200 ms (FindLiveObjects: 0.576900 ms CreateObjectMapping: 0.195200 ms MarkObjects: 7.598000 ms  DeleteObjects: 0.574700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
