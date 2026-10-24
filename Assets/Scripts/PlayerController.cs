@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     public float speed = 0;
     public bool CanJump = false;
+    public float jumpForce;
     public GameObject winTextObject;
     public TextMeshProUGUI countText;
     private Rigidbody rb; 
@@ -27,10 +28,14 @@ public class PlayerController : MonoBehaviour
     //Needs 3d vector in order to sphere to move so take 2d var
     Vector3 movement = new Vector3 (movementX, 0.0f, movementY);
    rb.AddForce(movement*speed); 
-    if (CanJump && Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame)
+    // if (CanJump && Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame)
+    // {
+    //     rb.AddForce(Vector3.up * 5, ForceMode.Impulse);
+    //     // CanJump = false; want to add a timer to this
+    // }
+    if(Input.GetKeyDown(KeyCode.Space))
     {
-        rb.AddForce(Vector3.up * 5, ForceMode.Impulse);
-        // CanJump = false; want to add a timer to this
+        rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
     }
    }
       
@@ -43,6 +48,8 @@ public class PlayerController : MonoBehaviour
       Vector2 movementVector = movementValue.Get<Vector2>(); 
       movementX = movementVector.x; 
       movementY = movementVector.y; 
+
+      
    }
 
       void SetCountText() 
