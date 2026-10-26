@@ -1,0 +1,820 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima" at "2026-10-26T22:04:53.250411Z"
+Built from '6000.6/staging' branch; Version is '6000.6.2f1 (770e33f6875c) revision 7802419'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 15892 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-10-26T22:04:53Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 4280, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              71790b124c43430692e75cc38d7135a5
+  Correlation Id:          f4c0aae30be91ae525a98b7cd8d083f0
+  External correlation Id: 5199301308920145929
+  Machine Id:              ZKKM2ZeYzcrC9nKecvcZNepNPWU=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-anima" (connect: 0.00s, validation: 0.00s, handshake: 0.05s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima-notifications" at "2026-10-26T22:04:53.3032056Z"
+[Licensing::Module] Licensing Background thread has ended after 0.05s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW14
+-projectPath
+C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+-logFile
+Logs/AssetImportWorkerHW14.log
+-srvPort
+51583
+-parentPid
+30768
+-analyticsCloudUserId
+2476052291768
+-analyticsCloudProjectId
+efbe4be0-fe16-44e5-a1c5-d943951bcfa2
+-analyticsLocalProjectId
+ffc0e4ae76cd0844ca6d6e19a3b0c316
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+35c9a5cf61ebd81e3743a8b4db9426d12e75bdca
+-cbmMachineId
+ZKKM2ZeYzcrC9nKecvcZNepNPWU=
+-licensingIpc
+LicenseClient-anima
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+10
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [27256]  Target information:
+
+Player connection [27256]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2022020016 [EditorId] 2022020016 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [27256]  * "[IP] 172.18.240.1 [Port] 0 [Flags] 2 [Guid] 2022020016 [EditorId] 2022020016 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [27256]  * "[IP] 192.168.1.161 [Port] 0 [Flags] 2 [Guid] 2022020016 [EditorId] 2022020016 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [27256] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [27256] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 10
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 0512d8ef2f80477594e0b01c7ac6793e
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Active build profile path: `Assets/Settings/Build Profiles/Web.asset`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `m_BuildTarget`, value `20`
+Got setting from build profile YAML, name `m_Subtarget`, value `0`
+Refreshing native plugins compatible for Editor in 3.56 ms, found 4 plugins.
+Initialize engine version: 6000.6.2f1 (770e33f6875c)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2860)
+    Vendor:          NVIDIA
+    VRAM:            7948 MB
+    App VRAM Budget: 7180 MB
+    Driver:          32.0.15.9608
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56124
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006105 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.980 seconds
+Domain Reload Profiling: 1747ms
+	BeginReloadAssembly (177ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (99ms)
+	LoadAllAssembliesAndSetupDomain (467ms)
+		LoadAssemblies (172ms)
+		TypeCache.Refresh (311ms)
+			TypeCache.ScanAssembly (292ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (981ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			BeforeProcessingInitializeOnLoad (144ms)
+			ProcessInitializeOnLoadAttributes (147ms)
+			ProcessInitializeOnLoadMethodAttributes (560ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 2476051603492-jm2569-UnityProStuXXXX
+  Product: Unity Student
+  Type: Assigned
+  Expiration: 2027-09-23T20:25:38Z
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Got setting from build profile YAML, name `m_Development`, value `0`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.764 seconds
+Domain Reload Profiling: 1793ms
+	BeginReloadAssembly (242ms)
+		DisableScriptedObjects (20ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (8ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (696ms)
+		LoadAssemblies (421ms)
+		TypeCache.Refresh (160ms)
+			TypeCache.ScanAssembly (145ms)
+		AnalyzeDomain (74ms)
+			BuildScriptInfoCaches (67ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (765ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (108ms)
+			ProcessInitializeOnLoadAttributes (288ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (8ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 2.03 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6671 unused Assets / (8.4 MB). Loaded Objects now: 7648.
+Memory consumption went from 359.3 MB to 350.9 MB.
+Total: 8.757600 ms (FindLiveObjects: 1.209000 ms CreateObjectMapping: 0.471300 ms MarkObjects: 5.331400 ms  DeleteObjects: 1.465100 ms)
+
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:30.4306583Z
+  Time since last request: 112227.65420129999984 seconds.
+  importAddress: GUID: 4b403a38653c14e42bf3b31c0b7af879 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Blue/BannerStandingBlue.prefab - Importer: PreviewImporter
+Importing 'GUID: 4b403a38653c14e42bf3b31c0b7af879 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Blue/BannerStandingBlue.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 4b403a38653c14e42bf3b31c0b7af879' -> (Import Result ID: '7d4808c42acf5326a249435138fe5357') in 0.484 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6457a2beabdc8d30635894f7d896fc11 DependenciesID=36cac0bbd1efad226c15c3ae1db2aead StaticDependenciesID=582b9f446f59089c91473067383df590 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 47
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:31.9638011Z
+  Time since last request: 1.0317557 seconds.
+  importAddress: GUID: 72f4d9ce894021048b78fa5504c55393 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BannerHolderSD.prefab - Importer: PreviewImporter
+Importing 'GUID: 72f4d9ce894021048b78fa5504c55393 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BannerHolderSD.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 72f4d9ce894021048b78fa5504c55393' -> (Import Result ID: 'f02f287be6c606ff60bda980885f6677') in 0.024 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3992326c5f8aac3c51744d65899516a5 DependenciesID=7c1abcb3012b83c2c6df938165581a48 StaticDependenciesID=aadf4c5890794fdcdc440c9c19439398 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:31.9977531Z
+  Time since last request: 0.0006786 seconds.
+  importAddress: GUID: 70b87e68ac8cccb4ca8e8c617b21ff9c - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/ChestBD.prefab - Importer: PreviewImporter
+Importing 'GUID: 70b87e68ac8cccb4ca8e8c617b21ff9c - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/ChestBD.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 70b87e68ac8cccb4ca8e8c617b21ff9c' -> (Import Result ID: '7729c24a9acd7fc8a66aba684ade864a') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3a06cdfb95f0ae5a098785f28e3cdb5d DependenciesID=7e13ec998bd287e7f2f383f38a212aa0 StaticDependenciesID=e1f3e94aed98e9cf2f5867dc46124720 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.0229206Z
+  Time since last request: 0.0008925 seconds.
+  importAddress: GUID: 4f41d277a7ff7c84b8af8d5d16e2fbd3 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/Pole02D.prefab - Importer: PreviewImporter
+Importing 'GUID: 4f41d277a7ff7c84b8af8d5d16e2fbd3 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/Pole02D.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 4f41d277a7ff7c84b8af8d5d16e2fbd3' -> (Import Result ID: '07ecec8c6a700312fc0cfe7797521b45') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=47b6bf2db4675808a78af0abe41646e6 DependenciesID=a923dafcd61105836aad6cd29d7608cc StaticDependenciesID=0cc6faa02d80b8adce3a61b46e34c143 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.0473679Z
+  Time since last request: 0.0010578 seconds.
+  importAddress: GUID: da069710315859f45b006a49bab26fe9 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BlockS02D.prefab - Importer: PreviewImporter
+Importing 'GUID: da069710315859f45b006a49bab26fe9 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BlockS02D.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: da069710315859f45b006a49bab26fe9' -> (Import Result ID: '6ebf51d163a6f60990f9d6d3239728b3') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6d4e0abffb5c20916a3b2d0b7d8e85d1 DependenciesID=32aaa7002af982f73aad6db4fbc65e34 StaticDependenciesID=24851630155b87664a406ac10e864fcb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.0708066Z
+  Time since last request: 0.0012911 seconds.
+  importAddress: GUID: c768072ffa1531945b297d97ec55f771 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BarrelD.prefab - Importer: PreviewImporter
+Importing 'GUID: c768072ffa1531945b297d97ec55f771 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BarrelD.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: c768072ffa1531945b297d97ec55f771' -> (Import Result ID: 'e191d22abcba841e147e3ea0eb0bc420') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=63554f3f8f78da15f59e98bb97f757a4 DependenciesID=a3af890cce59c65d4b35045fc8e5f19b StaticDependenciesID=7a86abccca2a0a66e58f44b12091a14c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.0933497Z
+  Time since last request: 0.0018344 seconds.
+  importAddress: GUID: 88fd4eb49c31e344aace35150007757c - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/Castle.prefab - Importer: PreviewImporter
+Importing 'GUID: 88fd4eb49c31e344aace35150007757c - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/Castle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 88fd4eb49c31e344aace35150007757c' -> (Import Result ID: '933546fe53f147c8fed6df1b6e97eecd') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e6c888dd1a0f69e011a531e4ede22556 DependenciesID=78925d63988c45e52d25426f17afff46 StaticDependenciesID=beaec2b87ad5702ebb04a867da5d3c18 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.119767Z
+  Time since last request: 0.0015039 seconds.
+  importAddress: GUID: a735d73378e828641b3e7441c8fcfa09 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/TowerWindows.prefab - Importer: PreviewImporter
+Importing 'GUID: a735d73378e828641b3e7441c8fcfa09 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/TowerWindows.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: a735d73378e828641b3e7441c8fcfa09' -> (Import Result ID: '602055d77f16a09def259f56fe6633a3') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9d39303b332152885ff11d57ea3e6706 DependenciesID=6d060212b7c63ef3d1d597606941d9d1 StaticDependenciesID=355fd4d078f1679ea28e9d51982846a2 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.1477894Z
+  Time since last request: 0.0015701 seconds.
+  importAddress: GUID: 64825d6cefec54e4cb33751b82e00e74 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/ChainD.prefab - Importer: PreviewImporter
+Importing 'GUID: 64825d6cefec54e4cb33751b82e00e74 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/ChainD.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 64825d6cefec54e4cb33751b82e00e74' -> (Import Result ID: '29a53b04548093ed333a1dccf629df96') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f716bf00b3fd6e2081a6315af4725a70 DependenciesID=e6c43f14b6ce8d598f780ad1a91a18b5 StaticDependenciesID=5a8300651d516616f8730af9a1c025a3 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.1714506Z
+  Time since last request: 0.0011933 seconds.
+  importAddress: GUID: e158d3f5328e1fe4196ecc5d8eebcee8 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/Floor01D.prefab - Importer: PreviewImporter
+Importing 'GUID: e158d3f5328e1fe4196ecc5d8eebcee8 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/Floor01D.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: e158d3f5328e1fe4196ecc5d8eebcee8' -> (Import Result ID: '475325242fe6faaa0cebe87d5ec0a0b9') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6c1cffc6534ba0be8c26587382c97509 DependenciesID=28f736f2a26c982c27e199c0bd753e34 StaticDependenciesID=7113135649884c2d0619dcf9357295df 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.1954079Z
+  Time since last request: 0.0019903 seconds.
+  importAddress: GUID: d84761ee8e7af9a4babafc0657772d0f - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BlockS01D.prefab - Importer: PreviewImporter
+Importing 'GUID: d84761ee8e7af9a4babafc0657772d0f - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BlockS01D.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d84761ee8e7af9a4babafc0657772d0f' -> (Import Result ID: 'b952c096616a96be197f24692c0de73e') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b9a1b68bc8aad2334bcd27029a5fda33 DependenciesID=87a6c428ef0b677d72f89d2d6baf26ed StaticDependenciesID=5479b181280fb8a9efd6b7a28d3ba8d9 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.2187211Z
+  Time since last request: 0.0005039 seconds.
+  importAddress: GUID: e93ca683b6c4378479c82039c346df54 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/GrateTrapD.prefab - Importer: PreviewImporter
+Importing 'GUID: e93ca683b6c4378479c82039c346df54 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/GrateTrapD.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: e93ca683b6c4378479c82039c346df54' -> (Import Result ID: '4ae9651afcfb0219f02ecde6733f3505') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1204bf045877568c41bbbdd3c9657851 DependenciesID=6de3f3e6856d12393ae4f75382c87e32 StaticDependenciesID=42481ecef01935aece3803b739fd08ca 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.2421533Z
+  Time since last request: 0.0010489 seconds.
+  importAddress: GUID: cdf0efc2fc33b6f4588aeb36dfc0dfb8 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BlockSpike01D.prefab - Importer: PreviewImporter
+Importing 'GUID: cdf0efc2fc33b6f4588aeb36dfc0dfb8 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/BlockSpike01D.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: cdf0efc2fc33b6f4588aeb36dfc0dfb8' -> (Import Result ID: 'd2cab77ba49c1d9355ae616605da4e4d') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b14a297de43087a78a4b3c46a4ba3dcf DependenciesID=6ad6a77d1089a0ad40a0ed942649108c StaticDependenciesID=13262a666a5d1488ef08b67c9b228b5b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.2676028Z
+  Time since last request: 0.0026668 seconds.
+  importAddress: GUID: 5c8d51cd86203bd4ab21cf3caae31147 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/Pole01D.prefab - Importer: PreviewImporter
+Importing 'GUID: 5c8d51cd86203bd4ab21cf3caae31147 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/Pole01D.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 5c8d51cd86203bd4ab21cf3caae31147' -> (Import Result ID: 'd706f7b0b1d2498668241374d15d1394') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e239e72d7c41221b35b188a593eee30a DependenciesID=e7a3816e62c227024425f72b26659f37 StaticDependenciesID=d0f6e2f53376f82b34eea1e083de704f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.2882534Z
+  Time since last request: 0.0012419 seconds.
+  importAddress: GUID: 3bfc6ea068c5de043b3245865ec6ed69 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/CageCompleteD.prefab - Importer: PreviewImporter
+Importing 'GUID: 3bfc6ea068c5de043b3245865ec6ed69 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/CageCompleteD.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3bfc6ea068c5de043b3245865ec6ed69' -> (Import Result ID: 'ef32371ebd335335132e9117f84f0866') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b94bfa5651438cba1b415a8c0bce5c16 DependenciesID=981859c741154d2a743cbc4ebfd77cee StaticDependenciesID=ae5f6cb9e985239eacf7429af231b8cf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 35
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T22:09:32.311494Z
+  Time since last request: 0.001102 seconds.
+  importAddress: GUID: 8a61b0f9c401a88499c56369f7d4b194 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/GrateD.prefab - Importer: PreviewImporter
+Importing 'GUID: 8a61b0f9c401a88499c56369f7d4b194 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/General/GrateD.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 8a61b0f9c401a88499c56369f7d4b194' -> (Import Result ID: 'e366eb7420c4758b40c9236afa620eb3') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=12f879552ab74eaba738e1aef78424ef DependenciesID=d23e9132665b6e0ded879d8f6f904064 StaticDependenciesID=1359c355d3fdc8ebb919fa27f51f1371 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
