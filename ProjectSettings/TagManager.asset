@@ -10,6 +10,7 @@ TagManager:
   - Jump
   - Door
   - Pet
+  - kill-floor
   layers:
   - Default
   - TransparentFX

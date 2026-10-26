@@ -5,14 +5,16 @@ using TMPro;
 public class PlayerController : MonoBehaviour
 {
     public float speed = 0;
-    public bool CanJump = false;
     public float jumpForce;
+    public float shiftForce;
     public GameObject winTextObject;
     public TextMeshProUGUI countText;
     private Rigidbody rb; 
     private float movementX;
     private float movementY;
     private int count;
+    private Transform player;
+    private Transform respawnpoint;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -28,14 +30,14 @@ public class PlayerController : MonoBehaviour
     //Needs 3d vector in order to sphere to move so take 2d var
     Vector3 movement = new Vector3 (movementX, 0.0f, movementY);
    rb.AddForce(movement*speed); 
-    // if (CanJump && Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame)
-    // {
-    //     rb.AddForce(Vector3.up * 5, ForceMode.Impulse);
-    //     // CanJump = false; want to add a timer to this
-    // }
+  
     if(Input.GetKeyDown(KeyCode.Space))
     {
         rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+    }
+    if (Input.GetKeyDown(KeyCode.LeftShift))
+    {
+        rb.AddForce(transform.forward * shiftForce);
     }
    }
       
@@ -77,10 +79,18 @@ public class PlayerController : MonoBehaviour
              GameObject.FindWithTag("Door").SetActive(false);
          }
        }
-    if (other.gameObject.CompareTag("Jump"))
+    if (other.gameObject.CompareTag("Respawn"))
+    {
+        // Set the respawn point to the position of the respawn object
+         respawnpoint = other.transform;
+    }
+    if (other.gameObject.CompareTag("kill-floor"))
    {
-       CanJump = true;
-       other.gameObject.SetActive(false);
+       // Respawn the player
+       transform.position = respawnpoint.position;
+       rb.linearVelocity = Vector3.zero; // Reset velocity to prevent falling through the floor
+       rb.angularVelocity = Vector3.zero; // Reset angular velocity
+
    }
    }
 
