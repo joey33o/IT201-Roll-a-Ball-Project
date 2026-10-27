@@ -2347,3 +2347,1326 @@ Memory consumption went from 0.77 GB to 0.76 GB.
 Total: 25.004100 ms (FindLiveObjects: 0.720300 ms CreateObjectMapping: 0.141600 ms MarkObjects: 22.530800 ms  DeleteObjects: 1.266000 ms)
 
 [Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=2fc1c8361405521448cff5b6797da4f5): Total: 0.031 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Starting new worker id: 2 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW2.log
+Starting new worker id: 3 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW3.log
+[Worker0] Imported GUID: da886acf87b4e9145b19cd00267b54c0 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/ArchTiled.prefab - Importer: PreviewImporter -> (ImportResultId: '52f749108d5d40f00899d6ebfabbd421') in 0.9006276 seconds
+[Worker0] Imported GUID: 94a823ba9229d074ea2da6c82a0077d0 - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera Standard.prefab - Importer: PreviewImporter -> (ImportResultId: 'dd89a9fcf1a54a1c9654439fc6857411') in 0.0246583 seconds
+[Worker1] Imported GUID: d3df2bc26ac7b3e4ab8d741c13e0869a - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Blue/BluePieces/BannerBlueD.prefab - Importer: PreviewImporter -> (ImportResultId: '0bdaf974070e14011f220731dda1cded') in 0.9212551 seconds
+[Worker0] Imported GUID: 0fecc0d7927445440acc3ee89ed9f4fc - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera Universal.prefab - Importer: PreviewImporter -> (ImportResultId: '38617e6acdc7447ac46e3dede6b6d28e') in 0.0221472 seconds
+[Worker0] Imported GUID: 3420996c453349c47b672ddcf35a6660 - Path: Assets/BOXOPHOBIC/Utils/Scene/Camera HD.prefab - Importer: PreviewImporter -> (ImportResultId: '79be0916aa19d9c4a2b7a9ffbea733e0') in 0.0147399 seconds
+[Worker0] Imported GUID: bc533b3eb9f4e1f40ae5ebe58b08671f - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/ButterPress.prefab - Importer: PreviewImporter -> (ImportResultId: 'da504b4fc2b9f663c3ad6f0b46d4a158') in 0.0426561 seconds
+[Worker0] Imported GUID: 63e1ad3804b0bd44d902c231b49a3e4e - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Cabinet.prefab - Importer: PreviewImporter -> (ImportResultId: '1ab4211a4ff2aeb526b33b56ac3260eb') in 0.0353789 seconds
+[Worker1] Imported GUID: e98b32227e8750c4faa51bef15c3c1d7 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Double.prefab - Importer: PreviewImporter -> (ImportResultId: 'b66e03631ef1ed1bf13b46ee68719df9') in 0.1416129 seconds
+[Worker0] Imported GUID: c13643652df14674c944f090f465cbd0 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chair.prefab - Importer: PreviewImporter -> (ImportResultId: '37f81ac84c7ec6fc0d94ecfd35bfec1f') in 0.0319035 seconds
+[Worker1] Imported GUID: 4401183a8c5330f4fb6f509ed5038c84 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Cauldron.prefab - Importer: PreviewImporter -> (ImportResultId: 'e1f2acda02f1ffaa655c0a903040dd64') in 0.028604 seconds
+[Worker0] Imported GUID: 10bf92c956b66b141b0b6a3870bba299 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/BathTub.prefab - Importer: PreviewImporter -> (ImportResultId: '91eb0e78925cab6171744d3f1035d25d') in 0.0286305 seconds
+[Worker1] Imported GUID: d9798c1c8733e6a46b3265dd2658ab53 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Barrel.prefab - Importer: PreviewImporter -> (ImportResultId: 'fbd729e3287095d4e1813a0a72393c1a') in 0.0307709 seconds
+[Worker0] Imported GUID: 4a7467acdad91c6469f10e58193aa78e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Battlement_Corner.prefab - Importer: PreviewImporter -> (ImportResultId: 'e18c90e84f93849b7f08778a60962614') in 0.0356751 seconds
+[Worker1] Imported GUID: 51fa28234874b1d448daaaf257404c60 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bucket.prefab - Importer: PreviewImporter -> (ImportResultId: '3d363dca5ab3c92a5013338014a16c20') in 0.034556 seconds
+[Worker1] Imported GUID: e541542d8e1edea429910096553b39ba - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Single_Wealthy.prefab - Importer: PreviewImporter -> (ImportResultId: '5b98a98516bbfcc6986172e14a7c5e61') in 0.0317741 seconds
+[Worker0] Imported GUID: 9c8f026c743d83e43aef440d153aa4c3 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Red/RedPieces/BannerRedD.prefab - Importer: PreviewImporter -> (ImportResultId: 'a6cb2f50594b1c5eb4fa0609fcb6fd87') in 0.0623835 seconds
+[Worker0] Imported GUID: f5d0c604bd9acf3419912a0a444e3230 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Single_Poor.prefab - Importer: PreviewImporter -> (ImportResultId: '25b7a5c5138dd8bff6c74fd21381bd7d') in 0.0280938 seconds
+[Worker1] Imported GUID: b67f6e384213fd1419cd46c6c855288a - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chest.prefab - Importer: PreviewImporter -> (ImportResultId: 'a70ee059bb1f20b41352fd5bcbb7127a') in 0.0305637 seconds
+[Worker0] Imported GUID: 83ed7c716d677c04b8653fee97997479 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bench.prefab - Importer: PreviewImporter -> (ImportResultId: '95fd0cca88a2f333710ccd5551b3a89d') in 0.0371164 seconds
+[Worker1] Imported GUID: 47ab20d515feb2c43bd7467e2a495051 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chandelier.prefab - Importer: PreviewImporter -> (ImportResultId: '212f8b6448c85697b98f5ccf85d72fe9') in 0.0359977 seconds
+[Worker0] Imported GUID: f28fec6fe4358ea4ab048dd517fe8fe2 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Barrel_Stack.prefab - Importer: PreviewImporter -> (ImportResultId: '2867759776a62f3a2809bba4c57cbdaa') in 0.0299693 seconds
+[Worker0] Imported GUID: f1b8a3732e8001141b52a39348b77a8f - Path: Assets/TAZO_3D_C/DemoScene/Canvas.prefab - Importer: PreviewImporter -> (ImportResultId: '85a6c61819be25f02127b17ba688c7e7') in 0.0363815 seconds
+[Worker1] Imported GUID: a438d9e8aff1975499788ab74e7181b6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Battlement_Normal.prefab - Importer: PreviewImporter -> (ImportResultId: '32aed3fe7938b4ac353d275707c24188') in 0.1117647 seconds
+[Worker0] Imported GUID: ee4c3be4c870275458a2307674550804 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Crate.prefab - Importer: PreviewImporter -> (ImportResultId: 'a001ae449024ccda9dbed9e694271dcc') in 0.0327155 seconds
+[Worker0] Imported GUID: 498eca1c3e0bf4d4dbc4a7b570b12557 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/dirt_1x1.prefab - Importer: PreviewImporter -> (ImportResultId: 'b7d784e342c2eab608aebef27bb81234') in 0.0385621 seconds
+[Worker0] Imported GUID: 0b277b22ff601ac4caf2fa694c897f26 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Fireplace_Large.prefab - Importer: PreviewImporter -> (ImportResultId: 'b949cd50d2fa2bb0cc3bf2401f78c2be') in 0.0329424 seconds
+[Worker0] Imported GUID: b38714833de55ad44bbb61d80150f1cd - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_2x1.prefab - Importer: PreviewImporter -> (ImportResultId: '499f7d7514e07fd26e8a1eb49f3f6d5a') in 0.0307727 seconds
+[Worker0] Imported GUID: f08ca5b683c1c254dab0baad8b6cdd80 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_1x2.prefab - Importer: PreviewImporter -> (ImportResultId: 'cda7b4f97875f6e93292cf090f80f274') in 0.0380332 seconds
+[Worker0] Imported GUID: b3e5c967729ae05429275da0cd4b8470 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_2x2_Vaulted.prefab - Importer: PreviewImporter -> (ImportResultId: 'fd84acd1dd35eeb0473019d0f904bf68') in 0.0584801 seconds
+[Worker0] Imported GUID: 371a36613af847b499f6a01731153430 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_3x2_WoodFloor.prefab - Importer: PreviewImporter -> (ImportResultId: '7b86954110924023b85d0713f41176fa') in 0.0421263 seconds
+[Worker0] Imported GUID: 29fb2580315e2f74282ea3544ebbf30a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_3x2_Vaulted.prefab - Importer: PreviewImporter -> (ImportResultId: 'a06bdc5e657d23b157878f7aab6edcc7') in 0.0413056 seconds
+[Worker0] Imported GUID: 196b949789a6b2245a09fdb57bc9d226 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_End.prefab - Importer: PreviewImporter -> (ImportResultId: '59829ac3e510bf63c732cbb1a6c5c5ff') in 0.0369934 seconds
+[Worker0] Imported GUID: d2040aff2c109574e9ee379911937deb - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Roof_Left.prefab - Importer: PreviewImporter -> (ImportResultId: '9a310792dc2df167038e92c845a4a5be') in 0.0289895 seconds
+[Worker0] Imported GUID: 6ec414daf41656240b0598f838a2baa4 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/WeaponRack_Full.prefab - Importer: PreviewImporter -> (ImportResultId: '534028c74cb71bf8a4ca3890e572447c') in 0.031528 seconds
+[Worker0] Imported GUID: 71fa7b29265bb5f4fad5f8be5eb88d28 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Window.prefab - Importer: PreviewImporter -> (ImportResultId: 'b16eed45cb5654bd698daa386bcb0ac1') in 0.0328088 seconds
+[Worker0] Imported GUID: 75c784e640f8d9e478862fac46fc067a - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/HorseStall_Gate.prefab - Importer: PreviewImporter -> (ImportResultId: 'ca95c02ea5f282746ba07b872c29e25a') in 0.0280555 seconds
+[Worker0] Imported GUID: 4e093d63ec0bef941a7bb53173169213 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Red/RedPieces/DoorRRedD.prefab - Importer: PreviewImporter -> (ImportResultId: 'acea8e3d67446d10e44524f9bdf1d882') in 0.0285969 seconds
+[Worker0] Imported GUID: 73c3a7dc164f39d4288b0bace8a55a8a - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/WallShelf_Long.prefab - Importer: PreviewImporter -> (ImportResultId: '2c0ef2c587f538ea56f476280f60c336') in 0.0304575 seconds
+[Worker0] Imported GUID: 53249edd60fb1ee419be784c6bb4a81a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Roof_x3.prefab - Importer: PreviewImporter -> (ImportResultId: '76850e978455c26673d79c3d8e91cc4f') in 0.0330132 seconds
+[Worker0] Imported GUID: 71aeaf565adbd554caa51fcac0588acc - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Universal.prefab - Importer: PreviewImporter -> (ImportResultId: 'c1ec1a10a936b006a815f290ebcd18f2') in 0.0223494 seconds
+[Worker0] Imported GUID: ca22afa6681c67b41a83ba17ea999b28 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Door_Single.prefab - Importer: PreviewImporter -> (ImportResultId: 'a3a56d5cc0e126b83060c0a4bce1174f') in 0.0309643 seconds
+[Worker0] Imported GUID: 096d234c71c80cf4e9fc57c2fad4a9e8 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Blue/BluePieces/DoorRBlue.prefab - Importer: PreviewImporter -> (ImportResultId: 'b81993155b0bf33627b07aba23775bcc') in 0.0315028 seconds
+[Worker0] Imported GUID: 2bcb52b822142624ab2db4b6fc249dde - Path: Assets/BOXOPHOBIC/Utils/Scene/Post HD Low.prefab - Importer: PreviewImporter -> (ImportResultId: '6e56cacedf1c085b7c473b5f6f11cfb6') in 0.0196374 seconds
+[Worker0] Imported GUID: dd18751111f4cfa43800c9a702eb2fca - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_X.prefab - Importer: PreviewImporter -> (ImportResultId: '0214c5ea44460047be683a298a95ad41') in 0.0342929 seconds
+[Worker0] Imported GUID: eb91ee822255c7e43a710f9c1baa743a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Plain_Short.prefab - Importer: PreviewImporter -> (ImportResultId: '358c70ad6b882f82dbfcfa02aa95d351') in 0.0351439 seconds
+[Worker0] Imported GUID: 35c900ddf12cdd542818b7c247e75755 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Left.prefab - Importer: PreviewImporter -> (ImportResultId: '62006fa15eb524a52545db0548575d22') in 0.0386591 seconds
+[Worker0] Imported GUID: a621a0d090643034d80b25ee4c905d7d - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_ArrowSlit.prefab - Importer: PreviewImporter -> (ImportResultId: 'a2b0c2e4df34fa949147557faab7b872') in 0.0320756 seconds
+[Worker0] Imported GUID: 01c15a7f4f3fc7049a3ba930d02e0287 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/dirt_2x1.prefab - Importer: PreviewImporter -> (ImportResultId: '97c83c598d02f2016319731a6123f6dd') in 0.0332691 seconds
+[Worker0] Imported GUID: 3dbf4097b6f1abf4b9589c289515e1c7 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Blue/BluePieces/DoorMiddle.prefab - Importer: PreviewImporter -> (ImportResultId: 'b4a203d2080cb2ce5bec29c790b35d54') in 0.0365306 seconds
+[Worker0] Imported GUID: 2a6a226c394bcc44dac88db152e9c6e1 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Roof_x2.prefab - Importer: PreviewImporter -> (ImportResultId: '2673a43e2fa4ecf1c54f35a96c1fb2bd') in 0.043235 seconds
+[Worker0] Imported GUID: 5cb94a5cd1e293444b4dca2decc22039 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Stairs_Wood.prefab - Importer: PreviewImporter -> (ImportResultId: '126d51fd1eb0740a29213571e4307127') in 0.0386547 seconds
+[Worker0] Imported GUID: 971065dc21acc244ba0ac1166b10c2d1 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_NoFloor_Right.prefab - Importer: PreviewImporter -> (ImportResultId: 'e8766d370a24b02df5db54e8d9f88bfa') in 0.045376 seconds
+[Worker0] Imported GUID: 7d2a40e844450a042b8bbcd7724fe13e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_2x2.prefab - Importer: PreviewImporter -> (ImportResultId: 'f9495677a0eca2609c343e0c03cd57d6') in 0.0322821 seconds
+[Worker0] Imported GUID: feedecd6d93a82249a2f35bd4a62febe - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Center_Small.prefab - Importer: PreviewImporter -> (ImportResultId: 'a442a755fcbff138de3a086ffeffcb99') in 0.0383107 seconds
+[Worker0] Imported GUID: 5060ab8aafd5d5d4f84fb36f9e36d39d - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Horse_Water.prefab - Importer: PreviewImporter -> (ImportResultId: 'b09fba7f351d7dedfd068b40b04c0ee1') in 0.0367517 seconds
+[Worker0] Imported GUID: e705d76199570c54095e1fdc34bd251a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_3x2_StoneTiled.prefab - Importer: PreviewImporter -> (ImportResultId: '8343a39c67eed63cf53fe046420cf517') in 0.0469704 seconds
+[Worker0] Imported GUID: 22c969c2b46aa554f85beea6c71d2741 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Pillar.prefab - Importer: PreviewImporter -> (ImportResultId: '959c746e91c01db9edc82b4fbca74981') in 0.0350881 seconds
+[Worker0] Imported GUID: 8f3611c22fd6db94f90cd7499f43ffd6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Right.prefab - Importer: PreviewImporter -> (ImportResultId: '9b3508c479ec5405733b0b8ef0c7dc80') in 0.0383216 seconds
+[Worker0] Imported GUID: 7d23347a7bbf6994f8d761c793deeb19 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/WeaponRack_Half.prefab - Importer: PreviewImporter -> (ImportResultId: '3223fe3040f6ed787a47f0e11e2d952a') in 0.0428377 seconds
+[Worker0] Imported GUID: 88a70b060b791c840acfee0a484a2f87 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Corner_Outer_Small.prefab - Importer: PreviewImporter -> (ImportResultId: '51cda7a0bbce28ba23755994276d16ec') in 0.0394383 seconds
+[Worker0] Imported GUID: 11ca8b95cee8f4347bc5cb70d28cee45 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Universal Low.prefab - Importer: PreviewImporter -> (ImportResultId: '1acbca94f72e550e620851ddc2278524') in 0.0225923 seconds
+[Worker0] Imported GUID: 92ea0fdec1e3d2b4082219a3842bfe5b - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Prefab/eyebat.prefab - Importer: PreviewImporter -> (ImportResultId: '0663f2951747bf89672b8f6e706ebf02') in 0.0781796 seconds
+[Worker0] Imported GUID: 181c6e6022e22ad4d8e5e8b6f8920d89 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_2x2_WoodFloor_Stairs.prefab - Importer: PreviewImporter -> (ImportResultId: '33b12dbccf452f4b6b283ad67b0ebd2f') in 0.0597301 seconds
+[Worker0] Imported GUID: e48f29ef79473e94ab151c8025302f77 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Corner_Outer_Large.prefab - Importer: PreviewImporter -> (ImportResultId: '21f5ad2e8b7c82c9246dd27dd2671f20') in 0.0410451 seconds
+[Worker0] Imported GUID: a208e82e9703f544891a7175c52c455f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Pillar_Wood.prefab - Importer: PreviewImporter -> (ImportResultId: '673dfbedf4c54fcbbb28938b018aca4a') in 0.0403851 seconds
+[Worker0] Imported GUID: 0b8976de594f2fa419a035375ba07d0c - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Arch_Right.prefab - Importer: PreviewImporter -> (ImportResultId: 'b4cfb5d4c98193034e4c1a0ac7d02a94') in 0.0324649 seconds
+[Worker0] Imported GUID: 958aeacb825c57c4197f5e9357a04c88 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light HD Low.prefab - Importer: PreviewImporter -> (ImportResultId: '9965297680a77dcb04b2c8fc33f2c98e') in 0.0179863 seconds
+[Worker0] Imported GUID: 8690b0b6a153d23498614afbea9365dc - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Left_Small.prefab - Importer: PreviewImporter -> (ImportResultId: '175676dd489c4fc9a013a18d9c4883ec') in 0.0327694 seconds
+[Worker0] Imported GUID: aa80eb79e909c724aa794c3eab5beb3b - Path: Assets/BOXOPHOBIC/Utils/Scene/Light HD Day.prefab - Importer: PreviewImporter -> (ImportResultId: 'ae2641e7c96f0066a81ec73f761ba995') in 0.021738 seconds
+[Worker0] Imported GUID: a867e2f6a36ff2a45988b9160134aaaf - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Shelves_Poor.prefab - Importer: PreviewImporter -> (ImportResultId: '8be8ddf3ddd4b11d9842c3f6301734bd') in 0.0435793 seconds
+[Worker0] Imported GUID: 31b4365eb1b58bd4d907ec083ab41cd0 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Railing_Staircase_Left.prefab - Importer: PreviewImporter -> (ImportResultId: '4c841aa5e34c139e3eaf562781814bc1') in 0.0442849 seconds
+[Worker0] Imported GUID: 71644a04156aba9468badb0430aa1465 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_Floor_Left.prefab - Importer: PreviewImporter -> (ImportResultId: '673d5a38557389ccc75c6d776af722d2') in 0.0338688 seconds
+[Worker0] Imported GUID: 1a769eef9a370924c99cd4226961fd60 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Railing_Normal.prefab - Importer: PreviewImporter -> (ImportResultId: '6205c101c714794ea72145c4a3161609') in 0.0283594 seconds
+[Worker0] Imported GUID: 7d5af51378758d345a13010e6df7aa69 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Red/RedPieces/DoorLRedD.prefab - Importer: PreviewImporter -> (ImportResultId: 'e4a95f4c49a23505d28acb4d68c5150e') in 0.0281729 seconds
+[Worker0] Imported GUID: 141eb9912c97e0e4083d6335ffefe90b - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Merlons_Corner.prefab - Importer: PreviewImporter -> (ImportResultId: 'd0d98258bcf94a59fe7925addefa3b36') in 0.0390488 seconds
+[Worker0] Imported GUID: f54b398b163e39147b7014408def5b1c - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_NoFloor_Left.prefab - Importer: PreviewImporter -> (ImportResultId: 'b33c83000984ec35e529c6c8bd5930a4') in 0.0379945 seconds
+[Worker0] Imported GUID: d60322c1d4c264c45bfa120c8d5eb8cf - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_Z_Full.prefab - Importer: PreviewImporter -> (ImportResultId: 'f902c61a47fd8620156cec6354d782cf') in 0.034562 seconds
+[Worker0] Imported GUID: 9a4033acb62e148419d1caa9b848f778 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Stairs_Stone.prefab - Importer: PreviewImporter -> (ImportResultId: 'ae1b69b56a227edb2e5f203e03813760') in 0.0327069 seconds
+[Worker0] Imported GUID: 1533708945838c844b2f6ccbdaa76481 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_1x1.prefab - Importer: PreviewImporter -> (ImportResultId: '0df21b405c7f2e27aa7234e1befd9ddb') in 0.0388374 seconds
+[Worker0] Imported GUID: a7257cdd38b2b4141bd719dca29e4061 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Wall_Battlements_High.prefab - Importer: PreviewImporter -> (ImportResultId: 'e7b3ce6c93253895a040e7d516c1d8e0') in 0.0434079 seconds
+[Worker0] Imported GUID: c8da3766c354f8247a2222ad8a6f4b88 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_WoodFloor_Stairs.prefab - Importer: PreviewImporter -> (ImportResultId: 'ab8c7d52d859ce8450aea53f03b11314') in 0.0472705 seconds
+[Worker0] Imported GUID: e982a6e006c30ae429fdd4b70aef3ff3 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_X_Full.prefab - Importer: PreviewImporter -> (ImportResultId: '46c98d3e83ae57b9948d23c78a9af7aa') in 0.0359238 seconds
+[Worker0] Imported GUID: fdc064cd64c0a1147b2e116188198256 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Merlons_Corner_Small.prefab - Importer: PreviewImporter -> (ImportResultId: 'b59a5f58ed61e58c316ade4e71ccc5b0') in 0.0364583 seconds
+[Worker0] Imported GUID: c810007b32a1e3d4896ebb8344ae7335 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Universal Bloom.prefab - Importer: PreviewImporter -> (ImportResultId: '8981dee75a34173fc62bdb3b22b63154') in 0.0192925 seconds
+[Worker0] Imported GUID: cddaf0af6f41ecf44a5cef15e5e8a417 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_StoneTiled.prefab - Importer: PreviewImporter -> (ImportResultId: 'f928ce900b32b697e0e90365983ffa24') in 0.0461261 seconds
+[Worker0] Imported GUID: 199c8185d735c544c8995d9f46035dbf - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Merlons.prefab - Importer: PreviewImporter -> (ImportResultId: 'c821fb0a499c0d6d3f80d7583a9ac242') in 0.0389216 seconds
+[Worker0] Imported GUID: 98ac3300f8c6d684f9cdf7f513c0fef9 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_2x2_StoneTiled.prefab - Importer: PreviewImporter -> (ImportResultId: '8fac8964b9b2891a1c6aefb65452bda0') in 0.0405413 seconds
+[Worker0] Imported GUID: aa94affe9c538784c9efa54770ac951c - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Door_Double_Right.prefab - Importer: PreviewImporter -> (ImportResultId: '22f2f0542c2df9f34c1cf6ee1e67a384') in 0.0300839 seconds
+[Worker0] Imported GUID: 5b8050752942e5347bdf47d7d79e53d5 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Gate.prefab - Importer: PreviewImporter -> (ImportResultId: 'b68042ace7e14a7d7b897e5c7c618d9c') in 0.0457918 seconds
+[Worker0] Imported GUID: 5769d0d09f8b82149b2ebd98736089f3 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Wall_Corner.prefab - Importer: PreviewImporter -> (ImportResultId: '603331f5705160297351f63db5d8d9cc') in 0.0436462 seconds
+[Worker0] Imported GUID: 8225f3669fa5cfb48b49ccaf2fbb36a4 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Center.prefab - Importer: PreviewImporter -> (ImportResultId: '8226d031816fe684efdfaf8a291260be') in 0.0375361 seconds
+[Worker0] Imported GUID: c76a9ea2524c5bf46852eb5793f02ee9 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Wall_Battlements.prefab - Importer: PreviewImporter -> (ImportResultId: 'f950db328d677c1673c9cc7a53404903') in 0.0484916 seconds
+[Worker0] Imported GUID: b19cf3e7632ffd948902e7272af43a6c - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Universal Day.prefab - Importer: PreviewImporter -> (ImportResultId: 'ccf6224c08b67ece31bc686d1a236a9a') in 0.0170825 seconds
+[Worker0] Imported GUID: 906c1c903eaa52e43aa5a14b5e2651f9 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Fireplace_Middle.prefab - Importer: PreviewImporter -> (ImportResultId: '1d25d62ec2739647c9e77d847164b033') in 0.0356936 seconds
+[Worker0] Imported GUID: da836254ffb98ea4b8bebfbec93bdfab - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Horse_Food.prefab - Importer: PreviewImporter -> (ImportResultId: 'bb135561019511f005cd8c7fe471226b') in 0.0422971 seconds
+[Worker0] Imported GUID: 6619a26528679d94c979cc64f962d9cb - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_Normal.prefab - Importer: PreviewImporter -> (ImportResultId: 'a59be5d5705b8319d6564c9f78b1bdb2') in 0.0342535 seconds
+[Worker0] Imported GUID: 95b528bc8bceb6043acec32ceca8855f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_Floor_Mid.prefab - Importer: PreviewImporter -> (ImportResultId: '596dc5c47f820f026c03367014dacb7b') in 0.0391929 seconds
+[Worker0] Imported GUID: ea855713946f7b24786f92e91256055f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_3x2_WoodFloor_Stairs.prefab - Importer: PreviewImporter -> (ImportResultId: '84e93485baa55ae81553958a736693e5') in 0.0528857 seconds
+[Worker0] Imported GUID: 62575b28e9b979147b50292943b38275 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Arch_Left.prefab - Importer: PreviewImporter -> (ImportResultId: '2acc7316890e7360e2706162ff984ad7') in 0.0341291 seconds
+[Worker0] Imported GUID: b37e11a48a143ec469544df52085d526 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post HD Day.prefab - Importer: PreviewImporter -> (ImportResultId: '76ad298c105bd585a5bc180249bd68f0') in 0.0189894 seconds
+[Worker0] Imported GUID: a2357b35bdac56e43a80958766528aac - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Roof_Right.prefab - Importer: PreviewImporter -> (ImportResultId: 'bebbf0768328daeb79ad09b3442d4e1e') in 0.033316 seconds
+[Worker0] Imported GUID: 7cb2c8f46b381e94aac72fd1704cae67 - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Day.prefab - Importer: PreviewImporter -> (ImportResultId: '6f3448e19144fffe692321839b953b70') in 0.0214733 seconds
+[Worker0] Imported GUID: c5897c9078c7e7e469d992cb3031b88f - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Ladder.prefab - Importer: PreviewImporter -> (ImportResultId: '2c53d9ca4bc412c83a6f0802212699c8') in 0.0317805 seconds
+[Worker0] Imported GUID: 402fc267a377e734cb1a64309851ea19 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/dirt_1x2.prefab - Importer: PreviewImporter -> (ImportResultId: '4474a4b31b9ec3e29b113094c8753cd5') in 0.0358485 seconds
+[Worker0] Imported GUID: 32cc595a7aade2749a61c144038a6379 - Path: Assets/BOXOPHOBIC/Utils/Scene/Post Standard.prefab - Importer: PreviewImporter -> (ImportResultId: '369ee8fc98e6a5f4dbe3f0961e4fea51') in 0.0213118 seconds
+[Worker0] Imported GUID: 191234048ff3f7545bfa60e1d2046d19 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Right_Small.prefab - Importer: PreviewImporter -> (ImportResultId: '2dc04105b81a521dbd90f0d0ec8573fe') in 0.0288657 seconds
+[Worker0] Imported GUID: b245cc8d64501474691ba366430667e2 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Roof_Center.prefab - Importer: PreviewImporter -> (ImportResultId: 'c9ca80eaadff1734b729b8ded325f2e1') in 0.0370821 seconds
+Worker ready: AssetImportWorkerHW2 2
+Worker ready: AssetImportWorkerHW3 3
+[Worker0] Imported GUID: 0215d6fc0ae90674eb821c66aa709b50 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_Floor_Right.prefab - Importer: PreviewImporter -> (ImportResultId: '77847566e76939f4966f9a725e822efd') in 0.0383921 seconds
+[Worker0] Imported GUID: 9e42fc8dd5985474f91f261ef47907a1 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/WeaponRack_Empty.prefab - Importer: PreviewImporter -> (ImportResultId: 'e7c10beecd555c715f15a7f0b904834d') in 0.0445956 seconds
+[Worker0] Imported GUID: a18162285d90d504392dd8ce42dd07c1 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Blue/BluePieces/DoorLBlue.prefab - Importer: PreviewImporter -> (ImportResultId: '912f037ed0e52d584101b92b911e9215') in 0.0335205 seconds
+[Worker0] Imported GUID: 45448f6bbc45555448a8a320533590ac - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Wall_Corner_High.prefab - Importer: PreviewImporter -> (ImportResultId: '2a5c00a612242d57a24b91ee849a3d1b') in 0.0551584 seconds
+[Worker0] Imported GUID: dbfba6a99eb6ed840bc98ad7cf91f501 - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Red/RedPieces/DoorMiddle.prefab - Importer: PreviewImporter -> (ImportResultId: '0fd738b852f3c2a0f11301d3a4233916') in 0.0402953 seconds
+[Worker0] Imported GUID: bcd49ac46d0353944b9ab222762acef6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_Z.prefab - Importer: PreviewImporter -> (ImportResultId: '84855c6bb4e422f295f76fdb5a67608e') in 0.0362229 seconds
+[Worker0] Imported GUID: a8bf52f6cd6b9024bb2e16e6745a2c6e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Wall_Roof_x3.prefab - Importer: PreviewImporter -> (ImportResultId: '262309f0be6c4d9811d1cd1ee0ee14ea') in 0.0397133 seconds
+[Worker0] Imported GUID: d18d15159c10fdd45b24b3de4a4aacec - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/FireWood.prefab - Importer: PreviewImporter -> (ImportResultId: 'c15b8a3355a8cdd48bc5407205bd3cf2') in 0.0346188 seconds
+[Worker0] Imported GUID: cae284986e0ffae4d9fb68c96f5bc43a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Staircase.prefab - Importer: PreviewImporter -> (ImportResultId: '96316bf53f4eda16e1f768dff6e37cea') in 0.0436676 seconds
+[Worker0] Imported GUID: c6b107685dce5e44096f6f1c71c8aae1 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Table.prefab - Importer: PreviewImporter -> (ImportResultId: 'a546bf16fe2ffb7243a9121cb37a34f3') in 0.0433471 seconds
+[Worker0] Imported GUID: 96899774a592f33459575d47c9aa9fb6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_RoofSide.prefab - Importer: PreviewImporter -> (ImportResultId: '8cdbf3cb7adaf75981ee30be79ef096d') in 0.0434307 seconds
+[Worker0] Imported GUID: c8544a238108f684184575a08f5569c9 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/WallShelf_Short.prefab - Importer: PreviewImporter -> (ImportResultId: '08f5dcc1ad9e2ed4bd09d8ad661474d8') in 0.0367193 seconds
+[Worker0] Imported GUID: 45978c59373939946a8a165574469e2e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Wall_Roof_x2.prefab - Importer: PreviewImporter -> (ImportResultId: '5fba344e302e561a08316f69d1b6def7') in 0.0479779 seconds
+[Worker0] Imported GUID: 3b8e6e2e70128594296b1178844fe208 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Door_Double_Left.prefab - Importer: PreviewImporter -> (ImportResultId: 'a45637e76936d9ec812dfc128e378a7a') in 0.0326187 seconds
+[Worker0] Imported GUID: 69dd194c8d9fb0b439459892492b2c13 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Shelves_Wealthy.prefab - Importer: PreviewImporter -> (ImportResultId: '0a869db06bda4832629c5afc953b7230') in 0.0401801 seconds
+[Worker0] Imported GUID: 04cf78dc9301afb4ba4cf3cd84ef5d39 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_WoodFloor.prefab - Importer: PreviewImporter -> (ImportResultId: 'e385d427f3b7e18d0d1aa7f193a077ef') in 0.0513885 seconds
+[Worker0] Imported GUID: 1dd556cd7cb83ad4c836d52412c0484f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_MurderHole.prefab - Importer: PreviewImporter -> (ImportResultId: '06a6dbcf6fb6722756a6b96c69710194') in 0.0472325 seconds
+[Worker0] Imported GUID: ea2d55a339c86dd4da115dd83d2fdb69 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Fireplace_Small.prefab - Importer: PreviewImporter -> (ImportResultId: '40d25862a4486927bc0709988f5f01e4') in 0.0447224 seconds
+[Worker0] Imported GUID: 785d614fe83529d448cf6caefadb50a6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_2x2_WoodFloor.prefab - Importer: PreviewImporter -> (ImportResultId: '92cb4bd40ed29908055e3d2b7a257467') in 0.0525128 seconds
+[Worker0] Imported GUID: 472d9dc46d1ee1e468cd319708554cba - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/dirt_2x2.prefab - Importer: PreviewImporter -> (ImportResultId: '977a2e5e6eeb70e534761310c9a5b32d') in 0.0334793 seconds
+[Worker1] Imported GUID: 879b544c5ff141b43bcffaa6dfd0b0cb - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Prefab/Cylinder.prefab - Importer: PreviewImporter -> (ImportResultId: 'a2d0c5785394f9149b406ce3cf34c59d') in 4.0713028 seconds
+[Worker0] Imported GUID: 1d2eb4193887594489de8a827966941e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Railing_Staircase_Right.prefab - Importer: PreviewImporter -> (ImportResultId: 'bf65e2190eea8fe09890c9cb75bb245f') in 0.031255 seconds
+[Worker1] Imported GUID: bcb2ca69016b2684fa20fb79533c591a - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Low.prefab - Importer: PreviewImporter -> (ImportResultId: 'd8419f62797a5633d6483e23142387eb') in 0.0153296 seconds
+[Worker0] Imported GUID: ee12c77dab9500f42867b54ba5963745 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Dome_Tiled.prefab - Importer: PreviewImporter -> (ImportResultId: '5a2978397084416a6f6ab4aefb7edc0f') in 0.0276789 seconds
+[Worker1] Imported GUID: 373628b079aacf4459ff99225744babf - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_NoFloor_Mid.prefab - Importer: PreviewImporter -> (ImportResultId: 'a885edf02f0ed6a57ee67c24f6dd40bc') in 0.0395161 seconds
+[Worker0] Imported GUID: 1f9e4f9a624816346853855ae37cfd9f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Plain.prefab - Importer: PreviewImporter -> (ImportResultId: '9261d99f5e52a33054940116b5fa7348') in 0.031013 seconds
+[Worker1] Imported GUID: 0d479c4eb82b5514281615a8c31c42e2 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_Vaulted.prefab - Importer: PreviewImporter -> (ImportResultId: '61a1181fa01ee25a8df9d7002a106989') in 0.0584401 seconds
+Asset Pipeline Refresh (id=a0a8eb8195dbef743ad225f73f15c2d1): Total: 0.014 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: PreviewImporter -> (ImportResultId: '7d6c4fbd04e75477ab10c7d94a12d3c3') in 0.0128824 seconds
+[Licensing::Client] Successfully resolved entitlement details
+
+[main 2026-10-27T14:31:27.972Z] [node-compile-cache] main: packaged cache enabled (status: enabled, configured: C:\Users\anima\AppData\Local\Programs\Microsoft VS Code\e646868227\resources\app\node-compile-cache\main, active: C:\Users\anima\AppData\Local\Programs\Microsoft VS Code\e646868227\resources\app\node-compile-cache\main\v24.21.0-x64-c3a7e8f2)
+[main 2026-10-27T14:31:27.994Z] StorageMainService: creating application shared storage
+[main 2026-10-27T14:31:28.137Z] [shared storage] Creating shared storage database at 'c:\Users\anima\.vscode-shared\sharedStorage\state.vscdb' (wasCreated: false)
+[main 2026-10-27T14:31:28.137Z] [shared storage] Initializing fallback application storage (path: c:\Users\anima\AppData\Roaming\Code\User\globalStorage\state.vscdb)
+[main 2026-10-27T14:31:28.194Z] [shared storage] Fallback application storage initialized with 189 items
+[main 2026-10-27T14:31:28.681Z] update#setState idle
+[main 2026-10-27T14:31:28.729Z] AgentHostProcessManager: agent host started
+[main 2026-10-27T14:31:30.483Z] [AgentHost:stderr] (node:31864) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+
+(node:4396) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+Unknown channel: agentHostClientByokLm
+Unknown channel: agentHostClientProxy
+Unknown channel: agentHostClientProxy
+Unknown channel: agentHostClientProxy
+[main 2026-10-27T14:31:58.809Z] update#setState checking for updates
+[main 2026-10-27T14:31:58.917Z] update#setState idle
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+## Script Compilation Error for: Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll (+2 others)
+## CmdLine: "C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\DotNetSdk\dotnet.exe" exec "C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/DotNetSdk/sdk/8.0.318/Roslyn/bincore/csc.dll" /nostdlib /noconfig /shared "@Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.rsp" "@Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.rsp2"
+## Output:
+Assets\Scripts\PlayerController.cs(98,10): error CS0103: The name 'pickupSound' does not exist in the current context
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(19,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityX' is assigned but its value is never used
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(20,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityY' is assigned but its value is never used
+
+ExitCode: 3 Duration: 4s294ms
+[ 776/1001  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[ 993/1001  3s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll (+2 others)
+##### CommandLine
+"C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\DotNetSdk\dotnet.exe" exec "C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/DotNetSdk/sdk/8.0.318/Roslyn/bincore/csc.dll" /nostdlib /noconfig /shared "@Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.rsp" "@Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.rsp2"
+##### Contents of Library\Bee\artifacts\2000b0aE.dag\Assembly-CSharp.rsp
+-target:library
+-out:"Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll"
+-refout:"Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.ref.dll"
+-define:UNITY_6000_6_2
+-define:UNITY_6000_6
+-define:UNITY_6000
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:UNITY_2022_1_OR_NEWER
+-define:UNITY_2022_2_OR_NEWER
+-define:UNITY_2022_3_OR_NEWER
+-define:UNITY_2023_1_OR_NEWER
+-define:UNITY_2023_2_OR_NEWER
+-define:UNITY_2023_3_OR_NEWER
+-define:UNITY_6000_0_OR_NEWER
+-define:UNITY_6000_1_OR_NEWER
+-define:UNITY_6000_2_OR_NEWER
+-define:UNITY_6000_3_OR_NEWER
+-define:UNITY_6000_4_OR_NEWER
+-define:UNITY_6000_5_OR_NEWER
+-define:UNITY_6000_6_OR_NEWER
+-define:UNITY_INCLUDE_TESTS
+-define:UNITY_ENABLE_CLOUD_SERVICES_ENGINE_DIAGNOSTICS_MANAGED
+-define:ENABLE_AUDIO
+-define:ENABLE_BURST
+-define:ENABLE_CLOTH
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_UNITY_CONSENT
+-define:ENABLE_UNITY_CLOUD_IDENTIFIERS
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_EDITOR_GAME_SERVICES
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_ENGINE_CODE_STRIPPING
+-define:ENABLE_ONSCREEN_KEYBOARD
+-define:ENABLE_MANAGED_UNITYTLS
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_MARSHALLING_TESTS
+-define:ENABLE_VIDEO
+-define:ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:TEXTCORE_1_0_OR_NEWER
+-define:EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED
+-define:INCLUDE_UNIFIED_RAYTRACING_COMPUTE_BACKEND
+-define:INCLUDE_UNIFIED_RAYTRACING_HARDWARE_BACKEND
+-define:PLATFORM_WEBGL
+-define:PLATFORM_SUPPORTS_PROGRESSIVE_ASSET_LOADING
+-define:UNITY_WEBGL
+-define:UNITY_WEBGL_API
+-define:UNITY_DISABLE_WEB_VERIFICATION
+-define:UNITY_GFX_USE_PLATFORM_VSYNC
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_SPATIALTRACKING
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:NET_STANDARD
+-define:NET_STANDARD_2_1
+-define:NETSTANDARD
+-define:NETSTANDARD2_1
+-define:ENABLE_PROFILER
+-define:UNITY_INCLUDE_INSTRUMENTATION
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_ENABLE_CHECKS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:UNITY_PRO_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
+-define:TEXTCORE_FONT_ENGINE_1_6_OR_NEWER
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-define:UNITY_WEBGL_RENDERER_ONLY
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/Microsoft.Bcl.AsyncInterfaces.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/Microsoft.Extensions.Logging.Abstractions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Collections.Immutable.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Diagnostics.DiagnosticSource.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.IO.Hashing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Reflection.Metadata.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Runtime.CompilerServices.Unsafe.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Text.Encodings.Web.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Text.Json.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/Bootstrap/Unity.Scripting.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.AIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.AdaptivePerformanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.AnimationWindowModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.AssetComplianceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.BuildAnalysisModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.BuildProfileModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.BurstModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.ClothModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.ContentLoadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreBusinessMetricsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.EditorToolbarModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.EmbreeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.GIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.GenericRemoteModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphToolkitModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphicsStateCollectionSerializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.GridAndSnapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.GridModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.HierarchyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.LightingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.MathematicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.MediaModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.MultiplayerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.Physics2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.PhysicsCore2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.PhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.PlayModeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.PresetsUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.ProjectAuditorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.PropertiesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickInstallModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.SafeModeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneViewModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.ShaderBuildSettingsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.ShaderCompilationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.ShaderFoundryModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.ShaderPreprocessorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.SketchUpModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.SubstanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.SyntaxTreeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.TerrainModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.TilemapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.TimelineFoundationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.TreeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.U2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIAutomationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIToolkitAuthoringModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UmbraModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.VFXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.VectorGraphicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.VideoModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.XRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AdaptivePerformanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.BurstModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.GraphicsStateCollectionSerializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.HierarchyCoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.IdentifiersModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputForUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.ManagedKernelModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.MarshallingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.MathematicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.MultiplayerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsBackendPhysXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsCore2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.PropertiesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.RenderAs2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScriptingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.ShaderVariantAnalyticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TetgenModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.TimelineFoundationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.U2DRuntimeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConsentModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.VectorGraphicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WebGLSupport/Variations/il2cpp/Managed/UnityEngine.WebGLModule.dll"
+-r:"Library/PackageCache/com.unity.collections@10fff0607388/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
+-r:"Library/PackageCache/com.unity.ext.nunit@0198eae3b53e/net472/unity-custom/nunit.framework.dll"
+-r:"Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Boxophobic.SkyboxCubemapExtended.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Boxophobic.Utils.Scripts.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.AI.Navigation.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.AI.Navigation.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.AI.Navigation.Updater.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Burst.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Collections.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Collections.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Collections.Tests.CoreCLR.PrivateJobNested.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.GraphAuthoring.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InputSystem.ForUI.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InputSystem.ForUI.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InputSystem.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InternalAPIEditorBridge.ShaderGraph.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InternalAPIEngineBridge.004.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.PathTracing.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.PathTracing.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.PlasticSCM.Editor.Assistant.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Profiling.Core.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Rendering.LightTransport.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Core.Editor.Shared.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Core.Runtime.Shared.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.GPUDriven.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Universal.2D.Editor.Overrides.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Universal.2D.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Universal.Config.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Universal.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Rider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Searcher.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.ShaderGraph.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.SurfaceCache.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.TextMeshPro.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Timeline.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Timeline.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.UnifiedRayTracing.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualScripting.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualScripting.Core.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualScripting.Flow.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualScripting.Flow.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualScripting.Shared.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualScripting.State.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualScripting.State.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.Analytics.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/analyzers/dotnet/roslyn4.0/cs/Microsoft.Extensions.Logging.Generators.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/analyzers/dotnet/roslyn4.0/cs/System.Text.Json.SourceGeneration.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Tools/BuildPipeline/Unity.Analyzers.Common/Unity.Analyzers.Common.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Tools/BuildPipeline/Unity.Analyzers.LongLiving/Unity.Analyzers.LongLiving.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/AurynSky/Dungeon Pack/Scripts/SpikeTrapDemo.cs"
+"Assets/AurynSky/Dungeon Pack/Scripts/TrapDoorDemo.cs"
+"Assets/BTM_Assets/BTM_Items_Gems/Scripts/SimpleGemsAnim.cs"
+"Assets/Scripts/CameraController.cs"
+"Assets/Scripts/EnemyMovement.cs"
+"Assets/Scripts/PetMovement.cs"
+"Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/Rotator.cs"
+"Assets/Stylized_Astronaut/Character/AstronautPlayer.cs"
+"Assets/Stylized_Astronaut/Character/AstronautThirdPersonCamera.cs"
+"Assets/TAZO_3D_C/DemoScene/Action_Manage.cs"
+"Assets/TAZO_3D_C/DemoScene/demo.cs"
+"Assets/TutorialInfo/Readme.cs"
+-langversion:9.0
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+/nowarn:0169
+/nowarn:0649
+/nowarn:0282
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+/additionalfile:"Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
+##### Custom Environment Variables
+DOTNET_HOST_PATH=C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\DotNetSdk\dotnet.exe
+DOTNET_MULTILEVEL_LOOKUP=0
+##### ExitCode
+1
+##### Output
+Assets\Scripts\PlayerController.cs(98,10): error CS0103: The name 'pickupSound' does not exist in the current context
+
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(19,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityX' is assigned but its value is never used
+
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(20,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityY' is assigned but its value is never used
+*** Tundra build failed (4.19 seconds), 2 items updated, 1001 evaluated
+Assets\Scripts\PlayerController.cs(98,10): error CS0103: The name 'pickupSound' does not exist in the current context
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(19,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityX' is assigned but its value is never used
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(20,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityY' is assigned but its value is never used
+Refreshing native plugins compatible for Editor in 4.09 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=4cbc5ae9d92f3874f976cac62077333a): Total: 4.903 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=156 ms
+		Asset DB Callback time: managed=6 ms, native=50 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=4689 ms, other=0 ms
+		Project Asset Count: scripts=1468, non-scripts=2871
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 2.253ms
+	ApplyChangesToAssetFolders: 0.242ms
+	Scan: 16.298ms
+	Collect global state as custom dependencies: 1.877ms
+	OnSourceAssetsModified: 0.829ms
+	CategorizeScriptCompilationAssets: 0.070ms
+	ProcessAssetsWithTransientArtifactChanges: 5.921ms
+	CategorizeAssets: 69.382ms
+	CompileScripts: 4688.834ms
+	ImportOutOfDateAssets: 7.074ms (1.346ms without children)
+		ReloadNativeAssets: 0.234ms
+		UnloadImportedAssets: 0.800ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.842ms
+		ImportSchedulerStart: 2.844ms
+	PostProcessAllAssets: 26.509ms
+		XRBuildSystem.XRAssetImported 12.633ms
+		ShaderAssetModifiedCallback 0.459ms
+		WindowTitlePostprocess 0.199ms
+		VCAutoAddAssetPostprocess 0.160ms
+		PostProcessCallbackCreateDeferredMaterials 0.158ms
+		ObjectImages.AssetImported 0.055ms
+		MonoPostProcessAllAssets: 6.223ms
+			SyncVS.PostprocessSyncProject 2.280ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 1.696ms
+			AssetChangedListener.OnPostprocessAllAssets 0.406ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.403ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.168ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.129ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.078ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 0.052ms
+	PostAssetChangesProfiler: 29.368ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.568ms
+	PersistCurrentRevisions: 0.343ms
+	Untracked: 52.967ms
+
+Total cache size 166210169
+Total cache size after purge 166210169, took 00:00:00.6332640
+[Worker0] Imported GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: PreviewImporter -> (ImportResultId: '44f3a402b42731d6df9969b8528d6049') in 0.0146174 seconds
+Asset Pipeline Refresh (id=ff31ee6bfb0f98f44a9a0327b0be87ff): Total: 0.005 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=9660f2d8e82481e479c83cf7a54e8685): Total: 0.007 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=0db23be95262b2643aea95c406b6bcea): Total: 0.004 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=fd3755ed2b0c3ac43b9f150e26768ce7): Total: 0.005 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token 4MTDSYKcqI...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.01
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 2.69 ms, found 4 plugins.
+Asset Pipeline Refresh (id=6b8147efd24092244a80d01ec265c2c9): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 75b22f2e638104af4b7a875e0ce807c9 - Path: Assets/Collectables Sound Pack' with importer (DefaultImporter)
+Imported 'GUID: 75b22f2e638104af4b7a875e0ce807c9' -> (Import Result ID: 'f5bbb15ac6d011d53fe16a02b402e9de') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=f7d263038793f61773963aeab183a277 DependenciesID=48bc593aa41f66ba074053db06e9ffcc StaticDependenciesID=945e383138dc78574572bb22389bfe9a 
+Importing 'GUID: f7fd0761c981a4b7382c924e5bef7029 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack' with importer (DefaultImporter)
+Imported 'GUID: f7fd0761c981a4b7382c924e5bef7029' -> (Import Result ID: '39e755948498c561453b8490c25ea344') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=16c6682e0b0f3d6c0feda68da0fda853 DependenciesID=a30e26d96dd6763349b3984e2c1fc550 StaticDependenciesID=d7a11fcd77173629f710363742d6de5a 
+Importing 'GUID: 9a77f09d544aa4943b79f1ee73deeef0 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables' with importer (DefaultImporter)
+Imported 'GUID: 9a77f09d544aa4943b79f1ee73deeef0' -> (Import Result ID: 'a56c260f5f938a014afabbe3efa4ac23') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=dea238095522ff2731ac621f4a2e53ae DependenciesID=07674010459b6a76691acee2e636b2ea StaticDependenciesID=78609f4292f44e939580fca59e197e1c 
+Importing 'GUID: 11a7e71782ae6430390d783bc08409df - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_03.wav' with importer (AudioImporter)
+Imported 'GUID: 11a7e71782ae6430390d783bc08409df' -> (Import Result ID: '48a799c92330748cc3ae8afebea1e975') in 0.363 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c33d23e77f3627d1e69b93bc82d18ff9 DependenciesID=e9889a9dc3d36cd733bc2e6b747ac233 StaticDependenciesID=509f52685fc6dab665c6a37348576d73 
+Importing 'GUID: f17bac10ee4c44148a1e9088e7540c55 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_05.wav' with importer (AudioImporter)
+Imported 'GUID: f17bac10ee4c44148a1e9088e7540c55' -> (Import Result ID: 'efeac87483bbac540271a4b2a0865e02') in 0.273 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d91eb9527da7e2053e7819cad5b113bf DependenciesID=fdb13319eb3de9019afc8de555acfb32 StaticDependenciesID=aa50a4fe37dc80c8cc2473c60b50f64d 
+Importing 'GUID: 02f98902d77f7431cb0c64b9fe4744fc - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_01.wav' with importer (AudioImporter)
+Imported 'GUID: 02f98902d77f7431cb0c64b9fe4744fc' -> (Import Result ID: 'd2d0f253b1b00f0d0fb752064dbb414c') in 0.261 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f70f35e552bd1e04afab790108426e6e DependenciesID=4f198d5b1be74df21777fde27a0f677a StaticDependenciesID=5d1502d904c6a03a2dfde924497b0c7e 
+Importing 'GUID: 13080dc9f84824b65ad233427adf53a8 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_07.wav' with importer (AudioImporter)
+Imported 'GUID: 13080dc9f84824b65ad233427adf53a8' -> (Import Result ID: 'ad4fcab347a7d7cd334de364550ae131') in 0.250 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=547ba0d8dda34a7a4bbe30fbfea684c5 DependenciesID=f2792e7d35fe3d790aa9598930b31541 StaticDependenciesID=6a26359c9fbe431278325273e6ee047b 
+Importing 'GUID: 76231034c16a346359288718672bbc0a - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_04.wav' with importer (AudioImporter)
+Imported 'GUID: 76231034c16a346359288718672bbc0a' -> (Import Result ID: 'c0c08649924e7c94949e5ec692d807e4') in 0.266 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7f025beafca14de7ce29e749be729e1d DependenciesID=44460eb49e44af4ade9d5f4d327ed2fe StaticDependenciesID=998cb198096b0a583fda17109dae2b63 
+Importing 'GUID: 1916972b0254443a2ac996968e38335c - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_08.wav' with importer (AudioImporter)
+Imported 'GUID: 1916972b0254443a2ac996968e38335c' -> (Import Result ID: '2f24e3c1d34eedc1e7e0ec5d7b82e02f') in 0.264 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7f31516c16a2106ebbd085051b6188ad DependenciesID=d22a797308a0f402d3eed9e2e4b56044 StaticDependenciesID=408e4a0e97a2f76ffcde004e323613f0 
+Importing 'GUID: 4bc21899eae7448ccaf4ebdd49cfcd9f - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_09.wav' with importer (AudioImporter)
+Imported 'GUID: 4bc21899eae7448ccaf4ebdd49cfcd9f' -> (Import Result ID: '6fdfe2e89efaa51e4e1b77bb110a2760') in 0.269 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=88f380135d3456c91f763960cda1a9c0 DependenciesID=fe5f4e53ed7103678bad220b63ede6f8 StaticDependenciesID=a726c56ca072247e4e9783a0ec608c11 
+Importing 'GUID: 3c392e6befcab436bae9c198f4ea422c - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_02.wav' with importer (AudioImporter)
+Imported 'GUID: 3c392e6befcab436bae9c198f4ea422c' -> (Import Result ID: '4c8abaa9232c5ff29b1baf26ff866180') in 0.292 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5dfa1902b608ffd2793deec251d6148a DependenciesID=72276b2e71ef0174afc5cf6118c1b2af StaticDependenciesID=1fa4203d793a32139bf01c33c1e5bb3f 
+Importing 'GUID: 4d24975329921423b9c49a8807c8f508 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_00.wav' with importer (AudioImporter)
+Imported 'GUID: 4d24975329921423b9c49a8807c8f508' -> (Import Result ID: '4842ebc52d16d8a71a70f9f332b0f958') in 0.299 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=02822e42eaf561340e9ba301f2c6ce52 DependenciesID=0fb73ca489d8d8d8f1310e7df5336b63 StaticDependenciesID=1155e4590245180d9070f8a9a2895bb1 
+Importing 'GUID: 6fede028ba58b48d08e05b2bff883359 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_06.wav' with importer (AudioImporter)
+Imported 'GUID: 6fede028ba58b48d08e05b2bff883359' -> (Import Result ID: 'f14051d35b1c356f37608333085cb925') in 0.296 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3ed215206d707f344150cd556f3966e9 DependenciesID=c35f273ff18c214c0430deada80a2605 StaticDependenciesID=aa4fa72942d96283a1de0ba64f437005 
+Refreshing native plugins compatible for Editor in 3.46 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=5f52129f89a882a4fb47e37963dfbda1): Total: 2.929 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=13 (actual=13, local cache=0, cache server=0)
+		Asset DB Process Time: managed=1 ms, native=2908 ms
+		Asset DB Callback time: managed=11 ms, native=8 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1471, non-scripts=2881
+		Asset File Changes: new=13, changed=13, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 0.728ms
+	ApplyChangesToAssetFolders: 0.081ms
+	Scan: 25.354ms
+	Collect global state as custom dependencies: 0.360ms
+	OnSourceAssetsModified: 0.114ms
+	ProcessAssetsWithTransientArtifactChanges: 0.057ms
+	CategorizeAssets: 18.671ms
+	ImportOutOfDateAssets: 2859.545ms (0.176ms without children)
+		ImportManagerImport: 2858.516ms (1.113ms without children)
+			UpdateCategorizedAssets: 0.148ms
+		ReloadNativeAssets: 0.063ms
+		UnloadImportedAssets: 0.192ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.386ms
+		ImportSchedulerStart: 0.203ms
+	PostProcessAllAssets: 9.840ms
+		XRBuildSystem.XRAssetImported 0.630ms
+		VersionControlSettings.HiddenFilePostprocess 0.489ms
+		ShaderAssetModifiedCallback 0.061ms
+		MonoPostProcessAllAssets: 6.466ms
+			SyncVS.PostprocessSyncProject 2.261ms
+			AssetPostprocessor.OnPostprocessAllAssets 1.789ms
+			AssetChangedListener.OnPostprocessAllAssets 0.682ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.586ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.374ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.148ms
+			PostProcessor.OnPostprocessAllAssets 0.091ms
+	PostAssetChangesProfiler: 8.905ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.222ms
+	PersistCurrentRevisions: 0.235ms
+	Untracked: 5.005ms
+
+Asset Pipeline Refresh (id=c647f414742f84b499ae375b10d8ede0): Total: 0.005 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+[Worker0] Imported GUID: f7fd0761c981a4b7382c924e5bef7029 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack - Importer: PreviewImporter -> (ImportResultId: '6cf37dc63d8c8e8eb525ab5642ba6f14') in 0.0200433 seconds
+[Worker0] Imported GUID: 9a77f09d544aa4943b79f1ee73deeef0 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables - Importer: PreviewImporter -> (ImportResultId: '28a3b6c247569e58d711fec3c007a362') in 0.0146511 seconds
+Starting new worker id: 4 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW4.log
+Starting new worker id: 5 with log in C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball/Logs/AssetImportWorkerHW5.log
+[Worker0] Imported GUID: 4d24975329921423b9c49a8807c8f508 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_00.wav - Importer: PreviewImporter -> (ImportResultId: 'd30dc0279ea5d4af00fbb5fe2ac011c5') in 0.0358102 seconds
+[Worker1] Imported GUID: 02f98902d77f7431cb0c64b9fe4744fc - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_01.wav - Importer: PreviewImporter -> (ImportResultId: '9fba8992e6c2bdfd1b09029787bec6a1') in 0.0446743 seconds
+[Worker0] Imported GUID: 4bc21899eae7448ccaf4ebdd49cfcd9f - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_09.wav - Importer: PreviewImporter -> (ImportResultId: '97e42bf2371437820531c502db3287f6') in 0.0376802 seconds
+[Worker1] Imported GUID: 13080dc9f84824b65ad233427adf53a8 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_07.wav - Importer: PreviewImporter -> (ImportResultId: '8c1291e36a49fcb29538ccdb96238b04') in 0.0410595 seconds
+[Worker0] Imported GUID: 11a7e71782ae6430390d783bc08409df - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_03.wav - Importer: PreviewImporter -> (ImportResultId: '4610f5826f30ab08046a4077f8243e51') in 0.0299896 seconds
+[Worker1] Imported GUID: 6fede028ba58b48d08e05b2bff883359 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_06.wav - Importer: PreviewImporter -> (ImportResultId: 'd9948b20088e3b0f3d72b6e41f995518') in 0.0284886 seconds
+[Worker0] Imported GUID: 76231034c16a346359288718672bbc0a - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_04.wav - Importer: PreviewImporter -> (ImportResultId: 'a8d9abf467b4792b54fcfd960716c614') in 0.0253842 seconds
+[Worker1] Imported GUID: 3c392e6befcab436bae9c198f4ea422c - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_02.wav - Importer: PreviewImporter -> (ImportResultId: '11ba08023047cfd9c7c3afa309e091b4') in 0.0245536 seconds
+[Worker0] Imported GUID: 1916972b0254443a2ac996968e38335c - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_08.wav - Importer: PreviewImporter -> (ImportResultId: 'f8bb201795fe9250eb84290c97d9ba50') in 0.0250758 seconds
+[Worker1] Imported GUID: f17bac10ee4c44148a1e9088e7540c55 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_05.wav - Importer: PreviewImporter -> (ImportResultId: '97e3f0ebf908bd223af57cf74d5a661c') in 0.0247421 seconds
+Worker ready: AssetImportWorkerHW4 4
+Worker ready: AssetImportWorkerHW5 5
+Asset Pipeline Refresh (id=47619dd6b8e90f74baa8cae817c3bf99): Total: 0.018 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'c3dc425cf1f2154fee501226c22d3b3c') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=d31260037b586fe54187a649995030c0 StaticDependenciesID=5b19385ad3084cf4973d892738d8f74a 
+Refreshing native plugins compatible for Editor in 4.34 ms, found 4 plugins.
+Asset Pipeline Refresh (id=630ffa48fed251e4e83beb868914bfa8): Total: 0.054 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=ecea6edee5d751e4e9bc7ee3780cd14c): Total: 0.026 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+ExitCode: 0 Duration: 3s179ms
+[ 776/1001  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[ 993/1001  0s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll (+2 others)
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(19,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityX' is assigned but its value is never used
+
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(20,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityY' is assigned but its value is never used
+[ 994/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll, with 127 defines and 350 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 995/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[ 996/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[ 997/1001  2s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[ 998/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll, with 125 defines and 378 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 999/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1000/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (3.11 seconds), 9 items updated, 1001 evaluated
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(19,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityX' is assigned but its value is never used
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(20,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityY' is assigned but its value is never used
+Reloading assemblies after forced synchronous recompile.
+Total cache size 166210169
+Total cache size after purge 166210169, took 00:00:00.3198922
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 4.53 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  2.474 seconds
+Domain Reload Profiling: 4126ms
+	BeginReloadAssembly (987ms)
+		DisableScriptedObjects (221ms)
+		CreateAndSetChildDomain (461ms)
+	RebuildCommonClasses (12ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (84ms)
+	LoadAllAssembliesAndSetupDomain (554ms)
+		LoadAssemblies (234ms)
+		TypeCache.Refresh (18ms)
+		AnalyzeDomain (252ms)
+			BuildScriptInfoCaches (218ms)
+			ResolveRequiredComponents (29ms)
+	FinalizeReload (2475ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (3ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (396ms)
+			ProcessInitializeOnLoadAttributes (396ms)
+			ProcessInitializeOnLoadMethodAttributes (128ms)
+			AfterProcessingInitializeOnLoad (9ms)
+		AwakeInstancesAfterBackupRestoration (873ms)
+Refreshing native plugins compatible for Editor in 2.57 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=cf82f4ddf651b7b498ef1cf670bfaf3c): Total: 8.124 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2659 ms
+		Asset DB Callback time: managed=91 ms, native=6 ms
+		Scripting: domain reloads=1, domain reload time=1776 ms, compile time=3590 ms, other=0 ms
+		Project Asset Count: scripts=1471, non-scripts=2881
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 2.845ms
+	ApplyChangesToAssetFolders: 0.348ms
+	Scan: 11.066ms
+	Collect global state as custom dependencies: 8.831ms
+	OnSourceAssetsModified: 0.085ms
+	CategorizeScriptCompilationAssets: 0.063ms
+	ProcessAssetsWithTransientArtifactChanges: 4.954ms
+	CategorizeAssets: 72.377ms
+	CompileScripts: 3590.129ms
+	ImportOutOfDateAssets: 2488.526ms (2484.528ms without children)
+		CollectScriptTypesHashes: 4.251ms
+		ReloadNativeAssets: 1.365ms
+		UnloadImportedAssets: 0.177ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.794ms
+		ImportSchedulerStart: 1.625ms
+	PostProcessAllAssets: 93.633ms
+		XRBuildSystem.XRAssetImported 0.690ms
+		PostProcessCallbackCreateDeferredMaterials 0.357ms
+		MonoPostProcessAllAssets: 91.601ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 23.575ms
+			SyncVS.PostprocessSyncProject 11.085ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 9.090ms
+			AssetChangedListener.OnPostprocessAllAssets 8.273ms
+			AssetPostprocessor.OnPostprocessAllAssets 4.972ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 4.561ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 2.578ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 2.264ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 1.517ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.029ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.989ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.957ms
+			MaterialPostprocessor.OnPostprocessAllAssets 0.875ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.681ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.675ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.658ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.583ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.489ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.416ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.391ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.343ms
+			PostProcessor.OnPostprocessAllAssets 0.324ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.301ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.256ms
+			AssetEvents.OnPostprocessAllAssets 0.252ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.223ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.215ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.200ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.184ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.165ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.163ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.143ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.132ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.098ms
+	PostAssetChangesProfiler: 4.170ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.276ms
+	PersistCurrentRevisions: 0.126ms
+	GenerateScriptTypeHashes: 3.598ms
+	GenerateScriptTypeSerializationHashes: 6.112ms
+	Untracked: 1825.783ms
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            12.153 ms
+	Integration:            44.899 ms
+	Integration of assets:  0.009 ms
+	Thread Wait Time:       0.024 ms
+	Total Operation Time:   57.085 ms
+Unloading 487 unused Assets / (1.3 MB). Loaded Objects now: 10362.
+Memory consumption went from 0.76 GB to 0.76 GB.
+Total: 31.112800 ms (FindLiveObjects: 1.041700 ms CreateObjectMapping: 0.198400 ms MarkObjects: 28.526900 ms  DeleteObjects: 1.018500 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=a4ff99413f228614dbfbdf3dbf41aaae): Total: 0.048 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'ee54beeab46c73f198d8e82315075018') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=8442afb263158c079412c981ed720777 StaticDependenciesID=f1063f9ac100321eff23afb27eb1bef2 
+Asset Pipeline Refresh (id=20158171111941f469c24644f7342230): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.926 ms
+	Integration:            28.457 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.013 ms
+	Total Operation Time:   32.400 ms
+Unloading 191 unused Assets / (2.0 MB). Loaded Objects now: 10377.
+Memory consumption went from 0.78 GB to 0.78 GB.
+Total: 27.035400 ms (FindLiveObjects: 0.820800 ms CreateObjectMapping: 0.177700 ms MarkObjects: 25.357800 ms  DeleteObjects: 0.352100 ms)
+
+Asset Pipeline Refresh (id=6fec071af7a7d3940bacf215d12905d9): Total: 0.026 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=53689b71b56c84c48826f8cf58d4296f): Total: 0.008 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=03579cb29ea449d4db29593946fbcdc0): Total: 0.006 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Refreshing native plugins compatible for Editor in 2.31 ms, found 4 plugins.
+Asset Pipeline Refresh (id=05465e8996521d24193c7b5b81aeef5f): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '76837ac6552026e4c2e851fe6e8f1f9c') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=38ec95c841ecbeab83eb0e35e6ddc245 StaticDependenciesID=1b6390ab6fcdf88e81b7cc24ecf0a5c6 
+Asset Pipeline Refresh (id=a2c10c50bc9978743ab7727c72f2343d): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+MissingComponentException: There is no 'AudioSource' attached to the "Player" game object, but a script is trying to access it.
+You probably need to add a AudioSource to the game object "Player". Or your script needs to check if the component is attached before using it. Parameter name: source
+  at UnityEngine.Object+MarshalledUnityObject.TryThrowEditorNullExceptionObject (UnityEngine.Object unityObj, System.String parameterName) [0x000b4] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.Bindings.ThrowHelper.ThrowArgumentNullException (System.Object obj, System.String parameterName) [0x0000a] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.AudioSource.PlayHelper (UnityEngine.AudioSource source, System.UInt64 delay) [0x00015] in <430e820e769b448192930c93ee70152e>:0 
+  at UnityEngine.AudioSource.Play () [0x00000] in <430e820e769b448192930c93ee70152e>:0 
+  at PlayerController.OnTriggerEnter (UnityEngine.Collider other) [0x00032] in C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Assets\Scripts\PlayerController.cs:99 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&)
+
+(Filename: Assets/Scripts/PlayerController.cs Line: 99)
+
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.014 ms
+	Integration:            28.009 ms
+	Integration of assets:  0.007 ms
+	Thread Wait Time:       0.010 ms
+	Total Operation Time:   31.040 ms
+Unloading 210 unused Assets / (2.3 MB). Loaded Objects now: 10395.
+Memory consumption went from 0.78 GB to 0.78 GB.
+Total: 24.708600 ms (FindLiveObjects: 0.973000 ms CreateObjectMapping: 0.160000 ms MarkObjects: 22.921400 ms  DeleteObjects: 0.335500 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=92c2941be8fccf64e93010d764e9f718): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '9d63c5d999cb23faeeca1851d1f51c3d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=23415a9168e853564ddeda47541bc6a3 StaticDependenciesID=f60f67083651cfa603609f790c7d5238 
+Asset Pipeline Refresh (id=7ec29237e12aee245961e3acf7a98384): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+MissingComponentException: There is no 'AudioSource' attached to the "Player" game object, but a script is trying to access it.
+You probably need to add a AudioSource to the game object "Player". Or your script needs to check if the component is attached before using it. Parameter name: source
+  at UnityEngine.Object+MarshalledUnityObject.TryThrowEditorNullExceptionObject (UnityEngine.Object unityObj, System.String parameterName) [0x000b4] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.Bindings.ThrowHelper.ThrowArgumentNullException (System.Object obj, System.String parameterName) [0x0000a] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.AudioSource.PlayHelper (UnityEngine.AudioSource source, System.UInt64 delay) [0x00015] in <430e820e769b448192930c93ee70152e>:0 
+  at UnityEngine.AudioSource.Play () [0x00000] in <430e820e769b448192930c93ee70152e>:0 
+  at PlayerController.OnTriggerEnter (UnityEngine.Collider other) [0x00032] in C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Assets\Scripts\PlayerController.cs:99 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&)
+
+(Filename: Assets/Scripts/PlayerController.cs Line: 99)
+
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.592 ms
+	Integration:            26.861 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.015 ms
+	Total Operation Time:   30.473 ms
+Unloading 190 unused Assets / (2.7 MB). Loaded Objects now: 10400.
+Memory consumption went from 0.78 GB to 0.78 GB.
+Total: 26.589100 ms (FindLiveObjects: 0.782500 ms CreateObjectMapping: 0.160200 ms MarkObjects: 24.973000 ms  DeleteObjects: 0.320600 ms)
+
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+[Licensing::Client] Successfully resolved entitlement details
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
+ExitCode: 0 Duration: 0s925ms
+[ 776/1001  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[ 993/1001  0s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll (+2 others)
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(19,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityX' is assigned but its value is never used
+
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(20,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityY' is assigned but its value is never used
+[ 994/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp.dll, with 127 defines and 350 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 995/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[ 996/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[ 997/1001  0s] Csc Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[ 998/1001  0s] ILPostProcess Library/Bee/artifacts/2000b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aE.dag/Assembly-CSharp-Editor.dll, with 125 defines and 378 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[ 999/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1000/1001  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (0.83 seconds), 9 items updated, 1001 evaluated
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(19,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityX' is assigned but its value is never used
+Assets\Stylized_Astronaut\Character\AstronautThirdPersonCamera.cs(20,19): warning CS0414: The field 'AstronautThirdPersonCamera.sensitivityY' is assigned but its value is never used
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Total cache size 166210169
+Total cache size after purge 166210169, took 00:00:00.3924189
+Refreshing native plugins compatible for Editor in 11.17 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  2.156 seconds
+Domain Reload Profiling: 3669ms
+	BeginReloadAssembly (844ms)
+		DisableScriptedObjects (194ms)
+		CreateAndSetChildDomain (355ms)
+	RebuildCommonClasses (12ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (92ms)
+	LoadAllAssembliesAndSetupDomain (549ms)
+		LoadAssemblies (237ms)
+		TypeCache.Refresh (17ms)
+		AnalyzeDomain (235ms)
+			BuildScriptInfoCaches (206ms)
+			ResolveRequiredComponents (26ms)
+	FinalizeReload (2157ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (235ms)
+			ProcessInitializeOnLoadAttributes (367ms)
+			ProcessInitializeOnLoadMethodAttributes (96ms)
+			AfterProcessingInitializeOnLoad (9ms)
+		AwakeInstancesAfterBackupRestoration (802ms)
+Refreshing native plugins compatible for Editor in 4.19 ms, found 4 plugins.
+
+Asset Pipeline Refresh (id=da0d0aa3d3b795a4db2e4963602ac4fd): Total: 5.522 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2365 ms
+		Asset DB Callback time: managed=68 ms, native=8 ms
+		Scripting: domain reloads=1, domain reload time=1674 ms, compile time=1405 ms, other=0 ms
+		Project Asset Count: scripts=1471, non-scripts=2881
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 4.977ms
+	ApplyChangesToAssetFolders: 0.423ms
+	Scan: 15.196ms
+	Collect global state as custom dependencies: 9.587ms
+	OnSourceAssetsModified: 0.094ms
+	CategorizeScriptCompilationAssets: 0.062ms
+	ProcessAssetsWithTransientArtifactChanges: 5.109ms
+	CategorizeAssets: 61.459ms
+	CompileScripts: 1404.816ms
+	ImportOutOfDateAssets: 2181.597ms (2178.782ms without children)
+		CollectScriptTypesHashes: 2.106ms
+		ReloadNativeAssets: 1.292ms
+		UnloadImportedAssets: 0.229ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.753ms
+		ImportSchedulerStart: 0.514ms
+	PostProcessAllAssets: 69.971ms
+		XRBuildSystem.XRAssetImported 1.094ms
+		PostProcessCallbackCreateDeferredMaterials 0.293ms
+		MonoPostProcessAllAssets: 68.000ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 16.035ms
+			SyncVS.PostprocessSyncProject 8.928ms
+			AssetChangedListener.OnPostprocessAllAssets 5.927ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 5.264ms
+			AssetPostprocessor.OnPostprocessAllAssets 4.093ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 3.123ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 1.816ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 1.307ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 1.272ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 1.120ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.998ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.877ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.827ms
+			MaterialPostprocessor.OnPostprocessAllAssets 0.775ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.588ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.568ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.514ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.379ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.351ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.350ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.278ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.249ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.231ms
+			PostProcessor.OnPostprocessAllAssets 0.222ms
+			AssetEvents.OnPostprocessAllAssets 0.222ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.171ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.165ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.163ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.153ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.150ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.135ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.129ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.118ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.084ms
+	PostAssetChangesProfiler: 5.149ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.305ms
+	UnloadStreamsBegin: 0.257ms
+	PersistCurrentRevisions: 0.255ms
+	GenerateScriptTypeHashes: 3.232ms
+	GenerateScriptTypeSerializationHashes: 5.553ms
+	Untracked: 1726.010ms
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+UnassignedReferenceException: The variable PickupSound of PlayerController has not been assigned.
+You probably need to assign the PickupSound variable of the PlayerController script in the inspector. Parameter name: source
+  at UnityEngine.Object+MarshalledUnityObject.TryThrowEditorNullExceptionObject (UnityEngine.Object unityObj, System.String parameterName) [0x000b4] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.Bindings.ThrowHelper.ThrowArgumentNullException (System.Object obj, System.String parameterName) [0x0000a] in <0e80f59860fa45278948cc6ebb8e9196>:0 
+  at UnityEngine.AudioSource.PlayHelper (UnityEngine.AudioSource source, System.UInt64 delay) [0x00015] in <430e820e769b448192930c93ee70152e>:0 
+  at UnityEngine.AudioSource.Play () [0x00000] in <430e820e769b448192930c93ee70152e>:0 
+  at PlayerController.OnTriggerEnter (UnityEngine.Collider other) [0x00032] in C:\Users\anima\OneDrive\Desktop\Unity-Projects\Roll-a-Ball\Assets\Scripts\PlayerController.cs:98 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&)
+
+(Filename: Assets/Scripts/PlayerController.cs Line: 98)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            10.994 ms
+	Integration:            43.201 ms
+	Integration of assets:  0.012 ms
+	Thread Wait Time:       0.018 ms
+	Total Operation Time:   54.225 ms
+Unloading 39 unused Assets / (1.1 MB). Loaded Objects now: 10404.
+Memory consumption went from 0.77 GB to 0.77 GB.
+Total: 23.705900 ms (FindLiveObjects: 0.824200 ms CreateObjectMapping: 0.166400 ms MarkObjects: 22.263400 ms  DeleteObjects: 0.122800 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.006 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=b6aee204cd808bb4d9d13f6c26dbc1df): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity' with importer (DefaultImporter)
+Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'ea9739d8244c1d6d57fa30818e434a46') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=ac467ac57902e8072d61f65c0500d173 DependenciesID=a6a7b25ad7149e1dffe05995b1dbf7aa StaticDependenciesID=4a00c331ead783d7f779419729274398 
+Asset Pipeline Refresh (id=93636f3a094745045938717c06ac7aac): Total: 0.044 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.919 ms
+	Integration:            29.288 ms
+	Integration of assets:  0.007 ms
+	Thread Wait Time:       0.014 ms
+	Total Operation Time:   33.228 ms
+Unloading 192 unused Assets / (2.6 MB). Loaded Objects now: 10406.
+Memory consumption went from 0.79 GB to 0.79 GB.
+Total: 22.488200 ms (FindLiveObjects: 0.868200 ms CreateObjectMapping: 0.171100 ms MarkObjects: 20.459800 ms  DeleteObjects: 0.619400 ms)
+
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.107 ms
+	Integration:            25.234 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.041 ms
+	Total Operation Time:   28.390 ms
+Unloading 24 unused Assets / (0.7 MB). Loaded Objects now: 10404.
+Memory consumption went from 0.78 GB to 0.78 GB.
+Total: 22.436500 ms (FindLiveObjects: 0.810400 ms CreateObjectMapping: 0.166600 ms MarkObjects: 21.022800 ms  DeleteObjects: 0.108200 ms)
+
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Entering Playmode with Reload Scene disabled. If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.770 ms
+	Integration:            24.089 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   26.874 ms
+Unloading 24 unused Assets / (0.7 MB). Loaded Objects now: 10404.
+Memory consumption went from 0.78 GB to 0.78 GB.
+Total: 20.961200 ms (FindLiveObjects: 0.840000 ms CreateObjectMapping: 0.204300 ms MarkObjects: 19.493100 ms  DeleteObjects: 0.093300 ms)
+
+[Licensing::Client] Successfully resolved entitlement details

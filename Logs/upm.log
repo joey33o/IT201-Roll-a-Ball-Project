@@ -192,3 +192,24 @@ params: {
 [2026-10-27T14:21:57.434Z][INFO] tarball:extract <-- Request received
 params: {}
 [2026-10-27T14:21:57.759Z][INFO] tarball:extract --> 200 (325 ms)
+[2026-10-27T14:36:28.052Z][INFO] tarball:extract <-- Request received
+params: {}
+[2026-10-27T14:36:30.765Z][INFO] tarball:extract --> 200 (2714 ms)
+[2026-10-27T14:40:11.944Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T14:40:12.116Z][INFO] project:list-packages --> 200 (172 ms)
+[2026-10-27T14:40:12.244Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T14:40:12.371Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-27T14:40:12.375Z][INFO] project:list-packages --> 200 (131 ms)
+[2026-10-27T14:40:12.376Z][INFO] config:project:get-registries --> 200 (5 ms)
+[2026-10-27T14:46:45.204Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T14:46:45.403Z][INFO] project:list-packages --> 200 (202 ms)
+[2026-10-27T14:46:45.468Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T14:46:45.562Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-27T14:46:45.576Z][INFO] project:list-packages --> 200 (108 ms)
+[2026-10-27T14:46:45.576Z][INFO] config:project:get-registries --> 200 (14 ms)

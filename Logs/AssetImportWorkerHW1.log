@@ -972,3 +972,184 @@ Importing 'GUID: 9669960e415ea604d81fb0784634df79 - Path: Assets/ArcadeGameBGM#3
 Imported 'GUID: 9669960e415ea604d81fb0784634df79' -> (Import Result ID: '5e923259c7817d2c232c5b28e9f774c4') in 0.665 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4ad43e30fd97b0364ac069b7a92591fa DependenciesID=1e07faa99647010eea2df06e4c9e0999 StaticDependenciesID=9a4c0eab45cd021e7040657673b8f6be 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:53.3686421Z
+  Time since last request: 454.08536429999998 seconds.
+  importAddress: GUID: d3df2bc26ac7b3e4ab8d741c13e0869a - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Blue/BluePieces/BannerBlueD.prefab - Importer: PreviewImporter
+Importing 'GUID: d3df2bc26ac7b3e4ab8d741c13e0869a - Path: Assets/AurynSky/Dungeon Pack/Prefabs/Blue/BluePieces/BannerBlueD.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d3df2bc26ac7b3e4ab8d741c13e0869a' -> (Import Result ID: '0bdaf974070e14011f220731dda1cded') in 0.894 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1113f54df18245797d6c9451e5c96866 DependenciesID=e7a04da0eb9d8b366f410b5643c085e5 StaticDependenciesID=2aa01d83bbb4b19e82c032b38c1e5d7b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 38
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:54.2929357Z
+  Time since last request: 0.0017161 seconds.
+  importAddress: GUID: e98b32227e8750c4faa51bef15c3c1d7 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Double.prefab - Importer: PreviewImporter
+Importing 'GUID: e98b32227e8750c4faa51bef15c3c1d7 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Double.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: e98b32227e8750c4faa51bef15c3c1d7' -> (Import Result ID: 'b66e03631ef1ed1bf13b46ee68719df9') in 0.128 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=11fdc723fd405a037fb2b99c72d827ba DependenciesID=6d9f268b6edc963770ee6199b9c22012 StaticDependenciesID=48eff17fcca09fc2ca970f0f7a9ffda9 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:54.4369545Z
+  Time since last request: 0.0018202 seconds.
+  importAddress: GUID: 4401183a8c5330f4fb6f509ed5038c84 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Cauldron.prefab - Importer: PreviewImporter
+Importing 'GUID: 4401183a8c5330f4fb6f509ed5038c84 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Cauldron.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 4401183a8c5330f4fb6f509ed5038c84' -> (Import Result ID: 'e1f2acda02f1ffaa655c0a903040dd64') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2baad4c4ffd9fa5f1836dd6f28da714f DependenciesID=65b712e6aa91a0b033fe1b972884cf1c StaticDependenciesID=d8063386ae2aa5d24151660a099132ea 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:54.4683437Z
+  Time since last request: 0.0023785 seconds.
+  importAddress: GUID: d9798c1c8733e6a46b3265dd2658ab53 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Barrel.prefab - Importer: PreviewImporter
+Importing 'GUID: d9798c1c8733e6a46b3265dd2658ab53 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Barrel.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d9798c1c8733e6a46b3265dd2658ab53' -> (Import Result ID: 'fbd729e3287095d4e1813a0a72393c1a') in 0.015 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a2766771a982fe6bf8df7d86da4ceb0a DependenciesID=527f6431db0b8eb0d12ad8e915d1c87e StaticDependenciesID=2cb411d62c676fc0e113f2a10ed7ca2e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:54.5024464Z
+  Time since last request: 0.0029881 seconds.
+  importAddress: GUID: 51fa28234874b1d448daaaf257404c60 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bucket.prefab - Importer: PreviewImporter
+Importing 'GUID: 51fa28234874b1d448daaaf257404c60 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bucket.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 51fa28234874b1d448daaaf257404c60' -> (Import Result ID: '3d363dca5ab3c92a5013338014a16c20') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=384f8294512ee0f38c6aaa1044a404bf DependenciesID=3afb8b024972e0be9f208b752b37e69f StaticDependenciesID=94ed474caf142e8baefdfb74ea1e9e11 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:54.5390648Z
+  Time since last request: 0.0016447 seconds.
+  importAddress: GUID: e541542d8e1edea429910096553b39ba - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Single_Wealthy.prefab - Importer: PreviewImporter
+Importing 'GUID: e541542d8e1edea429910096553b39ba - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Single_Wealthy.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: e541542d8e1edea429910096553b39ba' -> (Import Result ID: '5b98a98516bbfcc6986172e14a7c5e61') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ed559e6684649d577ffb9ba55d02a00a DependenciesID=abb9055356f681047a0f912eb2214cea StaticDependenciesID=15d99b59c52afbba28288256fbdbfaf6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:54.572977Z
+  Time since last request: 0.001807 seconds.
+  importAddress: GUID: b67f6e384213fd1419cd46c6c855288a - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chest.prefab - Importer: PreviewImporter
+Importing 'GUID: b67f6e384213fd1419cd46c6c855288a - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chest.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: b67f6e384213fd1419cd46c6c855288a' -> (Import Result ID: 'a70ee059bb1f20b41352fd5bcbb7127a') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=08aebb995ca678d0aeffa8bfe450c820 DependenciesID=9084e6b8d188f86866d641cdd217b0c8 StaticDependenciesID=8285f930335fd9b5774c7174861c7ad4 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:54.6057716Z
+  Time since last request: 0.0017667 seconds.
+  importAddress: GUID: 47ab20d515feb2c43bd7467e2a495051 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chandelier.prefab - Importer: PreviewImporter
+Importing 'GUID: 47ab20d515feb2c43bd7467e2a495051 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chandelier.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 47ab20d515feb2c43bd7467e2a495051' -> (Import Result ID: '212f8b6448c85697b98f5ccf85d72fe9') in 0.024 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d6452af9f69ecf9ea4b493fe5f1af02e DependenciesID=4b28e7a6f8d3a10cabfddace5e649f4f StaticDependenciesID=6267e7acd5350c16d1c6112a37338652 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:54.6454259Z
+  Time since last request: 0.0033381 seconds.
+  importAddress: GUID: a438d9e8aff1975499788ab74e7181b6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Battlement_Normal.prefab - Importer: PreviewImporter
+Importing 'GUID: a438d9e8aff1975499788ab74e7181b6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Battlement_Normal.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: a438d9e8aff1975499788ab74e7181b6' -> (Import Result ID: '32aed3fe7938b4ac353d275707c24188') in 0.098 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6f8b8fa13ee5514fde5ec2eecf92ae8e DependenciesID=3d09047cd327b8a39fe10508518dde19 StaticDependenciesID=6a35a64a94d732b0e5934fa07445ea38 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:29:57.5142051Z
+  Time since last request: 2.7563845 seconds.
+  importAddress: GUID: 879b544c5ff141b43bcffaa6dfd0b0cb - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Prefab/Cylinder.prefab - Importer: PreviewImporter
+Importing 'GUID: 879b544c5ff141b43bcffaa6dfd0b0cb - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Prefab/Cylinder.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 879b544c5ff141b43bcffaa6dfd0b0cb' -> (Import Result ID: 'a2d0c5785394f9149b406ce3cf34c59d') in 4.054 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5a97b93647b1cb391a78ab8c9d301093 DependenciesID=26964417ee4d5e48e686adebd5649584 StaticDependenciesID=0d9941c57f18c438e2cff167b37b44c8 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:30:01.5865718Z
+  Time since last request: 0.0006719 seconds.
+  importAddress: GUID: bcb2ca69016b2684fa20fb79533c591a - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Low.prefab - Importer: PreviewImporter
+Importing 'GUID: bcb2ca69016b2684fa20fb79533c591a - Path: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Low.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: bcb2ca69016b2684fa20fb79533c591a' -> (Import Result ID: 'd8419f62797a5633d6483e23142387eb') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d1e23a2c60409c0da6939e43cf6eec46 DependenciesID=aea97a78718c4e57c60a53567bb3f184 StaticDependenciesID=e8cc25bd854257b7fc4565e484c74245 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:30:01.6042886Z
+  Time since last request: 0.0022267 seconds.
+  importAddress: GUID: 373628b079aacf4459ff99225744babf - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_NoFloor_Mid.prefab - Importer: PreviewImporter
+Importing 'GUID: 373628b079aacf4459ff99225744babf - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_NoFloor_Mid.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 373628b079aacf4459ff99225744babf' -> (Import Result ID: 'a885edf02f0ed6a57ee67c24f6dd40bc') in 0.027 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=39c0c56b67b0c464aeefb2e4ff4b5e2b DependenciesID=a65cf08a89fa73509e56fb208bb55e24 StaticDependenciesID=4102e9d87f88aebef164503a15814e71 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:30:01.6452452Z
+  Time since last request: 0.0008379 seconds.
+  importAddress: GUID: 0d479c4eb82b5514281615a8c31c42e2 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_Vaulted.prefab - Importer: PreviewImporter
+Importing 'GUID: 0d479c4eb82b5514281615a8c31c42e2 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_Vaulted.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 0d479c4eb82b5514281615a8c31c42e2' -> (Import Result ID: '61a1181fa01ee25a8df9d7002a106989') in 0.044 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d62f8525fe9a80344432735411dcaf77 DependenciesID=166fb34b1a9ec576efda22badf2e15fc StaticDependenciesID=34214aebc3d5c8e6cc52a2b6fe60fc56 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 534
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 4.00 ms, found 4 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6657 unused Assets / (6.6 MB). Loaded Objects now: 7838.
+Memory consumption went from 420.9 MB to 414.3 MB.
+Total: 36.918900 ms (FindLiveObjects: 2.265200 ms CreateObjectMapping: 0.884600 ms MarkObjects: 29.154100 ms  DeleteObjects: 3.743700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:37:21.088977Z
+  Time since last request: 439.3836129 seconds.
+  importAddress: GUID: 02f98902d77f7431cb0c64b9fe4744fc - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_01.wav - Importer: PreviewImporter
+Importing 'GUID: 02f98902d77f7431cb0c64b9fe4744fc - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_01.wav - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 02f98902d77f7431cb0c64b9fe4744fc' -> (Import Result ID: '9fba8992e6c2bdfd1b09029787bec6a1') in 0.026 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dd5d57104ce3dd4e538a10a693886655 DependenciesID=fc036b7ace568aa89a6bbf7a370a2b4e StaticDependenciesID=beaf413e0e40fdf5a4cbca139af79f23 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:37:21.1451483Z
+  Time since last request: 0.0111639 seconds.
+  importAddress: GUID: 13080dc9f84824b65ad233427adf53a8 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_07.wav - Importer: PreviewImporter
+Importing 'GUID: 13080dc9f84824b65ad233427adf53a8 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_07.wav - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 13080dc9f84824b65ad233427adf53a8' -> (Import Result ID: '8c1291e36a49fcb29538ccdb96238b04') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4017967da0289b16aa374bf67bf29b37 DependenciesID=6183577244ea2ef6492f55d3f2b97925 StaticDependenciesID=37dcaf44963bd3143d2c4fef8bf2854a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:37:21.1881521Z
+  Time since last request: 0.0017496 seconds.
+  importAddress: GUID: 6fede028ba58b48d08e05b2bff883359 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_06.wav - Importer: PreviewImporter
+Importing 'GUID: 6fede028ba58b48d08e05b2bff883359 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_06.wav - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 6fede028ba58b48d08e05b2bff883359' -> (Import Result ID: 'd9948b20088e3b0f3d72b6e41f995518') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c00b13fb4f5328ee2aa0e18bdbf30e53 DependenciesID=9000940445e5aed25ecdf56e0a9507c5 StaticDependenciesID=cc60567c54758406c61e6cff168c6dbd 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:37:21.2190179Z
+  Time since last request: 0.0020779 seconds.
+  importAddress: GUID: 3c392e6befcab436bae9c198f4ea422c - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_02.wav - Importer: PreviewImporter
+Importing 'GUID: 3c392e6befcab436bae9c198f4ea422c - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_02.wav - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3c392e6befcab436bae9c198f4ea422c' -> (Import Result ID: '11ba08023047cfd9c7c3afa309e091b4') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=620e83415e5ff3dde1e8c11b27cf7fc1 DependenciesID=37b1c8845d6fc9e43c1a011750745c8f StaticDependenciesID=11169fc5cab01d85a7cea4eba78e3909 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-27T14:37:21.2463071Z
+  Time since last request: 0.0024598 seconds.
+  importAddress: GUID: f17bac10ee4c44148a1e9088e7540c55 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_05.wav - Importer: PreviewImporter
+Importing 'GUID: f17bac10ee4c44148a1e9088e7540c55 - Path: Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_05.wav - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f17bac10ee4c44148a1e9088e7540c55' -> (Import Result ID: '97e3f0ebf908bd223af57cf74d5a661c') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3b9c1643b1309820cdfcec16f70d5f70 DependenciesID=16991dd0cde8b583b0d70b9efa4f9ca7 StaticDependenciesID=b945dad145a808764319ab58702ed32d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0

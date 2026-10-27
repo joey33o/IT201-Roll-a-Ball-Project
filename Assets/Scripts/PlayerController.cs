@@ -18,6 +18,8 @@ public class PlayerController : MonoBehaviour
 
     public bool isPaused;
 
+    [SerializeField] public AudioSource PickupSound; 
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -90,8 +92,10 @@ public class PlayerController : MonoBehaviour
       if (other.gameObject.CompareTag("PickUp")) 
        {
          other.gameObject.SetActive(false);
+
          count= count +1;
          SetCountText();
+         PickupSound.Play();
          if(count == 2){
              GameObject.FindWithTag("Door").SetActive(false);
          }
