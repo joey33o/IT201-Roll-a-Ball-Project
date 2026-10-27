@@ -2,20 +2,20 @@
 Built from '6000.6/staging' branch; Version is '6000.6.2f1 (770e33f6875c) revision 7802419'; Using compiler version '194234433'; Build Type 'Release'
 OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 15892 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima" at "2026-10-26T20:16:09.3673236Z"
 System  architecture: x64
 Process architecture: x64
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima" at "2026-10-24T13:56:50.7754466Z"
-Date: 2026-10-24T13:56:50Z
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 34624, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+Date: 2026-10-26T20:16:09Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 4280, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
 [Licensing::Module] LicensingClient has failed validation; ignoring
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.18.3+d7ffd15
-  Session Id:              545a591f338d41b7a478a59593a99d3f
-  Correlation Id:          03e4c9578768130b40e114f1d2663753
-  External correlation Id: 2953761362385831799
+  Session Id:              e719dc7f65a14c81850dfffffd969fc5
+  Correlation Id:          f4c0aae30be91ae525a98b7cd8d083f0
+  External correlation Id: 6420993388862786758
   Machine Id:              ZKKM2ZeYzcrC9nKecvcZNepNPWU=
 [Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-anima" (connect: 0.00s, validation: 0.00s, handshake: 0.07s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima-notifications" at "2026-10-24T13:56:50.8466505Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima-notifications" at "2026-10-26T20:16:09.437511Z"
 [Licensing::Module] Licensing Background thread has ended after 0.07s
 
 COMMAND LINE ARGUMENTS:
@@ -30,9 +30,9 @@ C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
 -logFile
 Logs/AssetImportWorkerHW0.log
 -srvPort
-58710
+51583
 -parentPid
-39208
+30768
 -analyticsCloudUserId
 anonymous
 -analyticsCloudProjectId
@@ -96,16 +96,14 @@ C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
     "memorysetup-job-temp-allocator-block-size=2097152"
     "memorysetup-job-temp-allocator-block-size-background=1048576"
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
-Player connection [28944]  Target information:
+Player connection [10720]  Target information:
 
-Player connection [28944]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3751031861 [EditorId] 3751031861 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [10720]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2398807199 [EditorId] 2398807199 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28944]  * "[IP] 172.18.240.1 [Port] 0 [Flags] 2 [Guid] 3751031861 [EditorId] 3751031861 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [10720]  * "[IP] 192.168.1.161 [Port] 0 [Flags] 2 [Guid] 2398807199 [EditorId] 2398807199 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28944]  * "[IP] 192.168.1.161 [Port] 0 [Flags] 2 [Guid] 3751031861 [EditorId] 3751031861 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Player connection [28944] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [28944] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [10720] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [10720] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 10
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -130,7 +128,7 @@ Active build profile path: `Assets/Settings/Build Profiles/Web.asset`
 Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `m_BuildTarget`, value `20`
 Got setting from build profile YAML, name `m_Subtarget`, value `0`
-Refreshing native plugins compatible for Editor in 11.36 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 9.08 ms, found 4 plugins.
 Initialize engine version: 6000.6.2f1 (770e33f6875c)
 [EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Resources/UnitySubsystems
@@ -420,18 +418,38 @@ Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
+Got setting from build profile YAML, name `Color Space`, value `1`
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
 Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
 CodeReloadManager initialized
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.011178 seconds.
+Registered in 0.030063 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
@@ -574,24 +592,24 @@ Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `Color Space`, value `1`
 Scripting: successfully reloaded assembly
-- Finished resetting the current domain, in  2.073 seconds
-Domain Reload Profiling: 4245ms
-	BeginReloadAssembly (569ms)
-	RebuildCommonClasses (10ms)
-	RebuildNativeTypeToScriptingClass (39ms)
-	initialDomainReloadingComplete (299ms)
-	LoadAllAssembliesAndSetupDomain (1250ms)
-		LoadAssemblies (566ms)
-		TypeCache.Refresh (844ms)
-			TypeCache.ScanAssembly (795ms)
+- Finished resetting the current domain, in  2.061 seconds
+Domain Reload Profiling: 3775ms
+	BeginReloadAssembly (268ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (45ms)
+	initialDomainReloadingComplete (354ms)
+	LoadAllAssembliesAndSetupDomain (1034ms)
+		LoadAssemblies (260ms)
+		TypeCache.Refresh (656ms)
+			TypeCache.ScanAssembly (609ms)
 		AnalyzeDomain (2ms)
-	FinalizeReload (2077ms)
+	FinalizeReload (2065ms)
 		SetupLoadedEditorAssemblies (0ms)
-			LogAssemblyErrors (5ms)
-			InitializePlatformSupportModulesInManaged (8ms)
-			BeforeProcessingInitializeOnLoad (361ms)
-			ProcessInitializeOnLoadAttributes (352ms)
-			ProcessInitializeOnLoadMethodAttributes (1078ms)
+			LogAssemblyErrors (4ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			BeforeProcessingInitializeOnLoad (349ms)
+			ProcessInitializeOnLoadAttributes (369ms)
+			ProcessInitializeOnLoadMethodAttributes (1038ms)
 Initializing Unity extensions:
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Module] License group:
@@ -607,7 +625,7 @@ Got setting from build profile YAML, name `Color Space`, value `1`
 Begin MonoManager ReloadAssembly
 'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 17.69 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 9.69 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -618,783 +636,582 @@ Native extension for WebGL target not found
 [Package Manager] Cannot connect to Unity Package Manager local server
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Scripting: successfully reloaded assembly
-- Finished resetting the current domain, in  2.713 seconds
-Domain Reload Profiling: 6370ms
-	BeginReloadAssembly (860ms)
-		DisableScriptedObjects (64ms)
-		CreateAndSetChildDomain (94ms)
-	RebuildCommonClasses (28ms)
-	RebuildNativeTypeToScriptingClass (47ms)
-	initialDomainReloadingComplete (286ms)
-	LoadAllAssembliesAndSetupDomain (2433ms)
-		LoadAssemblies (1462ms)
-		TypeCache.Refresh (632ms)
-			TypeCache.ScanAssembly (580ms)
-		AnalyzeDomain (276ms)
-			BuildScriptInfoCaches (255ms)
+- Finished resetting the current domain, in  1.617 seconds
+Domain Reload Profiling: 5508ms
+	BeginReloadAssembly (867ms)
+		DisableScriptedObjects (67ms)
+		CreateAndSetChildDomain (113ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (57ms)
+	initialDomainReloadingComplete (238ms)
+	LoadAllAssembliesAndSetupDomain (2691ms)
+		LoadAssemblies (1594ms)
+		TypeCache.Refresh (733ms)
+			TypeCache.ScanAssembly (679ms)
+		AnalyzeDomain (243ms)
+			BuildScriptInfoCaches (221ms)
 			ResolveRequiredComponents (16ms)
-	FinalizeReload (2717ms)
+	FinalizeReload (1619ms)
 		SetupLoadedEditorAssemblies (0ms)
-			LogAssemblyErrors (5ms)
-			InitializePlatformSupportModulesInManaged (7ms)
-			BeforeProcessingInitializeOnLoad (355ms)
-			ProcessInitializeOnLoadAttributes (1107ms)
-			ProcessInitializeOnLoadMethodAttributes (191ms)
-			AfterProcessingInitializeOnLoad (25ms)
-			EditorAssembliesLoaded (4ms)
-		AwakeInstancesAfterBackupRestoration (59ms)
+			LogAssemblyErrors (6ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			BeforeProcessingInitializeOnLoad (221ms)
+			ProcessInitializeOnLoadAttributes (601ms)
+			ProcessInitializeOnLoadMethodAttributes (108ms)
+			AfterProcessingInitializeOnLoad (28ms)
+			EditorAssembliesLoaded (3ms)
+		AwakeInstancesAfterBackupRestoration (44ms)
 AcceleratorClientConnectionCallback - disconnected - :0
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 7.44 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 6.42 ms, found 4 plugins.
 Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6667 unused Assets / (4.7 MB). Loaded Objects now: 7639.
-Memory consumption went from 355.4 MB to 350.7 MB.
-Total: 23.708000 ms (FindLiveObjects: 1.436900 ms CreateObjectMapping: 0.724600 ms MarkObjects: 17.776300 ms  DeleteObjects: 3.040500 ms)
+Unloading 6671 unused Assets / (7.9 MB). Loaded Objects now: 7647.
+Memory consumption went from 359.1 MB to 351.2 MB.
+Total: 13.307900 ms (FindLiveObjects: 1.023400 ms CreateObjectMapping: 0.699500 ms MarkObjects: 8.813200 ms  DeleteObjects: 2.299300 ms)
 
 ========================================================================
 Received Prepare
 AcceleratorClientConnectionCallback - disconnected - :0
-Refreshing native plugins compatible for Editor in 5.53 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 5.11 ms, found 4 plugins.
 Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 24 unused Assets / (3.1 MB). Loaded Objects now: 7639.
-Memory consumption went from 348.4 MB to 345.3 MB.
-Total: 16.815100 ms (FindLiveObjects: 0.989900 ms CreateObjectMapping: 0.284600 ms MarkObjects: 13.676300 ms  DeleteObjects: 0.905800 ms)
+Unloading 24 unused Assets / (3.0 MB). Loaded Objects now: 7647.
+Memory consumption went from 352.1 MB to 349.1 MB.
+Total: 11.381200 ms (FindLiveObjects: 0.676200 ms CreateObjectMapping: 0.208100 ms MarkObjects: 8.890200 ms  DeleteObjects: 1.064600 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
   graphicsApiMask: 2048 -> 264192
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T13:57:24.9075623Z
-  Time since last request: 338044.73467299999902 seconds.
-  importAddress: GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: a403f8889b9ef6c4f921de41820fac7c - Path: Assets/Scripts/PlayerController.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: a403f8889b9ef6c4f921de41820fac7c' -> (Import Result ID: '2235e47f7fc7faf47452308765b94610') in 0.254 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cd651c07829156a49515881dc3b47a4f DependenciesID=bfc9aa1a2ddfc07482d375467e269fcc StaticDependenciesID=c5a38cfeea84356a4261a1196f78a0cd 
+  Time of request: 2026-10-26T20:25:28.9617948Z
+  Time since last request: 105986.18533619999653 seconds.
+  importAddress: GUID: 80c91dfd56bb6124ca2a5a2a828d1376 - Path: Assets/Advance Studios/Medieval Castle/Art/Materials - Importer: PreviewImporter
+Importing 'GUID: 80c91dfd56bb6124ca2a5a2a828d1376 - Path: Assets/Advance Studios/Medieval Castle/Art/Materials - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 80c91dfd56bb6124ca2a5a2a828d1376' -> (Import Result ID: '16887f0553a41ec04a1a225e5cf808be') in 0.033 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f6086809dd8a3abd14acf8e2c54d293b DependenciesID=8c4b4803473364737c7a4b9671107b45 StaticDependenciesID=c5798e9334a6d288810cc66bd0a69f6c 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T13:57:25.1796901Z
-  Time since last request: 0.0036689 seconds.
-  importAddress: GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: 'dd1f27d521b845ee9ec41cbc65ca03bf') in 0.020 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9d96a22135819bff911e42f655eb980a DependenciesID=bf27b8bb7776079baeaac020e844037a StaticDependenciesID=64bbc55eb3d7241cf19ea1ff78060731 
+  Time of request: 2026-10-26T20:25:29.0287387Z
+  Time since last request: 0.0042568 seconds.
+  importAddress: GUID: f632f3639cc575a4c9271b20ab9b4380 - Path: Assets/Advance Studios/Medieval Castle/Art/Materials/CastleTexture.mat - Importer: PreviewImporter
+Importing 'GUID: f632f3639cc575a4c9271b20ab9b4380 - Path: Assets/Advance Studios/Medieval Castle/Art/Materials/CastleTexture.mat - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f632f3639cc575a4c9271b20ab9b4380' -> (Import Result ID: '70b34e66e5466005896a53c14c49a8c5') in 0.882 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fe7178ed84f4af2edccd7dce28e5a62e DependenciesID=815c160101a00d66250fc2253eef5ba4 StaticDependenciesID=777295197e4b92f6423edf39856ae473 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 4
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:07:35.4635Z
-  Time since last request: 610.23797890000003 seconds.
-  importAddress: GUID: 845c415f3181b4840ab566c40e714752 - Path: Assets/BTM_Assets/BTM_Items_Gems/Scripts/SimpleGemsAnim.cs - Importer: PreviewImporter
-Importing 'GUID: 845c415f3181b4840ab566c40e714752 - Path: Assets/BTM_Assets/BTM_Items_Gems/Scripts/SimpleGemsAnim.cs - Importer: PreviewImporter' with importer (PreviewImporter)
-Imported 'GUID: 845c415f3181b4840ab566c40e714752' -> (Import Result ID: 'a8e5d28ff0e699d14e2094f622d3d624') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a840363e92e8cb5e602b6be10a02455b DependenciesID=9a29f99c6f468668db9a02f748938f84 StaticDependenciesID=98c9c6be0ac348b80360cde62015bfc1 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-[Licensing::Client] Successfully resolved entitlement details
-Begin MonoManager ReloadAssembly
-'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 2.41 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
-Scripting: successfully reloaded assembly
-- Finished resetting the current domain, in  1.197 seconds
-Domain Reload Profiling: 4247ms
-	BeginReloadAssembly (987ms)
-		ExecutionOrderSort (6ms)
-		DisableScriptedObjects (168ms)
-		ReleaseScriptingObjects (3ms)
-		CreateAndSetChildDomain (261ms)
-	RebuildCommonClasses (14ms)
-	RebuildNativeTypeToScriptingClass (26ms)
-	initialDomainReloadingComplete (232ms)
-	LoadAllAssembliesAndSetupDomain (1789ms)
-		LoadAssemblies (1277ms)
-		TypeCache.Refresh (53ms)
-		AnalyzeDomain (449ms)
-			BuildScriptInfoCaches (428ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (1199ms)
-		SetupLoadedEditorAssemblies (0ms)
-			LogAssemblyErrors (3ms)
-			InitializePlatformSupportModulesInManaged (4ms)
-			BeforeProcessingInitializeOnLoad (171ms)
-			ProcessInitializeOnLoadAttributes (397ms)
-			ProcessInitializeOnLoadMethodAttributes (71ms)
-			AfterProcessingInitializeOnLoad (13ms)
-		AwakeInstancesAfterBackupRestoration (51ms)
-Refreshing native plugins compatible for Editor in 2.64 ms, found 4 plugins.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6670 unused Assets / (7.7 MB). Loaded Objects now: 7693.
-Memory consumption went from 370.1 MB to 362.5 MB.
-Total: 12.540400 ms (FindLiveObjects: 0.688100 ms CreateObjectMapping: 0.567000 ms MarkObjects: 7.937000 ms  DeleteObjects: 3.062100 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2048 -> 264192
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-Refreshing native plugins compatible for Editor in 2.14 ms, found 4 plugins.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 28 unused Assets / (3.6 MB). Loaded Objects now: 7693.
-Memory consumption went from 368.9 MB to 365.3 MB.
-Total: 8.944100 ms (FindLiveObjects: 0.410500 ms CreateObjectMapping: 0.139100 ms MarkObjects: 7.479100 ms  DeleteObjects: 0.668400 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2048 -> 264192
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-Refreshing native plugins compatible for Editor in 2.47 ms, found 4 plugins.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 28 unused Assets / (3.7 MB). Loaded Objects now: 7693.
-Memory consumption went from 372.3 MB to 368.6 MB.
-Total: 8.050400 ms (FindLiveObjects: 0.486500 ms CreateObjectMapping: 0.210800 ms MarkObjects: 5.701500 ms  DeleteObjects: 1.319400 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2048 -> 264192
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-Begin MonoManager ReloadAssembly
-'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 2.09 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
-Scripting: successfully reloaded assembly
-- Finished resetting the current domain, in  0.767 seconds
-Domain Reload Profiling: 1989ms
-	BeginReloadAssembly (336ms)
-		DisableScriptedObjects (38ms)
-		CreateAndSetChildDomain (63ms)
-	RebuildCommonClasses (10ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (88ms)
-	LoadAllAssembliesAndSetupDomain (770ms)
-		LoadAssemblies (488ms)
-		TypeCache.Refresh (15ms)
-		AnalyzeDomain (202ms)
-			BuildScriptInfoCaches (195ms)
-			ResolveRequiredComponents (6ms)
-	FinalizeReload (768ms)
-		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
-			BeforeProcessingInitializeOnLoad (131ms)
-			ProcessInitializeOnLoadAttributes (274ms)
-			ProcessInitializeOnLoadMethodAttributes (55ms)
-			AfterProcessingInitializeOnLoad (9ms)
-		AwakeInstancesAfterBackupRestoration (39ms)
-Refreshing native plugins compatible for Editor in 3.37 ms, found 4 plugins.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6672 unused Assets / (7.6 MB). Loaded Objects now: 7698.
-Memory consumption went from 381.5 MB to 373.8 MB.
-Total: 9.074000 ms (FindLiveObjects: 0.655800 ms CreateObjectMapping: 0.370600 ms MarkObjects: 5.739800 ms  DeleteObjects: 2.045800 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2048 -> 264192
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 28 unused Assets / (3.6 MB). Loaded Objects now: 7698.
-Memory consumption went from 380.3 MB to 376.7 MB.
-Total: 7.110500 ms (FindLiveObjects: 0.401300 ms CreateObjectMapping: 0.150500 ms MarkObjects: 5.206400 ms  DeleteObjects: 1.016300 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2048 -> 264192
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:14.1803083Z
-  Time since last request: 758.62812299999996 seconds.
-  importAddress: GUID: 02dd6406ed1ebc248b2fafd0485e0de9 - Path: Assets/Stylized_Astronaut/Character/Astronaut.fbx - Importer: PreviewImporter
-Importing 'GUID: 02dd6406ed1ebc248b2fafd0485e0de9 - Path: Assets/Stylized_Astronaut/Character/Astronaut.fbx - Importer: PreviewImporter' with importer (PreviewImporter)
-Imported 'GUID: 02dd6406ed1ebc248b2fafd0485e0de9' -> (Import Result ID: 'e53ecebedd7fa1f0ac9239fc791ba0a9') in 0.809 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=23bc15836360e5cca311951ef349dd98 DependenciesID=e64ec7f6e90437b990512d659014cc50 StaticDependenciesID=7326b148cc0a9caea47e9bda1f9e2bd3 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 74
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:46.5132476Z
-  Time since last request: 31.5016689 seconds.
-  importAddress: GUID: 8006c2e1c50564f4180ddecdd50c4783 - Path: Assets/Stylized_Astronaut/Character Documentation.pdf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 8006c2e1c50564f4180ddecdd50c4783 - Path: Assets/Stylized_Astronaut/Character Documentation.pdf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 8006c2e1c50564f4180ddecdd50c4783' -> (Import Result ID: 'e22af9b7e8ab9dbffb056557e315dcdf') in 0.085 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6b52cc8a7823b34324f18bbc931db2c5 DependenciesID=6d4d4724fa2d38e30dfe97d81b29e758 StaticDependenciesID=ef2664a067693679dade6ff144da0997 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:46.6280298Z
-  Time since last request: 0.0131774 seconds.
-  importAddress: GUID: 9966b5485de603b49810d1e020f35606 - Path: Assets/Stylized_Astronaut/Character/AstronautCharacterController.controller - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 9966b5485de603b49810d1e020f35606 - Path: Assets/Stylized_Astronaut/Character/AstronautCharacterController.controller - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 9966b5485de603b49810d1e020f35606' -> (Import Result ID: '6af53f9b362c5089b7e2df38dc242209') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d6a498b9babd9df0a9f4e12fbfa19d3a DependenciesID=ec2b4409fb0e549884238d7e37d98cec StaticDependenciesID=d8771077046121c7a48a927127df55ff 
+  Time of request: 2026-10-26T20:33:01.2939154Z
+  Time since last request: 451.36356380000001 seconds.
+  importAddress: GUID: e541542d8e1edea429910096553b39ba - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Single_Wealthy.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: e541542d8e1edea429910096553b39ba - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Single_Wealthy.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: e541542d8e1edea429910096553b39ba' -> (Import Result ID: '8ff9a7e695f3a2bac449c24300bdb951') in 0.243 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9c98195315a7d1a98c0c1a64a66c9501 DependenciesID=1582fd5161f9e5a43fde1bd6f23b79e5 StaticDependenciesID=c498db7a7ea15b4b6ce527d17c0eb394 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 9
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:46.6653213Z
-  Time since last request: 0.0008491 seconds.
-  importAddress: GUID: 02dd6406ed1ebc248b2fafd0485e0de9 - Path: Assets/Stylized_Astronaut/Character/Astronaut.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 02dd6406ed1ebc248b2fafd0485e0de9 - Path: Assets/Stylized_Astronaut/Character/Astronaut.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 02dd6406ed1ebc248b2fafd0485e0de9' -> (Import Result ID: '435b0dd5225ad54f692efcd12b8b9c7b') in 0.076 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0752d5ce2b9e699f425e4a64328a699d DependenciesID=fc1373b80c7eb4aee9b4873fbee32940 StaticDependenciesID=b669b108f28dff1dfe1e0e0051de4875 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 70
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:46.7569922Z
-  Time since last request: 0.0006225 seconds.
-  importAddress: GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 32106107b0a2f3d4ea97152d8dafa83a - Path: Assets/Scenes/minigame.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Opening scene 'Assets/Scenes/minigame.unity additively'
-Loaded scene 'Assets/Scenes/minigame.unity'
-	Deserialize:            52.855 ms
-	Integration:            65.322 ms
-	Integration of assets:  1.998 ms
-	Thread Wait Time:       0.011 ms
-	Total Operation Time:   120.186 ms
-Imported 'GUID: 32106107b0a2f3d4ea97152d8dafa83a' -> (Import Result ID: '8d99b4655525182e99ec491051eece71') in 0.629 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dd9a74780a5f389c42f8788cac86a754 DependenciesID=ae05546657ffad0add033ee4bd5b5a71 StaticDependenciesID=cc9f5c9b58adf3204e0722f18707e44f 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 60
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.4051585Z
-  Time since last request: 0.0000381 seconds.
-  importAddress: GUID: 332fd2a7367801949967a0afadc5eef3 - Path: Assets/TAZO_3D_C/DemoScene/Demo_mSettings.lighting - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 332fd2a7367801949967a0afadc5eef3 - Path: Assets/TAZO_3D_C/DemoScene/Demo_mSettings.lighting - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-LightingSettings: switching bake backend from 2 to 1.
-Imported 'GUID: 332fd2a7367801949967a0afadc5eef3' -> (Import Result ID: '3cda40326cfc60c9dd601abd41cb42d7') in 0.023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a3e674fabc5b7e95bc5272fe229b1738 DependenciesID=b95b033acfc055e7cb61a625d6b25e0e StaticDependenciesID=3ac87e47fe620752a99ece2b6a40b464 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.4706798Z
-  Time since last request: 0.0269145 seconds.
-  importAddress: GUID: 0b0315988d4640f4f8028117c16b74e1 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Tower A.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 0b0315988d4640f4f8028117c16b74e1 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Tower A.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 0b0315988d4640f4f8028117c16b74e1' -> (Import Result ID: 'c5811d8b46ea513bbebc64b98b5a1471') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=235e6a652f5c919ec289b5f340d12fe4 DependenciesID=e924326ae51420e027f095d68e64a32f StaticDependenciesID=abdc56bae1abf3aa40b4964d2aaff0be 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 32
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.5046838Z
-  Time since last request: 0.0003168 seconds.
-  importAddress: GUID: 57ef16ee7712da6409e8836bf6001e3c - Path: Assets/Advance Studios/Medieval Castle/Prefabs/House A.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 57ef16ee7712da6409e8836bf6001e3c - Path: Assets/Advance Studios/Medieval Castle/Prefabs/House A.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 57ef16ee7712da6409e8836bf6001e3c' -> (Import Result ID: '9370ab15c74c5521e456303790c315c7') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=45b8ed7a89bb6d49bf1e07f7a9e84a3f DependenciesID=eda57f90aeef275d41888bc63f88135d StaticDependenciesID=50968804a1d39754393bb1c8cf93252e 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 45
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.5376914Z
-  Time since last request: 0.0007462 seconds.
-  importAddress: GUID: 8c2cabd72c2871e4fa25d9761a86fef5 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/House B.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 8c2cabd72c2871e4fa25d9761a86fef5 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/House B.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 8c2cabd72c2871e4fa25d9761a86fef5' -> (Import Result ID: '93f520b13b2b4b92c0550d413cdb4e57') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=289d9254b24230e435c5a0231f7a0ff9 DependenciesID=e2a0ca4e8bd9f8dcdfbeaf99712188ad StaticDependenciesID=2c8f9ddb18a3da5ba3d6cf2b18e1a200 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 55
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.5731726Z
-  Time since last request: 0.0007134 seconds.
-  importAddress: GUID: 6336862f86e872944895b7c5569e9988 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Simple Door Frame.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 6336862f86e872944895b7c5569e9988 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Simple Door Frame.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 6336862f86e872944895b7c5569e9988' -> (Import Result ID: '3ad3e525979786737f7db9fe245cd757') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4db6e9b1a877c0622d88fecc37018b77 DependenciesID=cb423eebefae7a5043e92c0cfd53bb63 StaticDependenciesID=fd573891e9c05009c7583daa762d03fc 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 15
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.6023112Z
-  Time since last request: 0.0005491 seconds.
-  importAddress: GUID: 2c198d9e37e61244498aa9d1ab419899 - Path: Assets/Advance Studios/Medieval Castle/Art/Floor.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 2c198d9e37e61244498aa9d1ab419899 - Path: Assets/Advance Studios/Medieval Castle/Art/Floor.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 2c198d9e37e61244498aa9d1ab419899' -> (Import Result ID: '53632a9445120fc4fe5c29d14d5c085d') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fe9a1e6cb5c0c32db7c2e06accc0f36c DependenciesID=818ae6fdaaab392c347a34261e42007e StaticDependenciesID=fb489a8461b9f5c0d039328e7a8e6346 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.6276774Z
-  Time since last request: 0.000841 seconds.
-  importAddress: GUID: 269887260d31d1041b658681cec01a0e - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Bridge Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 269887260d31d1041b658681cec01a0e - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Bridge Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 269887260d31d1041b658681cec01a0e' -> (Import Result ID: 'c317290f3cf1ba18539582ad43cec037') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=145df3a9b93996091357c392fb30db4d DependenciesID=e0e8d9bcc365a4f8aeaebf51305a85bc StaticDependenciesID=753166a5e04c1bab9d7b70da9ade959c 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 17
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.6590503Z
-  Time since last request: 0.0000678 seconds.
-  importAddress: GUID: 0694c2be9a9eae9418f8587aa5efbb64 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Column.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 0694c2be9a9eae9418f8587aa5efbb64 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Column.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 0694c2be9a9eae9418f8587aa5efbb64' -> (Import Result ID: 'a393d6eb0a6e29a0ffa6b8829daee7c4') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d0cd4880ba3d7eaedd070c745d73d43e DependenciesID=8ccb251030fae7742c73120335455d57 StaticDependenciesID=4d8aec2198e0d6d2f4dbdb27f481b8ed 
+  Time of request: 2026-10-26T20:33:01.5641904Z
+  Time since last request: 0.0007208 seconds.
+  importAddress: GUID: 01c15a7f4f3fc7049a3ba930d02e0287 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/dirt_2x1.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 01c15a7f4f3fc7049a3ba930d02e0287 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/dirt_2x1.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 01c15a7f4f3fc7049a3ba930d02e0287' -> (Import Result ID: 'b80d9749f7aa23f8859a7fba88923b66') in 0.019 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=decff89ef196899d095c2843dc4d5f7a DependenciesID=05b19f05aedfab2b4681b536d9291c52 StaticDependenciesID=fd4ec1e7b932ac7459c6f510ddf89315 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 9
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:47.6804535Z
-  Time since last request: 0.0006367 seconds.
-  importAddress: GUID: 0e8152fe58379e843be49840febab4dd - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Bridge Large.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 0e8152fe58379e843be49840febab4dd - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Bridge Large.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 0e8152fe58379e843be49840febab4dd' -> (Import Result ID: '09c8f13ca615e867e4cd493a9da239bd') in 0.027 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cfaa33c05fc5f4b1b605785829a3eb2e DependenciesID=37de8bf4eba5adce5f53760cadedf750 StaticDependenciesID=9b5aa56a9218f9eefad271b9e569dcdd 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 33
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.7248241Z
-  Time since last request: 0.0006954 seconds.
-  importAddress: GUID: 0b52eea75f6c8d04abacc504f9570dc6 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Double Door Frame.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 0b52eea75f6c8d04abacc504f9570dc6 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Double Door Frame.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 0b52eea75f6c8d04abacc504f9570dc6' -> (Import Result ID: 'fbebce79a91f015b26365837fb6c5cfd') in 0.019 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7f5ef56ef4b0ed3f7e1e60ba77d1a120 DependenciesID=287d40fbdfb22d8b1a0cce9b15eff614 StaticDependenciesID=b254a0816c70bb079e651a5e6b45f23f 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 20
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.7602617Z
-  Time since last request: 0.0005184 seconds.
-  importAddress: GUID: afe06cfa5721b824792de9e11596626b - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Castle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: afe06cfa5721b824792de9e11596626b - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Castle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: afe06cfa5721b824792de9e11596626b' -> (Import Result ID: 'afa28f43d30710fc2f41ca3cc705b3ba') in 0.045 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=70c88fd8cb26ddf0b3b11408490d3561 DependenciesID=c4c1b1d8618d69bfedc9ff911101270d StaticDependenciesID=34b11ad9c7af6417e40c6dd3dcf6c58c 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 91
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.8193943Z
-  Time since last request: 0.0001857 seconds.
-  importAddress: GUID: 9ef95eb74fbef4145bc387e83b897495 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Tower B.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 9ef95eb74fbef4145bc387e83b897495 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Tower B.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 9ef95eb74fbef4145bc387e83b897495' -> (Import Result ID: 'b87b4d907f0b93f06a8e2ccd889fba46') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7e43dae4a1a7bdd8d2f9eae469274ad8 DependenciesID=6f4ab5376108e1b23dfc247f30de70d8 StaticDependenciesID=fc67592b6d2c97bffa943f3d5c9da0bd 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:47.8389979Z
-  Time since last request: 0.0005977 seconds.
-  importAddress: GUID: 4f6122b02aea27540b60ee221b7415e5 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Wall.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 4f6122b02aea27540b60ee221b7415e5 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Wall.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 4f6122b02aea27540b60ee221b7415e5' -> (Import Result ID: '66c9910c056973ae3f7451a668c5d096') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7b497916156fb51958941ee42057fdf7 DependenciesID=5caca92646660391d9262561a3f48314 StaticDependenciesID=ad8b5071f9c0063e404516b9d0897955 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:48.7544968Z
-  Time since last request: 0.8889046 seconds.
-  importAddress: GUID: bd5105e1f39844b4daded70961d0174f - Path: Assets/Stylized_Astronaut/Character/Materials/Grey_Mat.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: bd5105e1f39844b4daded70961d0174f - Path: Assets/Stylized_Astronaut/Character/Materials/Grey_Mat.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: bd5105e1f39844b4daded70961d0174f' -> (Import Result ID: '9ca708634d57254f7a4f0bfb74b0c8a1') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=16756314fb0b70f1a2c731bce1ee7ffa DependenciesID=b3951d6dbcbf059b4ddce3fd9d9dd71a StaticDependenciesID=b33470b744d7906892e85f9ba6853bff 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:48.782075Z
-  Time since last request: 0.0013959 seconds.
-  importAddress: GUID: 1a9b0b77314a0e542801c540c9a5e669 - Path: Assets/Stylized_Astronaut/Demo/Materials/Checker_Mat.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 1a9b0b77314a0e542801c540c9a5e669 - Path: Assets/Stylized_Astronaut/Demo/Materials/Checker_Mat.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 1a9b0b77314a0e542801c540c9a5e669' -> (Import Result ID: '58fc66eaaa0b4c187a15c2b834ddbd2a') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e32c68da33fd810a78d7ef05d4427b4b DependenciesID=ee144c1a3689ed0abd9075aa5a9f0488 StaticDependenciesID=45995fbce266143f11a50ff26652be2a 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:48.9229558Z
-  Time since last request: 0.1107048 seconds.
-  importAddress: GUID: a18e05c3226dd274caeb4a43212e40c8 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Bridge.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: a18e05c3226dd274caeb4a43212e40c8 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Bridge.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: a18e05c3226dd274caeb4a43212e40c8' -> (Import Result ID: 'b069fdc905ee4347a5ed022a6416363e') in 0.026 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3122ee1a813c6f769cb68a75c3db786e DependenciesID=a8eae89212b0a41080002760411bb47d StaticDependenciesID=6c2023e44f90c2b15cbcc1b63892f863 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 22
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:48.9621617Z
-  Time since last request: 0.0014402 seconds.
-  importAddress: GUID: e9e492f79fd5a404c9b12c7cb71d49a6 - Path: Assets/Advance Studios/Medieval Castle/Art/Textures/CasaATextura.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: e9e492f79fd5a404c9b12c7cb71d49a6 - Path: Assets/Advance Studios/Medieval Castle/Art/Textures/CasaATextura.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: e9e492f79fd5a404c9b12c7cb71d49a6' -> (Import Result ID: '5063797a9060dd7f2fd067f218a9a5a5') in 0.055 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9945752944b36961f25a83ddf2639626 DependenciesID=26ba8150943a5c2e604a14b3d4358b68 StaticDependenciesID=68c00e60aa442a8e7d8586364efcfca3 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.0370622Z
-  Time since last request: 0.0011576 seconds.
-  importAddress: GUID: d05fa8828be199048bb709f826cc3c53 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Doors and Windows.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: d05fa8828be199048bb709f826cc3c53 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Doors and Windows.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: d05fa8828be199048bb709f826cc3c53' -> (Import Result ID: 'fbc1e200eb778adbda41e619571ca8f2') in 0.023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=189406da3abeb1714de3369068480b8e DependenciesID=37ecbb347b7d0aab913e42a5098f5fff StaticDependenciesID=b7492576d94b06bda8a8982ce231a7d5 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 42
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.0804232Z
-  Time since last request: 0.0011612 seconds.
-  importAddress: GUID: 67ad61ea1fd446b468fe7992fbb3455b - Path: Assets/Advance Studios/Medieval Castle/Art/Textures/CastleTopTexture.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 67ad61ea1fd446b468fe7992fbb3455b - Path: Assets/Advance Studios/Medieval Castle/Art/Textures/CastleTopTexture.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 67ad61ea1fd446b468fe7992fbb3455b' -> (Import Result ID: '01f1613b418558d16d1b1c54bdf8ec96') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d1925789071295e4853bef9bb89136b2 DependenciesID=b36b69b5d2ae6f888ee54076c5301ec1 StaticDependenciesID=0941dc6f7f3ae76d7c0f884f3f2e3a3a 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.1101688Z
-  Time since last request: 0.0015736 seconds.
-  importAddress: GUID: d8d157ebfb23cdf4ba94e99d8458f7d2 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Castle.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: d8d157ebfb23cdf4ba94e99d8458f7d2 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Castle.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-MaterialLocation.External is obsolete. External Material Location is no longer supported. (Assets/Advance Studios/Medieval Castle/Art/Model/Castle.fbx)
-Imported 'GUID: d8d157ebfb23cdf4ba94e99d8458f7d2' -> (Import Result ID: '8768a4897b75537218cb2fc2240a6bb7') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9a7aa527af4310071e37291896045aa2 DependenciesID=6e5163536e941e78d91a207bdf78a6b0 StaticDependenciesID=907f26fee070c83039bd9c54ab116ea1 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 14
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.1383555Z
-  Time since last request: 0.0014095 seconds.
-  importAddress: GUID: ab05a9a1fc2f9c84d8f53892c74e188a - Path: Assets/Advance Studios/Medieval Castle/Art/Textures/CastleTowerBTexture.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: ab05a9a1fc2f9c84d8f53892c74e188a - Path: Assets/Advance Studios/Medieval Castle/Art/Textures/CastleTowerBTexture.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: ab05a9a1fc2f9c84d8f53892c74e188a' -> (Import Result ID: '473f6f2cb3ab34867f6a143bab74dbe0') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c7e60a9de4104ee920f48c356594690c DependenciesID=60ac65c9474e4de5f5bd5c82298cbf9e StaticDependenciesID=a768ba7a4c2a3d7db1ebe587f442fa71 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.1682099Z
-  Time since last request: 0.000906 seconds.
-  importAddress: GUID: 4f5f584a2b663ea4bb16a52da4041720 - Path: Assets/Advance Studios/Medieval Castle/Art/Textures/CastleTowerTexture.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 4f5f584a2b663ea4bb16a52da4041720 - Path: Assets/Advance Studios/Medieval Castle/Art/Textures/CastleTowerTexture.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 4f5f584a2b663ea4bb16a52da4041720' -> (Import Result ID: 'd818f48c86cc499439a22ce9a54dc1fe') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=76d904c6ba0f88da6e14b02876fa90de DependenciesID=215e9547a2c3118e8198eaef41001321 StaticDependenciesID=b2b46e7f62db0f07fde28ac89eefc97c 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.1956912Z
-  Time since last request: 0.0013538 seconds.
-  importAddress: GUID: 64f4be06a92a5dd4a99c31e59ac47d42 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Tower B.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 64f4be06a92a5dd4a99c31e59ac47d42 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Tower B.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 64f4be06a92a5dd4a99c31e59ac47d42' -> (Import Result ID: 'ba430b8217c5e7222c606d6cb396cd19') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=de5f5cb1e8908df03a7b5cdad9eede2a DependenciesID=2dc8ca7dcdaf708de259a2606219de5b StaticDependenciesID=0bf2b53497554acbfed8db681e6b41d6 
+  Time of request: 2026-10-26T20:33:01.6043375Z
+  Time since last request: 0.0007114 seconds.
+  importAddress: GUID: e48f29ef79473e94ab151c8025302f77 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Corner_Outer_Large.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: e48f29ef79473e94ab151c8025302f77 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Corner_Outer_Large.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: e48f29ef79473e94ab151c8025302f77' -> (Import Result ID: '059e1c7cfc19c2eb635bd1402a09e7d6') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f3468f136d560522d145f53705750a07 DependenciesID=6ef66e08c7b64b4f3c48ce3f82de00dc StaticDependenciesID=1e53301d737c4b0006e05007a21f2848 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 10
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:49.2499102Z
-  Time since last request: 0.0218 seconds.
-  importAddress: GUID: a93345ffcfb51d541bf4d8f2e361ec6c - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleTopTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: a93345ffcfb51d541bf4d8f2e361ec6c - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleTopTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: a93345ffcfb51d541bf4d8f2e361ec6c' -> (Import Result ID: '5e43c765de9264b55fb3f3d4801d302f') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=97fe24f5d5709136fcdeef5f71e29f43 DependenciesID=640291cdc95a782d200e3158160efa2b StaticDependenciesID=fe3ac114c20c464488828a35fd5b3afc 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.278376Z
-  Time since last request: 0.0008479 seconds.
-  importAddress: GUID: 3e304acfb50351649a51471ec02e7192 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/Shader/Cartoon.shader - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 3e304acfb50351649a51471ec02e7192 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/Shader/Cartoon.shader - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 3e304acfb50351649a51471ec02e7192' -> (Import Result ID: '5ac49b8f81763942658717203edb7ae5') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ed4106b429c8863b0b06c5b6588c21ed DependenciesID=09e2e3d38f942a7709c9d3a3f8227bb2 StaticDependenciesID=c2efbfa8cdb273721ab38eb09455fad1 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.3211885Z
-  Time since last request: 0.0007853 seconds.
-  importAddress: GUID: f8413be912ab6e8458c53d41f9ad7a5c - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/eye.controller - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: f8413be912ab6e8458c53d41f9ad7a5c - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/eye.controller - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: f8413be912ab6e8458c53d41f9ad7a5c' -> (Import Result ID: '63ea2f96a26d2978cb8d10e2d00f13b4') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bd976926fbe8e7bda0783b74c96ef1a2 DependenciesID=f3f7bb7598015aea15b0a03e025c111c StaticDependenciesID=edd78d157fab40f7e2b595c1e78404ae 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 47
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.3545237Z
-  Time since last request: 0.000188 seconds.
-  importAddress: GUID: da9a573d7a0024a4d918df62e1720a31 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleWallTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: da9a573d7a0024a4d918df62e1720a31 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleWallTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: da9a573d7a0024a4d918df62e1720a31' -> (Import Result ID: '557ee323a49567ad6ae9f935a03da915') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=347675812c9f7ecdd90b955885577556 DependenciesID=2a73635b8843f70b99c01420422cb32b StaticDependenciesID=3edb642abd311cd96523e8be6d3af494 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.3826385Z
-  Time since last request: 0.0010616 seconds.
-  importAddress: GUID: fccec24f52f47bf41858391805df11f4 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@dizzy.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: fccec24f52f47bf41858391805df11f4 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@dizzy.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: fccec24f52f47bf41858391805df11f4' -> (Import Result ID: '8839410ec7cfd6b4fdb854354c0daab7') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e3ea6c53692c7584c4858e4f0908946b DependenciesID=dcedb98a1c87ef9ce85ecc8209a31b8c StaticDependenciesID=8c1570631bb6d294cf40fe66604bb47b 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 51
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.4153761Z
-  Time since last request: 0.0015219 seconds.
-  importAddress: GUID: 13de5ff29f80f4a4eb48b5354127d2c4 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@die.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 13de5ff29f80f4a4eb48b5354127d2c4 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@die.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 13de5ff29f80f4a4eb48b5354127d2c4' -> (Import Result ID: 'f885568988eda60d9a63d5f440f813ab') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=68efc2f4f45f49a52368a907479c279f DependenciesID=bb315282706f8b3ad19a0665c8335c9a StaticDependenciesID=6fceaea61a8868edbf86f27cdbaa1254 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 51
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.4433582Z
-  Time since last request: 0.0009738 seconds.
-  importAddress: GUID: 50396243bd3aa4e40bff949c37ac7034 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleTowerTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 50396243bd3aa4e40bff949c37ac7034 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleTowerTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 50396243bd3aa4e40bff949c37ac7034' -> (Import Result ID: 'a08d8b51516301f903dcddefd646a326') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=23912b28f74b6878e5bc2912c333f5c1 DependenciesID=75d15b2fee01ec2befc1b490d0b117fb StaticDependenciesID=c1efded97205594f6e9fa377ee1a7f35 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.4682528Z
-  Time since last request: 0.0007238 seconds.
-  importAddress: GUID: 336f4f87d2c2de54280c986fa8d28c5f - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@defy.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 336f4f87d2c2de54280c986fa8d28c5f - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@defy.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 336f4f87d2c2de54280c986fa8d28c5f' -> (Import Result ID: '7f1db95dd48395e002d27a32560b80d0') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=14e7860f8915c1b1423e0e4a8b034a2a DependenciesID=d74b0ae4445b9e71c8e9ab0991122bde StaticDependenciesID=812c0831b60626ea61c649c05a7b9497 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 35
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.4965499Z
-  Time since last request: 0.0009364 seconds.
-  importAddress: GUID: f8e3d3eb6801b9c448c2da7b83cb1acd - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@atk01.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: f8e3d3eb6801b9c448c2da7b83cb1acd - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@atk01.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: f8e3d3eb6801b9c448c2da7b83cb1acd' -> (Import Result ID: '0d71885e6985decb3bc5a0f6b739b8fe') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8f200dc96d2cf92b1d3cafc062e33dec DependenciesID=99180a21712af2d2ccc4490c02062a20 StaticDependenciesID=906cccdc5a1ab5572e94794027083f6f 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 35
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.5323123Z
-  Time since last request: 0.0051215 seconds.
-  importAddress: GUID: 324ec96ecbdeb314dbeef98b7283842d - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@idle.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 324ec96ecbdeb314dbeef98b7283842d - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@idle.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 324ec96ecbdeb314dbeef98b7283842d' -> (Import Result ID: '198602ae8d72731f8834d3423b981da6') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=94c0fb2eb97185976f236233ae1efa95 DependenciesID=8fd1ba4e1e6e33a8819f0f03c4e859b5 StaticDependenciesID=5eaec9167c9ab7386139802c2fc51889 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 51
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.566967Z
-  Time since last request: 0.0007866 seconds.
-  importAddress: GUID: 8aca31866cffc3847a8939b8d58b2bc0 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Mesh/Materials/eye2.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 8aca31866cffc3847a8939b8d58b2bc0 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Mesh/Materials/eye2.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 8aca31866cffc3847a8939b8d58b2bc0' -> (Import Result ID: '076fd0aa1b483662ce7919b562f1a234') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2a630685dc5d04473aeba7b0d2ca3181 DependenciesID=f2c7db97b0c96607d36d794ae3a51589 StaticDependenciesID=e5bb17250c35d6fa858d23156041ec67 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.5938574Z
-  Time since last request: 0.0010815 seconds.
-  importAddress: GUID: e69390767c4832744ac2925af11081ef - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@up.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: e69390767c4832744ac2925af11081ef - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@up.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: e69390767c4832744ac2925af11081ef' -> (Import Result ID: '6180111adfded851328cccd3ccadb37f') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=21c9c43e5931577a0374ffd7669aa425 DependenciesID=0b7b296011e6846f9efabf2f9c9a984e StaticDependenciesID=bf6ba4c5c60a0357f3aaba1752a577e0 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 51
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.6258533Z
-  Time since last request: 0.0011166 seconds.
-  importAddress: GUID: 92ea0fdec1e3d2b4082219a3842bfe5b - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Prefab/eyebat.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F
-Importing 'GUID: 92ea0fdec1e3d2b4082219a3842bfe5b - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Prefab/eyebat.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0F)
-Imported 'GUID: 92ea0fdec1e3d2b4082219a3842bfe5b' -> (Import Result ID: '464f0be7e239edfa1ea38193276ef6d4') in 0.031 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=478974de228803799f4caeae317d696f DependenciesID=ce12a08e505038e56771528c15885ccd StaticDependenciesID=fa891cbd0efb97d9e6f8d89e448c4127 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 99
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.6783637Z
-  Time since last request: 0.000042 seconds.
-  importAddress: GUID: 4f1ff9af117c88940ae13b69ea01075e - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@jump_fix.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 4f1ff9af117c88940ae13b69ea01075e - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@jump_fix.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 4f1ff9af117c88940ae13b69ea01075e' -> (Import Result ID: 'cb77a892680cc16a6576c03e39899d3b') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d8b0effca8b31ceb032138b34c5ee1d0 DependenciesID=0aab4b25757f57c85267de94551607c8 StaticDependenciesID=fd53f469573feb867cafe3169b49553e 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 51
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.7057326Z
-  Time since last request: 0.0009729 seconds.
-  importAddress: GUID: b30781bd81a965b429b8f7f0d636df38 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@jump.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: b30781bd81a965b429b8f7f0d636df38 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/eye@jump.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: b30781bd81a965b429b8f7f0d636df38' -> (Import Result ID: '0c8507d50528f343cb8a06ddb0934a0b') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7f5986435c4981d538053705736166d5 DependenciesID=6fecd536c9ced01b059b4497994032ee StaticDependenciesID=9220b494a1e2a116f183c670b0cacee4 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 51
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:49.7314345Z
-  Time since last request: 0.0013242 seconds.
-  importAddress: GUID: 44cd54d99e2c3a4499e94f03403253a5 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/pumkin@run.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 44cd54d99e2c3a4499e94f03403253a5 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Animation/pumkin@run.FBX - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 44cd54d99e2c3a4499e94f03403253a5' -> (Import Result ID: '86e67f1842db861358f457bd76e32805') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=07daa269f72041c7a669d1bfb2bddbf7 DependenciesID=ec104e4872ae3c954bb1f59bc05a0507 StaticDependenciesID=6a6bc4aef6347a4b691838ed3ed4ec44 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 33
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:52.6195959Z
-  Time since last request: 2.8629493 seconds.
-  importAddress: GUID: f1b8a3732e8001141b52a39348b77a8f - Path: Assets/TAZO_3D_C/DemoScene/Canvas.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: f1b8a3732e8001141b52a39348b77a8f - Path: Assets/TAZO_3D_C/DemoScene/Canvas.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: f1b8a3732e8001141b52a39348b77a8f' -> (Import Result ID: '2d7d79a07a0a9a7808e8bb5d6c8b2ed6') in 0.023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=340123acfcb4e82a0512ae31a97bc08b DependenciesID=c673459a32748428f793a75d4f6f6462 StaticDependenciesID=ba08d2321e42d08e0a3196556b596632 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 126
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:52.6575472Z
-  Time since last request: 0.0011796 seconds.
-  importAddress: GUID: 8ad60dc2907202543b5da0ebcd547a7c - Path: Assets/TAZO_3D_C/DemoScene/Demo_m.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 8ad60dc2907202543b5da0ebcd547a7c - Path: Assets/TAZO_3D_C/DemoScene/Demo_m.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 8ad60dc2907202543b5da0ebcd547a7c' -> (Import Result ID: '6d5e16dfd563920a2ee98a18c3b79c39') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7b700e36d6ede0980729b1471d406e6f DependenciesID=8b71a4f7dce8e4628995feab3351c805 StaticDependenciesID=a20b5929eb830c2a2b754e93ef2d8a5f 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:52.6815846Z
-  Time since last request: 0.0032706 seconds.
-  importAddress: GUID: 0b52eea75f6c8d04abacc504f9570dc6 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Double Door Frame.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 0b52eea75f6c8d04abacc504f9570dc6 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Double Door Frame.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 0b52eea75f6c8d04abacc504f9570dc6' -> (Import Result ID: 'a92fb0823045ee270b2cb91850a5e816') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f6f06dfbcbed465dcfa3a8864bfc784c DependenciesID=eb8de706b02c12682a7c26102841534d StaticDependenciesID=df4e7bfeef9fd11a26118c9ea144a3e3 
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 20
-========================================================================
-Received Import Request.
-  Time of request: 2026-10-24T14:20:52.706783Z
-  Time since last request: 0.0015059 seconds.
-  importAddress: GUID: 9ef95eb74fbef4145bc387e83b897495 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Tower B.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 9ef95eb74fbef4145bc387e83b897495 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Tower B.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 9ef95eb74fbef4145bc387e83b897495' -> (Import Result ID: 'ec6d584d801845671f5b8cbf91fe2b35') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c403ec1d42f0548fa8599ea4ebce3a37 DependenciesID=bebc018c5e883cf7a479e2d1c027446d StaticDependenciesID=7954bde22fd8ee42198412c6126eb049 
+  Time of request: 2026-10-26T20:33:01.6371306Z
+  Time since last request: 0.0002404 seconds.
+  importAddress: GUID: c5897c9078c7e7e469d992cb3031b88f - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Ladder.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c5897c9078c7e7e469d992cb3031b88f - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Ladder.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c5897c9078c7e7e469d992cb3031b88f' -> (Import Result ID: '2073316a4c6d1627cc162347b06bb121') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e28875ce9431bd2c39ae0edc9beaa5af DependenciesID=c4009445bbef651f6e6a403d9073c8b2 StaticDependenciesID=b5825eec4d3b6363b6ea00df992ad087 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 9
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:52.7284042Z
-  Time since last request: 0.0012943 seconds.
-  importAddress: GUID: 6336862f86e872944895b7c5569e9988 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Simple Door Frame.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 6336862f86e872944895b7c5569e9988 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Simple Door Frame.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 6336862f86e872944895b7c5569e9988' -> (Import Result ID: 'cebd191aadbe097099703a8544e119e4') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=01e1ec6a059275b91c6ddf81989fc068 DependenciesID=c452092d0445b546df3d035ce95317af StaticDependenciesID=8799682bebe9fb2516b06c32d3b368b4 
+  Time of request: 2026-10-26T20:33:01.6615686Z
+  Time since last request: 0.0004354 seconds.
+  importAddress: GUID: 3871af28d3a2f954eb5467b2d9d67263 - Path: Assets/StylizedDarkCastle/Textures/tex_brick_normal.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 3871af28d3a2f954eb5467b2d9d67263 - Path: Assets/StylizedDarkCastle/Textures/tex_brick_normal.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 3871af28d3a2f954eb5467b2d9d67263' -> (Import Result ID: 'b5bb6073f038f04582427737ccf1bfd1') in 0.068 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c24a615fbb3f7dbcd5e77460c688fc80 DependenciesID=ad8a35fe70ce6911b21032cc4dbd37dc StaticDependenciesID=a2f02df05eece01558ee5ee04ce30873 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 15
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:52.7503673Z
-  Time since last request: 0.0009586 seconds.
-  importAddress: GUID: 57ef16ee7712da6409e8836bf6001e3c - Path: Assets/Advance Studios/Medieval Castle/Prefabs/House A.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 57ef16ee7712da6409e8836bf6001e3c - Path: Assets/Advance Studios/Medieval Castle/Prefabs/House A.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 57ef16ee7712da6409e8836bf6001e3c' -> (Import Result ID: 'afccc4d76375c3a4617db8be507c4769') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=34e0cda0fcff33924cc90bf1d1c52c47 DependenciesID=87f03dca46cddd224efaf139c81f2541 StaticDependenciesID=e71c155465230697b1329adcfa263041 
+  Time of request: 2026-10-26T20:33:01.7472162Z
+  Time since last request: 0.0010078 seconds.
+  importAddress: GUID: 7d2a40e844450a042b8bbcd7724fe13e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_2x2.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 7d2a40e844450a042b8bbcd7724fe13e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_2x2.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 7d2a40e844450a042b8bbcd7724fe13e' -> (Import Result ID: '448e8d63253a7486e87ed72037240f30') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e4dcef6b2e641ac656aa9b7ba429516f DependenciesID=a67782acddecc2826f78db61f0b5ad3e StaticDependenciesID=e66c1189eed8ec591588a88b53ae32e4 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 32
+Number of asset objects unloaded after import = 9
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:52.7754223Z
-  Time since last request: 0.0006583 seconds.
-  importAddress: GUID: 269887260d31d1041b658681cec01a0e - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Bridge Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 269887260d31d1041b658681cec01a0e - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Bridge Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 269887260d31d1041b658681cec01a0e' -> (Import Result ID: '14f6b64d9150b967e42a64afc365ee67') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=48036a87e0ca88016059ba7ee3df9add DependenciesID=b870c94d3b92cec6b1c2b8fa3435e371 StaticDependenciesID=e38a1f473a1bc980358e641af8b956f1 
+  Time of request: 2026-10-26T20:33:01.7826306Z
+  Time since last request: 0.0015844 seconds.
+  importAddress: GUID: 31b4365eb1b58bd4d907ec083ab41cd0 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Railing_Staircase_Left.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 31b4365eb1b58bd4d907ec083ab41cd0 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Railing_Staircase_Left.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 31b4365eb1b58bd4d907ec083ab41cd0' -> (Import Result ID: 'bcf7ce16c34972cffb60cd025916a6e8') in 0.019 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=05bf0dd0ef43944be74bd24c570dcb1a DependenciesID=78a2eba3b9b29e0c91f7eb555b99c14e StaticDependenciesID=cc775e292d6323e2fb96fcc62d63deec 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 16
+Number of asset objects unloaded after import = 9
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:52.8004625Z
-  Time since last request: 0.0007686 seconds.
-  importAddress: GUID: 0e8152fe58379e843be49840febab4dd - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Bridge Large.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 0e8152fe58379e843be49840febab4dd - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Bridge Large.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 0e8152fe58379e843be49840febab4dd' -> (Import Result ID: 'cb9f64637958f25d8b0775e01787b230') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=949b88b56956a888631b8fe769f1ff60 DependenciesID=addc0df29dc5c73ec297ad636805f8f6 StaticDependenciesID=7cc2ac2c885377a8872caa1d33e93005 
+  Time of request: 2026-10-26T20:33:01.8197987Z
+  Time since last request: 0.0009241 seconds.
+  importAddress: GUID: 1dd556cd7cb83ad4c836d52412c0484f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_MurderHole.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1dd556cd7cb83ad4c836d52412c0484f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_MurderHole.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1dd556cd7cb83ad4c836d52412c0484f' -> (Import Result ID: '2c8ecf9f92107a8813404efacfab6a7f') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ed27224684503806e7c46c420bbea27a DependenciesID=34e03fbb16538ba2f326e078fb2da9f4 StaticDependenciesID=28741c71614024f266d37beb4eb347b0 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 32
+Number of asset objects unloaded after import = 9
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:52.818401Z
-  Time since last request: 0.0005314 seconds.
-  importAddress: GUID: 0b0315988d4640f4f8028117c16b74e1 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Tower A.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 0b0315988d4640f4f8028117c16b74e1 - Path: Assets/Advance Studios/Medieval Castle/Prefabs/Tower A.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 0b0315988d4640f4f8028117c16b74e1' -> (Import Result ID: '4bf37610956f2b180280b111a877da01') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b2b3322c2e7bc5f19af969864374dcdd DependenciesID=a2170fa4913385d29a48a15711b44d5f StaticDependenciesID=b7b7529649396b67602677eec1cf9a15 
+  Time of request: 2026-10-26T20:33:01.8472335Z
+  Time since last request: 0.0007177 seconds.
+  importAddress: GUID: 373628b079aacf4459ff99225744babf - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_NoFloor_Mid.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 373628b079aacf4459ff99225744babf - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_NoFloor_Mid.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 373628b079aacf4459ff99225744babf' -> (Import Result ID: 'c652559f755d7669042ff04550d4efa1') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0ca95a572f64efea7a2ebe0511b0cc43 DependenciesID=92c7eb0e6b6bb68324ec1549b9bac917 StaticDependenciesID=04c3d90fe7ae193f95f6166dba50dd66 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 31
+Number of asset objects unloaded after import = 10
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:20:52.8584946Z
-  Time since last request: 0.0196372 seconds.
-  importAddress: GUID: 92ea0fdec1e3d2b4082219a3842bfe5b - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Prefab/eyebat.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 92ea0fdec1e3d2b4082219a3842bfe5b - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Prefab/eyebat.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 92ea0fdec1e3d2b4082219a3842bfe5b' -> (Import Result ID: 'a1ec1604e49911e5a98128f77801c13d') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=778a91f8dcf614bf27b8bba7e915e921 DependenciesID=f4e1389c54e1857e0b43dd998763a613 StaticDependenciesID=daf323f1d5ed7f6354821c3e0fb97d3f 
+  Time of request: 2026-10-26T20:33:01.872697Z
+  Time since last request: 0.0011274 seconds.
+  importAddress: GUID: 0c127f235b3af294cbe96418fa941628 - Path: Assets/StylizedDarkCastle/Textures/tex_dirt.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 0c127f235b3af294cbe96418fa941628 - Path: Assets/StylizedDarkCastle/Textures/tex_dirt.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 0c127f235b3af294cbe96418fa941628' -> (Import Result ID: '0ba439a65a7ff451c5cbdfc58d846a8c') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1f4892848afc220faf00235384a09312 DependenciesID=4b7400353936d4a7771ed72e7785769c StaticDependenciesID=065074381ce08b5e76625246e98290b4 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 99
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-Refreshing native plugins compatible for Editor in 3.63 ms, found 4 plugins.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 33 unused Assets / (4.2 MB). Loaded Objects now: 7831.
-Memory consumption went from 410.8 MB to 406.5 MB.
-Total: 22.784800 ms (FindLiveObjects: 1.043800 ms CreateObjectMapping: 0.512200 ms MarkObjects: 18.601900 ms  DeleteObjects: 2.033700 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2048 -> 264192
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:21:11.092044Z
-  Time since last request: 18.2068288 seconds.
-  importAddress: GUID: 236df0a5ee228a642849d2fb6276bb84 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/DoorsWindowsTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 236df0a5ee228a642849d2fb6276bb84 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/DoorsWindowsTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 236df0a5ee228a642849d2fb6276bb84' -> (Import Result ID: '183735a968f4072ff1d49f9d69aaffed') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=88bd3c9ade3a442d807539402e0762e1 DependenciesID=7343b703e9c6c1e23b6ef7f55fe019bf StaticDependenciesID=04ee8956b5a6901ae91fe9fccf5a93d4 
+  Time of request: 2026-10-26T20:33:01.9039511Z
+  Time since last request: 0.0006736 seconds.
+  importAddress: GUID: 906c1c903eaa52e43aa5a14b5e2651f9 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Fireplace_Middle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 906c1c903eaa52e43aa5a14b5e2651f9 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Fireplace_Middle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 906c1c903eaa52e43aa5a14b5e2651f9' -> (Import Result ID: '5c43e6a2d3ec41ab9bd4953b185533a6') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=07720b566bc79147f819d9b18a0ff288 DependenciesID=536079446f2358125270d716cf134eb2 StaticDependenciesID=5346e546a9665725c6a3c6accf9322c8 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:01.9317827Z
+  Time since last request: 0.0010195 seconds.
+  importAddress: GUID: e98b32227e8750c4faa51bef15c3c1d7 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Double.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: e98b32227e8750c4faa51bef15c3c1d7 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Bed_Double.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: e98b32227e8750c4faa51bef15c3c1d7' -> (Import Result ID: 'a414c1bbdc1a23916c3d324bd6216e30') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bb1ca6cd6604eed9f06e02567ef3d4c2 DependenciesID=1c1413607b75455370909477d27e5876 StaticDependenciesID=72395c1bb0f4af0d9b687f6a03216234 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:01.9605065Z
+  Time since last request: 0.0006545 seconds.
+  importAddress: GUID: 498eca1c3e0bf4d4dbc4a7b570b12557 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/dirt_1x1.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 498eca1c3e0bf4d4dbc4a7b570b12557 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/dirt_1x1.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 498eca1c3e0bf4d4dbc4a7b570b12557' -> (Import Result ID: 'c758778842ddbd46f0e9c9d0d0de89de') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c3dff3e7eae2d2f5e099fdb2b12f1ac5 DependenciesID=8f238e9d0c802388d592f3eca20012f4 StaticDependenciesID=1f74f4171c69fa02addc97c5ec32d112 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:01.989379Z
+  Time since last request: 0.0009218 seconds.
+  importAddress: GUID: b38714833de55ad44bbb61d80150f1cd - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_2x1.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: b38714833de55ad44bbb61d80150f1cd - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_2x1.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: b38714833de55ad44bbb61d80150f1cd' -> (Import Result ID: '8bdf293a33a32b6e78aa2750e051c632') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=08472b024a60bfca771e98a0864331be DependenciesID=b5c1a90f3a0fb34825a3fdd50fd7f317 StaticDependenciesID=4e62448a6d8938b40a99d3803a9f2ba8 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.0210763Z
+  Time since last request: 0.0005343 seconds.
+  importAddress: GUID: f08ca5b683c1c254dab0baad8b6cdd80 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_1x2.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f08ca5b683c1c254dab0baad8b6cdd80 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_1x2.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f08ca5b683c1c254dab0baad8b6cdd80' -> (Import Result ID: 'aeb7539da7c925ffa012515f0dd63812') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c46a278fcf37fc8672703483f6a88dce DependenciesID=dfe8de8c5a3724c0889a9408cf347c3d StaticDependenciesID=b24b9c4bd8c4493015979506b9ef889d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.0550784Z
+  Time since last request: 0.0011666 seconds.
+  importAddress: GUID: 75c784e640f8d9e478862fac46fc067a - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/HorseStall_Gate.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 75c784e640f8d9e478862fac46fc067a - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/HorseStall_Gate.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 75c784e640f8d9e478862fac46fc067a' -> (Import Result ID: '649dd820b98599658bc7141aaeca7bc6') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e22c097cd1d29575687a080636c2ace8 DependenciesID=47d63f88318210703fb250d228c56365 StaticDependenciesID=5c3a66169b6c40f8316e86c73b98350f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.0845557Z
+  Time since last request: 0.0005055 seconds.
+  importAddress: GUID: 71644a04156aba9468badb0430aa1465 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_Floor_Left.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 71644a04156aba9468badb0430aa1465 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Door_Floor_Left.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 71644a04156aba9468badb0430aa1465' -> (Import Result ID: '560ccc7ff62dd577c4f63eedc5493fbd') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5314f2db419df900e17cf3506aac0e15 DependenciesID=38e6cfd0e1751a3c578368dc3f8c58ac StaticDependenciesID=c8ff1b8556c2aaf4a8a9f02f3e42f322 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.1252156Z
+  Time since last request: 0.0084521 seconds.
+  importAddress: GUID: 075cd84517e03b146b19a02532ce7839 - Path: Assets/StylizedDarkCastle/Textures/tex_brick.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 075cd84517e03b146b19a02532ce7839 - Path: Assets/StylizedDarkCastle/Textures/tex_brick.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 075cd84517e03b146b19a02532ce7839' -> (Import Result ID: 'b3b065203cf18e1d215b97d495f97715') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0b173aea216ac140d23810978e3ae3be DependenciesID=7830a6083e17896a8b29557333b91cd8 StaticDependenciesID=8618af8f7eaa3a9faf309530b8489ec5 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.1579656Z
+  Time since last request: 0.000997 seconds.
+  importAddress: GUID: afbaf94db349f9c448b6b7ded0ba4890 - Path: Assets/StylizedDarkCastle/Models/castleDoors.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: afbaf94db349f9c448b6b7ded0ba4890 - Path: Assets/StylizedDarkCastle/Models/castleDoors.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: afbaf94db349f9c448b6b7ded0ba4890' -> (Import Result ID: 'd2be7123c42f779f236236df7c6af4e3') in 0.036 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8fef5690748cb6009ae6e341b699cee9 DependenciesID=94d77fcc838bdb87e7a2be8a54a4e9d8 StaticDependenciesID=3b638dfc86441671cfec9cfb494212eb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.2139037Z
+  Time since last request: 0.0011639 seconds.
+  importAddress: GUID: 141eb9912c97e0e4083d6335ffefe90b - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Merlons_Corner.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 141eb9912c97e0e4083d6335ffefe90b - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Merlons_Corner.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 141eb9912c97e0e4083d6335ffefe90b' -> (Import Result ID: '24543d5e47143b830f4f952f88137081') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=65bde20d9cb480576fdb4a973cb62f98 DependenciesID=eca689fcf270735489ea40cc2423b02b StaticDependenciesID=c5499a88709d9466b937543dc6f67423 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.2483197Z
+  Time since last request: 0.0008812 seconds.
+  importAddress: GUID: 4d8ef9bedc30c4248b1b432eebb2d1ff - Path: Assets/StylizedDarkCastle/Models/castleModularKit.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 4d8ef9bedc30c4248b1b432eebb2d1ff - Path: Assets/StylizedDarkCastle/Models/castleModularKit.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 4d8ef9bedc30c4248b1b432eebb2d1ff' -> (Import Result ID: 'c78bccd3b7c9fb028e6882de0456a0c3') in 0.087 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=27c14943eb5f86c63ad88574f4b83329 DependenciesID=fd843116ac8db0d3870f82e3c23b66d7 StaticDependenciesID=d06bd8799b5a2dabdff9f34a9420d20c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 279
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.3551461Z
+  Time since last request: 0.0006978 seconds.
+  importAddress: GUID: 4a7467acdad91c6469f10e58193aa78e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Battlement_Corner.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 4a7467acdad91c6469f10e58193aa78e - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Battlement_Corner.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 4a7467acdad91c6469f10e58193aa78e' -> (Import Result ID: '6ce10d050963124e64a0fef40274248a') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2e830cdee254e83d6b4dba78c7c490a1 DependenciesID=ca37b1684ff97f0a5a370bdeaded91b3 StaticDependenciesID=69b81ca4e2d5e6b12f982929ceab4b56 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.3874244Z
+  Time since last request: 0.0006605 seconds.
+  importAddress: GUID: bcd49ac46d0353944b9ab222762acef6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_Z.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: bcd49ac46d0353944b9ab222762acef6 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_Z.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: bcd49ac46d0353944b9ab222762acef6' -> (Import Result ID: 'af2eb41dea5ecf87163ad3f2b06ebd56') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f421a002b7678b727c29f0c51fd3e64e DependenciesID=99199e5383327d248cc6a1cc65d59cab StaticDependenciesID=474f43ddd691fb359b229dbec2336407 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.4185112Z
+  Time since last request: 0.0007608 seconds.
+  importAddress: GUID: 5e6a9c394ddd52c40b0d6fa5853457d6 - Path: Assets/StylizedDarkCastle/Textures - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5e6a9c394ddd52c40b0d6fa5853457d6 - Path: Assets/StylizedDarkCastle/Textures - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5e6a9c394ddd52c40b0d6fa5853457d6' -> (Import Result ID: '5d5832b8c60b0faa3620ffadd186313f') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d15bda9c842e3d274fc55472d9d224ac DependenciesID=f9a7940073410c46aba06004a8a26669 StaticDependenciesID=a57403000b23c685d17029c54d2d3abb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.4409902Z
+  Time since last request: 0.0012702 seconds.
+  importAddress: GUID: d2040aff2c109574e9ee379911937deb - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Roof_Left.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: d2040aff2c109574e9ee379911937deb - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Roof_Left.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: d2040aff2c109574e9ee379911937deb' -> (Import Result ID: '6ce07a33c109a7e7880dfe334340fe6b') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0f16a5936f29962d2df1495a3be9c88f DependenciesID=f75741fd13192c95c234a6a6a8408451 StaticDependenciesID=781cee69aa6674f857b3f9bde144955f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.4676483Z
+  Time since last request: 0.0005165 seconds.
+  importAddress: GUID: b31917135dae5b34fb8c78691fd1b943 - Path: Assets/StylizedDarkCastle/Textures/tex_skybox.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: b31917135dae5b34fb8c78691fd1b943 - Path: Assets/StylizedDarkCastle/Textures/tex_skybox.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: b31917135dae5b34fb8c78691fd1b943' -> (Import Result ID: 'fd54a9dd9510210fd4645c6274c38ce7') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=10919312cbccce997aa35cc529597e30 DependenciesID=98e634d7c0fddee5e97df5b81bc4f63a StaticDependenciesID=d3f1dbe362e30a443fa0c54239c4fc06 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.5717369Z
+  Time since last request: 0.0646891 seconds.
+  importAddress: GUID: ee12c77dab9500f42867b54ba5963745 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Dome_Tiled.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ee12c77dab9500f42867b54ba5963745 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Dome_Tiled.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ee12c77dab9500f42867b54ba5963745' -> (Import Result ID: 'a9d40b6e42c6018c15f1c606400dd49f') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6172bf3c7f327b5df515fb25819f8c35 DependenciesID=1a5d622b58ce0000bd2750a11f23b7cd StaticDependenciesID=118b04a040909bab60a95b1568909d8e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.6121809Z
+  Time since last request: 0.0003558 seconds.
+  importAddress: GUID: e982a6e006c30ae429fdd4b70aef3ff3 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_X_Full.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: e982a6e006c30ae429fdd4b70aef3ff3 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_X_Full.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: e982a6e006c30ae429fdd4b70aef3ff3' -> (Import Result ID: '2f1ba0fae4a0e357a064b6248bc28042') in 0.046 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ff7949659583ead7c00a961cce556181 DependenciesID=8218cd3a1b30f7eb3c2b55cadd2ecefc StaticDependenciesID=db339bcfb8ff0205edc35a60bf2b8fc0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.6838506Z
+  Time since last request: 0.0010849 seconds.
+  importAddress: GUID: 8a8175912e1100249a01c353bd2d25d0 - Path: Assets/StylizedDarkCastle/Textures/tex_dirt_normal.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 8a8175912e1100249a01c353bd2d25d0 - Path: Assets/StylizedDarkCastle/Textures/tex_dirt_normal.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 8a8175912e1100249a01c353bd2d25d0' -> (Import Result ID: 'e4a0a0797b24716b1318d37ed8972ee3') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=82965c3b0dd7713c956bd8fde75c3e6b DependenciesID=2c214aff350ea0eb346cea341c165d89 StaticDependenciesID=381a0796e7047dd1d5ba16e22f1b5851 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.731358Z
+  Time since last request: 0.0006825 seconds.
+  importAddress: GUID: cae284986e0ffae4d9fb68c96f5bc43a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Staircase.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: cae284986e0ffae4d9fb68c96f5bc43a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Staircase.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: cae284986e0ffae4d9fb68c96f5bc43a' -> (Import Result ID: '3fbad7fd4bd491f024bd7d80e822678f') in 0.024 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ab817dd0028cd516c37a0985da425c72 DependenciesID=453ba1f7f71fa7990a6ddc1352827516 StaticDependenciesID=8bf1c210040b24b276cb4025d30d3311 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.7859785Z
+  Time since last request: 0.0008031 seconds.
+  importAddress: GUID: feedecd6d93a82249a2f35bd4a62febe - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Center_Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: feedecd6d93a82249a2f35bd4a62febe - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Center_Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: feedecd6d93a82249a2f35bd4a62febe' -> (Import Result ID: '94de8c1770118d224e1d9a3d8e6e2394') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=35056b8fbcb06c61a82430a015d75a5b DependenciesID=16fb897479129590befdd3ba640228a2 StaticDependenciesID=fd85580e831999c8d48f9aab185c4271 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.8242714Z
+  Time since last request: 0.0011007 seconds.
+  importAddress: GUID: c13643652df14674c944f090f465cbd0 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chair.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c13643652df14674c944f090f465cbd0 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Chair.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c13643652df14674c944f090f465cbd0' -> (Import Result ID: '339735712b46ab135d70fce4671ff012') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=195ee6bb548cd32a6bf4265f1b38a304 DependenciesID=ab4990a8e25ec9f3be73e724e4aed66e StaticDependenciesID=ba381bad8a97cd93d1edf5d252b0689e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.8675087Z
+  Time since last request: 0.0013276 seconds.
+  importAddress: GUID: 28c4bfd94e9d0224e92c8422b189495c - Path: Assets/StylizedDarkCastle/Textures/tex_sheet_interior.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 28c4bfd94e9d0224e92c8422b189495c - Path: Assets/StylizedDarkCastle/Textures/tex_sheet_interior.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 28c4bfd94e9d0224e92c8422b189495c' -> (Import Result ID: 'f897ed0090135bfe3d9e9c971dc44cf3') in 0.015 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9d0daae18baba961193b399f83fa05b6 DependenciesID=32b4f43e3912ead44e7efe8121bed859 StaticDependenciesID=4f9ebd0516c41998928513735f43d84d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.9133168Z
+  Time since last request: 0.0009199 seconds.
+  importAddress: GUID: 88a70b060b791c840acfee0a484a2f87 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Corner_Outer_Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 88a70b060b791c840acfee0a484a2f87 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Corner_Outer_Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 88a70b060b791c840acfee0a484a2f87' -> (Import Result ID: '816de13f78a5c372d1dc2b9e22b2d4b3') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=420501785b6010d84fcb2c54a468972a DependenciesID=84a80cb7a127a536c4a36fa3bcd23fde StaticDependenciesID=756bbc7a6922f14a50c33ae2d1c15738 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:02.9635884Z
+  Time since last request: 0.0007768 seconds.
+  importAddress: GUID: 1f9e4f9a624816346853855ae37cfd9f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Plain.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1f9e4f9a624816346853855ae37cfd9f - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Plain.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1f9e4f9a624816346853855ae37cfd9f' -> (Import Result ID: 'edac2f2f7c6db545bb6705be122fd9dc') in 0.053 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8db222e4e60a0c3c40f738b2c8b6a482 DependenciesID=cb0f2ccbd6ac3dd4f46305e9636c070b StaticDependenciesID=f9f41c3fc4c74f1b67c9e0fc6eab0aa5 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.0418462Z
+  Time since last request: 0.000175 seconds.
+  importAddress: GUID: 1a769eef9a370924c99cd4226961fd60 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Railing_Normal.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1a769eef9a370924c99cd4226961fd60 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Railing_Normal.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1a769eef9a370924c99cd4226961fd60' -> (Import Result ID: '3ffacebfcda1ecd7a1b6aeb816a9b197') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=370670b2cf8982788bbf4c7ddc421230 DependenciesID=e3c6ca1d1ac113ddc0f45ebae1b82137 StaticDependenciesID=584843a18f4d6a07d6363c49ad1ba568 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.105116Z
+  Time since last request: 0.0009188 seconds.
+  importAddress: GUID: 29fb2580315e2f74282ea3544ebbf30a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_3x2_Vaulted.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 29fb2580315e2f74282ea3544ebbf30a - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_3x2_Vaulted.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 29fb2580315e2f74282ea3544ebbf30a' -> (Import Result ID: 'db157e0ea69215acb0851605c06a9881') in 0.025 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=42069aa3da3c54da6f6f349a4590ec24 DependenciesID=b67b1f21aa4ba2296eae8326fe550b0f StaticDependenciesID=578177ada72eee476cd8dfd74e566d59 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 244
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.1615493Z
+  Time since last request: 0.0000717 seconds.
+  importAddress: GUID: 5060ab8aafd5d5d4f84fb36f9e36d39d - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Horse_Water.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5060ab8aafd5d5d4f84fb36f9e36d39d - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Horse_Water.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5060ab8aafd5d5d4f84fb36f9e36d39d' -> (Import Result ID: '42806889013285069c6ca168fc8d7b70') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f71776e30e65390bd96b7c36d20ace37 DependenciesID=f2af409d8de56ff18685afaa7505cbae StaticDependenciesID=545ab50688ef012af0b876968dcb6048 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.2183269Z
+  Time since last request: 0.0013726 seconds.
+  importAddress: GUID: c8544a238108f684184575a08f5569c9 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/WallShelf_Short.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c8544a238108f684184575a08f5569c9 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/WallShelf_Short.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c8544a238108f684184575a08f5569c9' -> (Import Result ID: '2ff96148f6d0d3ef4fc0d22f1135501a') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4beec7ca962f265734879840f015b922 DependenciesID=76e1b28df0f9bd7c78172feb845f7d61 StaticDependenciesID=2490f95453b574b0b70a4bef4d6417bf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.2667153Z
+  Time since last request: 0.0021014 seconds.
+  importAddress: GUID: 5b8050752942e5347bdf47d7d79e53d5 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Gate.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5b8050752942e5347bdf47d7d79e53d5 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Gate.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5b8050752942e5347bdf47d7d79e53d5' -> (Import Result ID: 'daa75ab4f6da983b581d311c19ec7baa') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dd9486d0c5823804a17029252352c0e2 DependenciesID=050fceb156da37173cbffed30ff278ef StaticDependenciesID=2fe0a8f19288769d817fbddfa87b2678 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.3148078Z
+  Time since last request: 0.0011635 seconds.
+  importAddress: GUID: da836254ffb98ea4b8bebfbec93bdfab - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Horse_Food.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: da836254ffb98ea4b8bebfbec93bdfab - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Horse_Food.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: da836254ffb98ea4b8bebfbec93bdfab' -> (Import Result ID: 'd5d7ace9a81c376122793c1f2d5e97b6') in 0.023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ba86a1dd72102ee06526258bd5363ebc DependenciesID=40280dbd68d54d0955c9134e058b22a2 StaticDependenciesID=6e697e920f8803965d69320fc35812f0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.3687991Z
+  Time since last request: 0.0010123 seconds.
+  importAddress: GUID: b141ffcfe9309514680380d37d0f5f39 - Path: Assets/StylizedDarkCastle/Textures/tex_wood_normal.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: b141ffcfe9309514680380d37d0f5f39 - Path: Assets/StylizedDarkCastle/Textures/tex_wood_normal.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: b141ffcfe9309514680380d37d0f5f39' -> (Import Result ID: '174574c9e721934bba37ea5903fe9915') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87830cf717e07e9ce024e7cc72a95a2e DependenciesID=bfc2b4b5fa875de500f0be386b5fffce StaticDependenciesID=07d87deeabe6350398c764155fd20e8d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.4114512Z
+  Time since last request: 0.001666 seconds.
+  importAddress: GUID: ee4c3be4c870275458a2307674550804 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Crate.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ee4c3be4c870275458a2307674550804 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Crate.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ee4c3be4c870275458a2307674550804' -> (Import Result ID: 'e5832b77417ec7fb8df6ddc6e46ccb47') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cc020f298127b041aea5107057c42713 DependenciesID=37f86b00c18f04c268eaead93a3ad9ca StaticDependenciesID=4d79bb6344bfec6d099a78c8019ab9fd 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.4633472Z
+  Time since last request: 0.0015685 seconds.
+  importAddress: GUID: 91d0bc1a036c4114d8fe2fd542dfb7a7 - Path: Assets/StylizedDarkCastle/Materials/mat_brick.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 91d0bc1a036c4114d8fe2fd542dfb7a7 - Path: Assets/StylizedDarkCastle/Materials/mat_brick.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 91d0bc1a036c4114d8fe2fd542dfb7a7' -> (Import Result ID: '8bd78138fa820a4ab734f3bb8d4d6c92') in 0.119 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9f01810aedd6c53ebcc65b0810da663b DependenciesID=a9e123bbcc5f83138fab9065feffb3a8 StaticDependenciesID=6a55a69e5b40e4d9e0dcaaab44481774 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:21:11.1192258Z
-  Time since last request: 0.0015243 seconds.
-  importAddress: GUID: 8aca31866cffc3847a8939b8d58b2bc0 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Mesh/Materials/eye2.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 8aca31866cffc3847a8939b8d58b2bc0 - Path: Assets/TAZO_3D_C/Creature/Egg_Minions/eyeball/Mesh/Materials/eye2.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 8aca31866cffc3847a8939b8d58b2bc0' -> (Import Result ID: 'a32c00128e6794c9b1f075b00763c957') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a801c15299cf1df852681dee4d93bc80 DependenciesID=6a7c5b15e74d9c016e3298c3a836114b StaticDependenciesID=1bc05c7fc26f08bba4293c47fd7da1e5 
+  Time of request: 2026-10-26T20:33:03.6144442Z
+  Time since last request: 0.0012496 seconds.
+  importAddress: GUID: cddaf0af6f41ecf44a5cef15e5e8a417 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_StoneTiled.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: cddaf0af6f41ecf44a5cef15e5e8a417 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_StoneTiled.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: cddaf0af6f41ecf44a5cef15e5e8a417' -> (Import Result ID: '4bca0dac4ab647be68d429e97d5de199') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9a6d5dc4b048fafa7517ab2b95392694 DependenciesID=d80f564d52406b6ddc9c2bf64b399125 StaticDependenciesID=4ebbbaaa03744218ca9c6b4589dc8a34 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 119
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:21:11.1503086Z
-  Time since last request: 0.0008656 seconds.
-  importAddress: GUID: da9a573d7a0024a4d918df62e1720a31 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleWallTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: da9a573d7a0024a4d918df62e1720a31 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleWallTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: da9a573d7a0024a4d918df62e1720a31' -> (Import Result ID: 'f8e25bffff127b324dad84d1bdcdc3b4') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=711d9623391e0c7571597e2ac83fa138 DependenciesID=4c777281343dd01d8dbbac73f952864d StaticDependenciesID=95f4a44a030795fcd572fd5ab0d24aaf 
+  Time of request: 2026-10-26T20:33:03.6623054Z
+  Time since last request: 0.0012501 seconds.
+  importAddress: GUID: 965c27119121a3b40992093e19886ef2 - Path: Assets/StylizedDarkCastle/DemoScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 965c27119121a3b40992093e19886ef2 - Path: Assets/StylizedDarkCastle/DemoScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 965c27119121a3b40992093e19886ef2' -> (Import Result ID: '3ca611472fb399d39569ce8b6e576ef9') in 0.061 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f8bd34414dcb91b99d02c2fda2d5219e DependenciesID=c53e7bf138ae11df6ea8f77799273e90 StaticDependenciesID=84910a84b690ebbf61fc49910bf557fd 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:21:11.1779081Z
-  Time since last request: 0.0007797 seconds.
-  importAddress: GUID: 181cebfd5be393846848e4410aae15bc - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CasaBTextura.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 181cebfd5be393846848e4410aae15bc - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CasaBTextura.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 181cebfd5be393846848e4410aae15bc' -> (Import Result ID: 'ca476bb9c385d689a28cfa67f58cad8d') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5b101ba68728884b7a13dcd1769d0407 DependenciesID=6662fdb22ac1e64dd2ec25025a186534 StaticDependenciesID=3827dd526c970d04b41e88e87777d9e4 
+  Time of request: 2026-10-26T20:33:03.7570555Z
+  Time since last request: 0.0016854 seconds.
+  importAddress: GUID: 0d479c4eb82b5514281615a8c31c42e2 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_Vaulted.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 0d479c4eb82b5514281615a8c31c42e2 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartsRooms/Room_4x3_Vaulted.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 0d479c4eb82b5514281615a8c31c42e2' -> (Import Result ID: 'f5a5ba1aeab36d480500dbf856fe41f5') in 0.021 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=10bab69a2876cbb0e2f539f137cfa3c4 DependenciesID=b34fd31626ce7b407cf822ac7b367678 StaticDependenciesID=05dd945a382bba23b72a391fb89948a6 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 394
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:21:11.203626Z
-  Time since last request: 0.0010175 seconds.
-  importAddress: GUID: 2c198d9e37e61244498aa9d1ab419899 - Path: Assets/Advance Studios/Medieval Castle/Art/Floor.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 2c198d9e37e61244498aa9d1ab419899 - Path: Assets/Advance Studios/Medieval Castle/Art/Floor.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 2c198d9e37e61244498aa9d1ab419899' -> (Import Result ID: 'e499ba0984accf854ce42780dda1bc51') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9457c97fd9d1215a5ed7d26c2dbd6037 DependenciesID=5d0d8a7c4c2eaea392327c45f3f25e22 StaticDependenciesID=bcaee39d6fb4f810bc6afbf06445385e 
+  Time of request: 2026-10-26T20:33:03.805984Z
+  Time since last request: 0.0004298 seconds.
+  importAddress: GUID: 1533708945838c844b2f6ccbdaa76481 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_1x1.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1533708945838c844b2f6ccbdaa76481 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Stone_1x1.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1533708945838c844b2f6ccbdaa76481' -> (Import Result ID: '3832c4e4933e91585c311a3c618149a1') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ae8f26b1e4be212c9059b05a7041df73 DependenciesID=5f265ca94193d5cf45fce050400d8188 StaticDependenciesID=b6bb0f32bdadbb17eb1220a69595031e 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 9
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:21:11.2259415Z
-  Time since last request: 0.0007789 seconds.
-  importAddress: GUID: 31a4673ea55360d46b2b47bdbef014d1 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: 31a4673ea55360d46b2b47bdbef014d1 - Path: Assets/Advance Studios/Medieval Castle/Art/Model/Materials/CastleTexture.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: 31a4673ea55360d46b2b47bdbef014d1' -> (Import Result ID: '9cf83f4aadd09b3783b4b354a5ec5871') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3c923ee7cc1544bd6f7971b8b498a12a DependenciesID=5767ce9cf9737cbb75470e18b814fed5 StaticDependenciesID=ebf98778d66452510125fafb9a95f640 
+  Time of request: 2026-10-26T20:33:03.8582522Z
+  Time since last request: 0.0009074 seconds.
+  importAddress: GUID: 939e0852d75aa94429a656c073ce0516 - Path: Assets/StylizedDarkCastle/Textures/tex_floorTile.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 939e0852d75aa94429a656c073ce0516 - Path: Assets/StylizedDarkCastle/Textures/tex_floorTile.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 939e0852d75aa94429a656c073ce0516' -> (Import Result ID: '24391e874ba5ac2d0ad35360d9e1e039') in 0.025 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=04833261b22c1cf366cc6f38662197a6 DependenciesID=29c38d82930260fd658f16641361b2e6 StaticDependenciesID=f79df0cef8194444b7f83fb42ea93db0 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time of request: 2026-10-24T14:21:11.2500568Z
-  Time since last request: 0.0008902 seconds.
-  importAddress: GUID: d2c8f925eb40c4748811efdd803f25c6 - Path: Assets/Stylized_Astronaut/Character/Materials/Yellow_Mat.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
-Importing 'GUID: d2c8f925eb40c4748811efdd803f25c6 - Path: Assets/Stylized_Astronaut/Character/Materials/Yellow_Mat.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
-Imported 'GUID: d2c8f925eb40c4748811efdd803f25c6' -> (Import Result ID: '6734808c0c52db198f011933ba642c04') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9a0fbbfe0ba971b9bf031de59451d14c DependenciesID=a65569c92fc096db85b5c6d6266a7919 StaticDependenciesID=7a0b32731d16c69f785a069fe0b90f44 
+  Time of request: 2026-10-26T20:33:03.9163Z
+  Time since last request: 0.0016056 seconds.
+  importAddress: GUID: dd18751111f4cfa43800c9a702eb2fca - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_X.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: dd18751111f4cfa43800c9a702eb2fca - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Floor_Wood_StairTop_X.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: dd18751111f4cfa43800c9a702eb2fca' -> (Import Result ID: '096030a44b7bc243789d3d17fab18564') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=055433bb4e3eb3b6507c01d8470e6685 DependenciesID=836cb6c03856725bb187a295b4145c89 StaticDependenciesID=647445d48698a4aff1a4a6244c4869a5 
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:03.9671516Z
+  Time since last request: 0.0010444 seconds.
+  importAddress: GUID: f28fec6fe4358ea4ab048dd517fe8fe2 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Barrel_Stack.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f28fec6fe4358ea4ab048dd517fe8fe2 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Barrel_Stack.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f28fec6fe4358ea4ab048dd517fe8fe2' -> (Import Result ID: '1f1fc4db86cf998fe4310b7475f45d11') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=94a72c90135003c63d95273f1431735a DependenciesID=6b36db7bd8db03ec8f94503a2e45c768 StaticDependenciesID=69e98c701002e26ac27edbc7083f3c18 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:04.0089429Z
+  Time since last request: 0.0012253 seconds.
+  importAddress: GUID: 53c327c192a0237428012fcabc6f6c66 - Path: Assets/StylizedDarkCastle/Materials - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 53c327c192a0237428012fcabc6f6c66 - Path: Assets/StylizedDarkCastle/Materials - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 53c327c192a0237428012fcabc6f6c66' -> (Import Result ID: '8b8668fd81c0c3887e99cd58360dee38') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a2bc7cd15b819a2076b91b54142e4b36 DependenciesID=9940dcda2d1c411a07aca2b8c4b9cae6 StaticDependenciesID=ff45dc317fa8206d072e3c53f30daec0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:04.0755036Z
+  Time since last request: 0.029743 seconds.
+  importAddress: GUID: 196d3db31abf71f46aff80521dfebb04 - Path: Assets/StylizedDarkCastle/Textures/tex_floorTile_normal.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 196d3db31abf71f46aff80521dfebb04 - Path: Assets/StylizedDarkCastle/Textures/tex_floorTile_normal.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 196d3db31abf71f46aff80521dfebb04' -> (Import Result ID: '52c74d75d7661a0f9951ab8706e14ae5') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5d673784a0ff7ca87698b5409293a08f DependenciesID=5a1fe2adffab68001b1d54f28f533bac StaticDependenciesID=6347a54fa8d48b52a900ffbe1fb30894 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:04.1242162Z
+  Time since last request: 0.0008609 seconds.
+  importAddress: GUID: 598e396bf87e42a4d938080e83b417fa - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 598e396bf87e42a4d938080e83b417fa - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 598e396bf87e42a4d938080e83b417fa' -> (Import Result ID: 'b598c9c91869a6710cc93e9ccc4f5ef0') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6baf6d15b2f9c489197859b638a470b4 DependenciesID=cdeb61c10f0ea07f75f31d7b2a72a79b StaticDependenciesID=5d33602a39c95722192168dd24830b5f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:04.1612787Z
+  Time since last request: 0.0011901 seconds.
+  importAddress: GUID: 71fa7b29265bb5f4fad5f8be5eb88d28 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Window.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 71fa7b29265bb5f4fad5f8be5eb88d28 - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Window.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 71fa7b29265bb5f4fad5f8be5eb88d28' -> (Import Result ID: 'ea10558adf265c1e9ecf6b741d0eb0c3') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4dc50a75f8eb392b4e8e06024eb870c7 DependenciesID=0f7570daf1df0b27e8fa64a6a2a4d104 StaticDependenciesID=2117312e8da2666deb4c88994e20a983 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:04.2019079Z
+  Time since last request: 0.001043 seconds.
+  importAddress: GUID: 8690b0b6a153d23498614afbea9365dc - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Left_Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 8690b0b6a153d23498614afbea9365dc - Path: Assets/StylizedDarkCastle/Prefabs/CastlePartBase/Wall_Roof_Left_Small.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 8690b0b6a153d23498614afbea9365dc' -> (Import Result ID: 'a4f25ef37a8488469e15f61ea2a82630') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7c4db86fc793461b2f5bd470a2c0c64f DependenciesID=cb13241cc607db1ae2309811168db86e StaticDependenciesID=c1eabb8a46c03c5612dfe394d05cf917 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:33:04.2399221Z
+  Time since last request: 0.0008689 seconds.
+  importAddress: GUID: ca22afa6681c67b41a83ba17ea999b28 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Door_Single.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ca22afa6681c67b41a83ba17ea999b28 - Path: Assets/StylizedDarkCastle/Prefabs/CastleInterior/Door_Single.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ca22afa6681c67b41a83ba17ea999b28' -> (Import Result ID: '2dab53c93a0f7b86060abbe154c6ee45') in 0.021 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9d7714eda5d2784bd6ebf0adc1d7ad86 DependenciesID=47880bf51ee70ca1d47b4a1e95f4db7c StaticDependenciesID=c3530861f899ef0f25414d91f99e3ef2 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AcceleratorClientConnectionCallback - disconnected - :0
 AssetImportWorker is now disconnected from the server

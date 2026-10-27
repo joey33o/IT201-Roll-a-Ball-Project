@@ -19,5 +19,57 @@ Initialising UDS system complete:
   - Command buffer size: 8192
   - Hashmap size: 4194304
 Starting Unity Data Store Application
+[Error] Failed to remove data for hash bd7afb6f3cc112d313a32f3bea732bf4. Failure received from service
+0x00007ff6554dae45 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff65549f835 (Unity.DataStore) uds_cleanup
+0x00007ff65548edbf (Unity.DataStore) 
+0x00007ff65549000d (Unity.DataStore) 
+0x00007ff6554772e5 (Unity.DataStore) 
+0x00007ff65547676a (Unity.DataStore) 
+0x00007ff655476a4f (Unity.DataStore) 
+0x00007ff6554728b5 (Unity.DataStore) 
+0x00007ff6554f68c4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb25a4dda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb27a5ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 888744b508b072fcba3d078fc34fc652. Failure received from service
+0x00007ff6554dae45 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff65549f835 (Unity.DataStore) uds_cleanup
+0x00007ff65548edbf (Unity.DataStore) 
+0x00007ff65549000d (Unity.DataStore) 
+0x00007ff6554772e5 (Unity.DataStore) 
+0x00007ff65547676a (Unity.DataStore) 
+0x00007ff655476a4f (Unity.DataStore) 
+0x00007ff6554728b5 (Unity.DataStore) 
+0x00007ff6554f68c4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb25a4dda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb27a5ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 888744b508b072fcba3d078fc34fc652. Failure received from service
+0x00007ff6554dae45 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff65549f835 (Unity.DataStore) uds_cleanup
+0x00007ff65548edbf (Unity.DataStore) 
+0x00007ff65549000d (Unity.DataStore) 
+0x00007ff6554772e5 (Unity.DataStore) 
+0x00007ff65547676a (Unity.DataStore) 
+0x00007ff655476a4f (Unity.DataStore) 
+0x00007ff6554728b5 (Unity.DataStore) 
+0x00007ff6554f68c4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb25a4dda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb27a5ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 888744b508b072fcba3d078fc34fc652. Failure received from service
+0x00007ff6554dae45 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff65549f835 (Unity.DataStore) uds_cleanup
+0x00007ff65548edbf (Unity.DataStore) 
+0x00007ff65549000d (Unity.DataStore) 
+0x00007ff6554772e5 (Unity.DataStore) 
+0x00007ff65547676a (Unity.DataStore) 
+0x00007ff655476a4f (Unity.DataStore) 
+0x00007ff6554728b5 (Unity.DataStore) 
+0x00007ff6554f68c4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb25a4dda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb27a5ee4c (ntdll) RtlUserThreadStart
+
 Unity Data Store Application Complete
 Shut down UDS service system complete

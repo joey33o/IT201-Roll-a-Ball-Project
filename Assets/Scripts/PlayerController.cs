@@ -16,6 +16,8 @@ public class PlayerController : MonoBehaviour
     private Transform player;
     private Transform respawnpoint;
 
+    public bool isPaused;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -23,6 +25,7 @@ public class PlayerController : MonoBehaviour
     count = 0;
     SetCountText();
     winTextObject.SetActive(false);
+    isPaused = false;
     }
     
      void FixedUpdate() 
@@ -39,8 +42,22 @@ public class PlayerController : MonoBehaviour
     {
         rb.AddForce(transform.forward * shiftForce);
     }
+
+    if (Input.GetKeyDown(KeyCode.P))
+    {
+        // Toggle the pause state
+        if (isPaused) // if game is paused 
+        {
+            Time.timeScale = 1f; // resume the game
+            isPaused = false;
+        }
+        else
+        {
+            Time.timeScale = 0f; // pause the game
+            isPaused = true;
+        }
    }
-      
+   }   
     
 
 

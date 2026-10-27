@@ -1,22 +1,22 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima" at "2026-10-24T15:46:23.4870971Z"
 Built from '6000.6/staging' branch; Version is '6000.6.2f1 (770e33f6875c) revision 7802419'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima" at "2026-10-26T20:39:49.2326387Z"
 OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 15892 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
 System  architecture: x64
 Process architecture: x64
-Date: 2026-10-24T15:46:23Z
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 34624, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+Date: 2026-10-26T20:39:49Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 4280, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
 [Licensing::Module] LicensingClient has failed validation; ignoring
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.18.3+d7ffd15
-  Session Id:              c181bfcb5e3b49b3a4b180d15dc600dd
-  Correlation Id:          03e4c9578768130b40e114f1d2663753
-  External correlation Id: 7120736510952868879
+  Session Id:              3dd6559325b04d38aac6be0fa7f76e1a
+  Correlation Id:          f4c0aae30be91ae525a98b7cd8d083f0
+  External correlation Id: 2421397121436403464
   Machine Id:              ZKKM2ZeYzcrC9nKecvcZNepNPWU=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-anima" (connect: 0.00s, validation: 0.01s, handshake: 0.08s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima-notifications" at "2026-10-24T15:46:23.582226Z"
-[Licensing::Module] Licensing Background thread has ended after 0.10s
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-anima" (connect: 0.00s, validation: 0.00s, handshake: 0.08s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-anima-notifications" at "2026-10-26T20:39:49.3128441Z"
+[Licensing::Module] Licensing Background thread has ended after 0.08s
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Unity.exe
@@ -30,9 +30,9 @@ C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
 -logFile
 Logs/AssetImportWorkerHW6.log
 -srvPort
-58710
+51583
 -parentPid
-39208
+30768
 -analyticsCloudUserId
 2476052291768
 -analyticsCloudProjectId
@@ -96,16 +96,14 @@ C:/Users/anima/OneDrive/Desktop/Unity-Projects/Roll-a-Ball
     "memorysetup-job-temp-allocator-block-size=2097152"
     "memorysetup-job-temp-allocator-block-size-background=1048576"
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
-Player connection [35336]  Target information:
+Player connection [8856]  Target information:
 
-Player connection [35336]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2494805183 [EditorId] 2494805183 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [8856]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2631557921 [EditorId] 2631557921 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [35336]  * "[IP] 172.18.240.1 [Port] 0 [Flags] 2 [Guid] 2494805183 [EditorId] 2494805183 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [8856]  * "[IP] 192.168.1.161 [Port] 0 [Flags] 2 [Guid] 2631557921 [EditorId] 2631557921 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [35336]  * "[IP] 192.168.1.161 [Port] 0 [Flags] 2 [Guid] 2494805183 [EditorId] 2494805183 [Version] 1048832 [Id] WindowsEditor(7,Lunar) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Player connection [35336] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [35336] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [8856] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8856] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 10
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -130,7 +128,7 @@ Active build profile path: `Assets/Settings/Build Profiles/Web.asset`
 Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `m_BuildTarget`, value `20`
 Got setting from build profile YAML, name `m_Subtarget`, value `0`
-Refreshing native plugins compatible for Editor in 95.12 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 11.78 ms, found 4 plugins.
 Initialize engine version: 6000.6.2f1 (770e33f6875c)
 [EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Resources/UnitySubsystems
@@ -445,13 +443,13 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
 Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
 CodeReloadManager initialized
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007620 seconds.
+Registered in 0.007969 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
@@ -594,25 +592,24 @@ Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `Color Space`, value `1`
 Got setting from build profile YAML, name `Color Space`, value `1`
 Scripting: successfully reloaded assembly
-- Finished resetting the current domain, in  1.307 seconds
-Domain Reload Profiling: 2606ms
-	BeginReloadAssembly (322ms)
-		CreateAndSetChildDomain (3ms)
-	RebuildCommonClasses (11ms)
-	RebuildNativeTypeToScriptingClass (32ms)
-	initialDomainReloadingComplete (210ms)
-	LoadAllAssembliesAndSetupDomain (722ms)
-		LoadAssemblies (313ms)
-		TypeCache.Refresh (487ms)
-			TypeCache.ScanAssembly (456ms)
-		AnalyzeDomain (1ms)
-	FinalizeReload (1309ms)
+- Finished resetting the current domain, in  2.173 seconds
+Domain Reload Profiling: 3805ms
+	BeginReloadAssembly (286ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (187ms)
+	LoadAllAssembliesAndSetupDomain (1118ms)
+		LoadAssemblies (274ms)
+		TypeCache.Refresh (679ms)
+			TypeCache.ScanAssembly (630ms)
+		AnalyzeDomain (3ms)
+	FinalizeReload (2178ms)
 		SetupLoadedEditorAssemblies (0ms)
-			LogAssemblyErrors (3ms)
-			InitializePlatformSupportModulesInManaged (5ms)
-			BeforeProcessingInitializeOnLoad (210ms)
-			ProcessInitializeOnLoadAttributes (205ms)
-			ProcessInitializeOnLoadMethodAttributes (711ms)
+			LogAssemblyErrors (5ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (355ms)
+			ProcessInitializeOnLoadAttributes (358ms)
+			ProcessInitializeOnLoadMethodAttributes (1117ms)
 Initializing Unity extensions:
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Module] License group:
@@ -628,7 +625,7 @@ Got setting from build profile YAML, name `Color Space`, value `1`
 Begin MonoManager ReloadAssembly
 'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 13.02 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 9.37 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -639,50 +636,78 @@ Native extension for WebGL target not found
 [Package Manager] Cannot connect to Unity Package Manager local server
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Scripting: successfully reloaded assembly
-- Finished resetting the current domain, in  1.659 seconds
-Domain Reload Profiling: 4084ms
-	BeginReloadAssembly (653ms)
-		DisableScriptedObjects (117ms)
-		CreateAndSetChildDomain (65ms)
-	RebuildCommonClasses (18ms)
-	RebuildNativeTypeToScriptingClass (31ms)
-	initialDomainReloadingComplete (154ms)
-	LoadAllAssembliesAndSetupDomain (1566ms)
-		LoadAssemblies (986ms)
-		TypeCache.Refresh (372ms)
-			TypeCache.ScanAssembly (334ms)
-		AnalyzeDomain (182ms)
-			BuildScriptInfoCaches (168ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (1661ms)
+- Finished resetting the current domain, in  1.715 seconds
+Domain Reload Profiling: 3952ms
+	BeginReloadAssembly (543ms)
+		DisableScriptedObjects (44ms)
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (17ms)
+	RebuildNativeTypeToScriptingClass (37ms)
+	initialDomainReloadingComplete (153ms)
+	LoadAllAssembliesAndSetupDomain (1484ms)
+		LoadAssemblies (941ms)
+		TypeCache.Refresh (334ms)
+			TypeCache.ScanAssembly (308ms)
+		AnalyzeDomain (149ms)
+			BuildScriptInfoCaches (138ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1717ms)
 		SetupLoadedEditorAssemblies (0ms)
-			LogAssemblyErrors (4ms)
+			LogAssemblyErrors (3ms)
 			InitializePlatformSupportModulesInManaged (5ms)
-			BeforeProcessingInitializeOnLoad (211ms)
-			ProcessInitializeOnLoadAttributes (639ms)
-			ProcessInitializeOnLoadMethodAttributes (96ms)
-			AfterProcessingInitializeOnLoad (16ms)
-		AwakeInstancesAfterBackupRestoration (42ms)
+			BeforeProcessingInitializeOnLoad (231ms)
+			ProcessInitializeOnLoadAttributes (601ms)
+			ProcessInitializeOnLoadMethodAttributes (130ms)
+			AfterProcessingInitializeOnLoad (42ms)
+			EditorAssembliesLoaded (3ms)
+		AwakeInstancesAfterBackupRestoration (44ms)
 AcceleratorClientConnectionCallback - disconnected - :0
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 3.19 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 9.51 ms, found 4 plugins.
 Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6671 unused Assets / (8.1 MB). Loaded Objects now: 7647.
-Memory consumption went from 358.5 MB to 350.5 MB.
-Total: 22.698900 ms (FindLiveObjects: 2.434300 ms CreateObjectMapping: 1.069700 ms MarkObjects: 12.625600 ms  DeleteObjects: 5.849900 ms)
+Unloading 6671 unused Assets / (7.5 MB). Loaded Objects now: 7647.
+Memory consumption went from 358.3 MB to 350.7 MB.
+Total: 16.649200 ms (FindLiveObjects: 1.134700 ms CreateObjectMapping: 0.523400 ms MarkObjects: 12.154500 ms  DeleteObjects: 2.426900 ms)
 
 ========================================================================
 Received Prepare
 AcceleratorClientConnectionCallback - disconnected - :0
-Refreshing native plugins compatible for Editor in 6.08 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 3.81 ms, found 4 plugins.
 Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 24 unused Assets / (3.0 MB). Loaded Objects now: 7647.
-Memory consumption went from 351.5 MB to 348.4 MB.
-Total: 10.933400 ms (FindLiveObjects: 1.075300 ms CreateObjectMapping: 0.258300 ms MarkObjects: 8.620500 ms  DeleteObjects: 0.504900 ms)
+Unloading 24 unused Assets / (3.1 MB). Loaded Objects now: 7647.
+Memory consumption went from 351.2 MB to 348.1 MB.
+Total: 14.259500 ms (FindLiveObjects: 1.054300 ms CreateObjectMapping: 0.315900 ms MarkObjects: 11.920700 ms  DeleteObjects: 0.506100 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
   graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:41:26.5435629Z
+  Time since last request: 106943.76710599999933 seconds.
+  importAddress: GUID: 1366ad4035282e74d94b1a5b14eb00c5 - Path: Assets/StylizedDarkCastle/Materials/mat_interior.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1366ad4035282e74d94b1a5b14eb00c5 - Path: Assets/StylizedDarkCastle/Materials/mat_interior.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1366ad4035282e74d94b1a5b14eb00c5' -> (Import Result ID: 'b817e58050011a40c05a9d434b2708f2') in 0.235 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a1df5cb1e38145f0a4df3c69ebe7c05f DependenciesID=9149f9b9a779ca20c56ec8cb60a65dec StaticDependenciesID=c021f709ac853d826c1a27a3021e7c82 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:41:26.7931248Z
+  Time since last request: 0.0010224 seconds.
+  importAddress: GUID: a518e611926878e4db6eb287ba696f6e - Path: Assets/StylizedDarkCastle/Materials/mat_dirt.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a518e611926878e4db6eb287ba696f6e - Path: Assets/StylizedDarkCastle/Materials/mat_dirt.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a518e611926878e4db6eb287ba696f6e' -> (Import Result ID: '8ab1dc1986d663b5fbc06c32ee470b42') in 0.023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3856a3d20e8aa8c1a1803d2bd37e8e72 DependenciesID=9650fa15fd265e00b4c615af326c2585 StaticDependenciesID=e89826ef3afc093bdbf63be979e03eeb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-26T20:41:26.8384911Z
+  Time since last request: 0.0010279 seconds.
+  importAddress: GUID: 91d0bc1a036c4114d8fe2fd542dfb7a7 - Path: Assets/StylizedDarkCastle/Materials/mat_brick.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 91d0bc1a036c4114d8fe2fd542dfb7a7 - Path: Assets/StylizedDarkCastle/Materials/mat_brick.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 91d0bc1a036c4114d8fe2fd542dfb7a7' -> (Import Result ID: 'cea9b58e0e28d9f344846563af6f341c') in 0.020 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5021660130fa5445be733a3af5ed70cf DependenciesID=727eaf21011e7dd83ca6e4ee04cdde96 StaticDependenciesID=870994c3cd47afc1bed22e53f24006dc 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AcceleratorClientConnectionCallback - disconnected - :0
 AssetImportWorker is now disconnected from the server

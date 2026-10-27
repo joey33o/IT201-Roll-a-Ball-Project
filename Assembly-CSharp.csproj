@@ -71,6 +71,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\ArcadeGameBGM#3\ReadMe.txt" />
     <None Include="Assets\BOXOPHOBIC\Skybox Cubemap Extended\Core\Shaders\Skybox Cubemap Extended.shader" />
     <None Include="Assets\TAZO_3D_C\Creature\Egg_Minions\Shader\Cartoon_a_without_outline.shader" />
     <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditor.uss" />
